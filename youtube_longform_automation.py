@@ -37,7 +37,7 @@ VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
 TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 60  # Number of phrases to generate
+TARGET_PHRASES = 120
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -272,7 +272,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                     "temperature": 1.0
                 }
 
-                response = requests.post(url, headers=headers, json=payload, timeout=90)
+                response = requests.post(url, headers=headers, json=payload, timeout=180)
                 response.raise_for_status()
 
                 data = response.json()
