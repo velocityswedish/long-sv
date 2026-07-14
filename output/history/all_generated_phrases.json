@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Friendship, is a gift.",
+      "swedish": "Vänskap, är en gåva.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277911"
+    },
+    {
+      "english": "Good friends, are rare.",
+      "swedish": "Goda vänner, är sällsynta.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277920"
+    },
+    {
+      "english": "Share your joys, and sorrows.",
+      "swedish": "Dela din glädje, och sorg.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277921"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "swedish": "Lyssna mer, prata mindre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277922"
+    },
+    {
+      "english": "Be there, for them.",
+      "swedish": "Var där, för dem.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277923"
+    },
+    {
+      "english": "Trust is key, always.",
+      "swedish": "Förtroende är nyckeln, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277924"
+    },
+    {
+      "english": "A true friend, understands.",
+      "swedish": "En sann vän, förstår.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277925"
+    },
+    {
+      "english": "Laughter, shared is doubled.",
+      "swedish": "Skratt, delat dubblas.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277928"
+    },
+    {
+      "english": "Forgive quickly, forget slowly.",
+      "swedish": "Förlåt snabbt, glöm långsamt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277929"
+    },
+    {
+      "english": "Support each other, always.",
+      "swedish": "Stötta varandra, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277932"
+    },
+    {
+      "english": "Small gestures, mean much.",
+      "swedish": "Små gester, betyder mycket.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277933"
+    },
+    {
+      "english": "Honesty, builds strong bonds.",
+      "swedish": "Ärlighet, bygger starka band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277934"
+    },
+    {
+      "english": "Distance, doesn't break ties.",
+      "swedish": "Avstånd, bryter inte band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277935"
+    },
+    {
+      "english": "Be kind, always.",
+      "swedish": "Var snäll, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277936"
+    },
+    {
+      "english": "Celebrate wins, together.",
+      "swedish": "Fira segrar, tillsammans.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277937"
+    },
+    {
+      "english": "Comfort them, in need.",
+      "swedish": "Trösta dem, i nöd.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277938"
+    },
+    {
+      "english": "A friend's heart, is open.",
+      "swedish": "En väns hjärta, är öppet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277939"
+    },
+    {
+      "english": "Cherish your friends, daily.",
+      "swedish": "Vårda dina vänner, dagligen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277940"
+    },
+    {
+      "english": "Be reliable, be there.",
+      "swedish": "Var pålitlig, var där.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277941"
+    },
+    {
+      "english": "Friendship grows, with time.",
+      "swedish": "Vänskap växer, med tid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277942"
+    },
+    {
+      "english": "A good listener, is gold.",
+      "swedish": "En bra lyssnare, är guld.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277943"
+    },
+    {
+      "english": "Share secrets, safely.",
+      "swedish": "Dela hemligheter, tryggt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277944"
+    },
+    {
+      "english": "Don't judge, just accept.",
+      "swedish": "Döm inte, bara acceptera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277945"
+    },
+    {
+      "english": "True friends, stick around.",
+      "swedish": "Sanna vänner, stannar kvar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277946"
+    },
+    {
+      "english": "Make time, for friends.",
+      "swedish": "Gör tid, för vänner.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277947"
+    },
+    {
+      "english": "A kind word, helps.",
+      "swedish": "Ett vänligt ord, hjälper.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277948"
+    },
+    {
+      "english": "Friendship is, connection.",
+      "swedish": "Vänskap är, samhörighet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277949"
+    },
+    {
+      "english": "Be a good friend, first.",
+      "swedish": "Var en bra vän, först.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277949"
+    },
+    {
+      "english": "Never take them, for granted.",
+      "swedish": "Ta dem aldrig, för givet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277950"
+    },
+    {
+      "english": "Happy to have you, friend.",
+      "swedish": "Glad att ha dig, vän.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277952"
+    },
+    {
+      "english": "We're friends, for life.",
+      "swedish": "Vi är vänner, för livet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277953"
+    },
+    {
+      "english": "You're my person, always.",
+      "swedish": "Du är min person, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277954"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "swedish": "Vänskap är, förståelse.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277955"
+    },
+    {
+      "english": "Let's be friends, forever.",
+      "swedish": "Låt oss vara vänner, för alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277956"
+    },
+    {
+      "english": "A friend in need, is helpful.",
+      "swedish": "En vän i nöd, är hjälpsam.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277957"
+    },
+    {
+      "english": "Your friend's success, is yours.",
+      "swedish": "Din väns framgång, är din.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277958"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "swedish": "Bygg broar, inte murar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277959"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "swedish": "Vänskap är, en resa.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277960"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "swedish": "Tillsammans, är vi starkare.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277961"
+    },
+    {
+      "english": "Friends make life, better.",
+      "swedish": "Vänner gör livet, bättre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277962"
+    },
+    {
+      "english": "Friendship, is a gift.",
+      "swedish": "Vänskap, är en gåva.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277963"
+    },
+    {
+      "english": "Good friends, are rare.",
+      "swedish": "Goda vänner, är sällsynta.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277964"
+    },
+    {
+      "english": "Share your joys, and sorrows.",
+      "swedish": "Dela din glädje, och sorg.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277966"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "swedish": "Lyssna mer, prata mindre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277967"
+    },
+    {
+      "english": "Be there, for them.",
+      "swedish": "Var där, för dem.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277968"
+    },
+    {
+      "english": "Trust is key, always.",
+      "swedish": "Förtroende är nyckeln, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277969"
+    },
+    {
+      "english": "A true friend, understands.",
+      "swedish": "En sann vän, förstår.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277970"
+    },
+    {
+      "english": "Laughter, shared is doubled.",
+      "swedish": "Skratt, delat dubblas.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277971"
+    },
+    {
+      "english": "Forgive quickly, forget slowly.",
+      "swedish": "Förlåt snabbt, glöm långsamt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277972"
+    },
+    {
+      "english": "Support each other, always.",
+      "swedish": "Stötta varandra, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277973"
+    },
+    {
+      "english": "Small gestures, mean much.",
+      "swedish": "Små gester, betyder mycket.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277974"
+    },
+    {
+      "english": "Honesty, builds strong bonds.",
+      "swedish": "Ärlighet, bygger starka band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277975"
+    },
+    {
+      "english": "Distance, doesn't break ties.",
+      "swedish": "Avstånd, bryter inte band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277975"
+    },
+    {
+      "english": "Be kind, always.",
+      "swedish": "Var snäll, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277976"
+    },
+    {
+      "english": "Celebrate wins, together.",
+      "swedish": "Fira segrar, tillsammans.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277977"
+    },
+    {
+      "english": "Comfort them, in need.",
+      "swedish": "Trösta dem, i nöd.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277978"
+    },
+    {
+      "english": "A friend's heart, is open.",
+      "swedish": "En väns hjärta, är öppet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277979"
+    },
+    {
+      "english": "Cherish your friends, daily.",
+      "swedish": "Vårda dina vänner, dagligen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277980"
+    },
+    {
+      "english": "Be reliable, be there.",
+      "swedish": "Var pålitlig, var där.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277981"
+    },
+    {
+      "english": "Friendship grows, with time.",
+      "swedish": "Vänskap växer, med tid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277981"
+    },
+    {
+      "english": "A good listener, is gold.",
+      "swedish": "En bra lyssnare, är guld.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277982"
+    },
+    {
+      "english": "Share secrets, safely.",
+      "swedish": "Dela hemligheter, tryggt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277983"
+    },
+    {
+      "english": "Don't judge, just accept.",
+      "swedish": "Döm inte, bara acceptera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277984"
+    },
+    {
+      "english": "True friends, stick around.",
+      "swedish": "Sanna vänner, stannar kvar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277985"
+    },
+    {
+      "english": "Make time, for friends.",
+      "swedish": "Gör tid, för vänner.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277986"
+    },
+    {
+      "english": "A kind word, helps.",
+      "swedish": "Ett vänligt ord, hjälper.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277987"
+    },
+    {
+      "english": "Friendship is, connection.",
+      "swedish": "Vänskap är, samhörighet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277987"
+    },
+    {
+      "english": "Be a good friend, first.",
+      "swedish": "Var en bra vän, först.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277988"
+    },
+    {
+      "english": "Never take them, for granted.",
+      "swedish": "Ta dem aldrig, för givet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277989"
+    },
+    {
+      "english": "Happy to have you, friend.",
+      "swedish": "Glad att ha dig, vän.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277990"
+    },
+    {
+      "english": "We're friends, for life.",
+      "swedish": "Vi är vänner, för livet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277991"
+    },
+    {
+      "english": "You're my person, always.",
+      "swedish": "Du är min person, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277991"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "swedish": "Vänskap är, förståelse.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277992"
+    },
+    {
+      "english": "Let's be friends, forever.",
+      "swedish": "Låt oss vara vänner, för alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277993"
+    },
+    {
+      "english": "A friend in need, is helpful.",
+      "swedish": "En vän i nöd, är hjälpsam.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277996"
+    },
+    {
+      "english": "Your friend's success, is yours.",
+      "swedish": "Din väns framgång, är din.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277996"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "swedish": "Bygg broar, inte murar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277997"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "swedish": "Vänskap är, en resa.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277998"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "swedish": "Tillsammans, är vi starkare.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.277999"
+    },
+    {
+      "english": "Friends make life, better.",
+      "swedish": "Vänner gör livet, bättre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278000"
+    },
+    {
+      "english": "Friendship, is a gift.",
+      "swedish": "Vänskap, är en gåva.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278002"
+    },
+    {
+      "english": "Good friends, are rare.",
+      "swedish": "Goda vänner, är sällsynta.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278003"
+    },
+    {
+      "english": "Share your joys, and sorrows.",
+      "swedish": "Dela din glädje, och sorg.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278003"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "swedish": "Lyssna mer, prata mindre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278004"
+    },
+    {
+      "english": "Be there, for them.",
+      "swedish": "Var där, för dem.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278005"
+    },
+    {
+      "english": "Trust is key, always.",
+      "swedish": "Förtroende är nyckeln, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278006"
+    },
+    {
+      "english": "A true friend, understands.",
+      "swedish": "En sann vän, förstår.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278006"
+    },
+    {
+      "english": "Laughter, shared is doubled.",
+      "swedish": "Skratt, delat dubblas.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278007"
+    },
+    {
+      "english": "Forgive quickly, forget slowly.",
+      "swedish": "Förlåt snabbt, glöm långsamt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278008"
+    },
+    {
+      "english": "Support each other, always.",
+      "swedish": "Stötta varandra, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278009"
+    },
+    {
+      "english": "Small gestures, mean much.",
+      "swedish": "Små gester, betyder mycket.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278009"
+    },
+    {
+      "english": "Honesty, builds strong bonds.",
+      "swedish": "Ärlighet, bygger starka band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278010"
+    },
+    {
+      "english": "Distance, doesn't break ties.",
+      "swedish": "Avstånd, bryter inte band.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278011"
+    },
+    {
+      "english": "Be kind, always.",
+      "swedish": "Var snäll, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278011"
+    },
+    {
+      "english": "Celebrate wins, together.",
+      "swedish": "Fira segrar, tillsammans.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278012"
+    },
+    {
+      "english": "Comfort them, in need.",
+      "swedish": "Trösta dem, i nöd.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278013"
+    },
+    {
+      "english": "A friend's heart, is open.",
+      "swedish": "En väns hjärta, är öppet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278014"
+    },
+    {
+      "english": "Cherish your friends, daily.",
+      "swedish": "Vårda dina vänner, dagligen.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278014"
+    },
+    {
+      "english": "Be reliable, be there.",
+      "swedish": "Var pålitlig, var där.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278015"
+    },
+    {
+      "english": "Friendship grows, with time.",
+      "swedish": "Vänskap växer, med tid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278016"
+    },
+    {
+      "english": "A good listener, is gold.",
+      "swedish": "En bra lyssnare, är guld.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278017"
+    },
+    {
+      "english": "Share secrets, safely.",
+      "swedish": "Dela hemligheter, tryggt.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278017"
+    },
+    {
+      "english": "Don't judge, just accept.",
+      "swedish": "Döm inte, bara acceptera.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278018"
+    },
+    {
+      "english": "True friends, stick around.",
+      "swedish": "Sanna vänner, stannar kvar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278019"
+    },
+    {
+      "english": "Make time, for friends.",
+      "swedish": "Gör tid, för vänner.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278019"
+    },
+    {
+      "english": "A kind word, helps.",
+      "swedish": "Ett vänligt ord, hjälper.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278022"
+    },
+    {
+      "english": "Friendship is, connection.",
+      "swedish": "Vänskap är, samhörighet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278022"
+    },
+    {
+      "english": "Be a good friend, first.",
+      "swedish": "Var en bra vän, först.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278023"
+    },
+    {
+      "english": "Never take them, for granted.",
+      "swedish": "Ta dem aldrig, för givet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278024"
+    },
+    {
+      "english": "Happy to have you, friend.",
+      "swedish": "Glad att ha dig, vän.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278025"
+    },
+    {
+      "english": "We're friends, for life.",
+      "swedish": "Vi är vänner, för livet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278025"
+    },
+    {
+      "english": "You're my person, always.",
+      "swedish": "Du är min person, alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278026"
+    },
+    {
+      "english": "Friendship is, understanding.",
+      "swedish": "Vänskap är, förståelse.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278027"
+    },
+    {
+      "english": "Let's be friends, forever.",
+      "swedish": "Låt oss vara vänner, för alltid.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278028"
+    },
+    {
+      "english": "A friend in need, is helpful.",
+      "swedish": "En vän i nöd, är hjälpsam.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278028"
+    },
+    {
+      "english": "Your friend's success, is yours.",
+      "swedish": "Din väns framgång, är din.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278029"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "swedish": "Bygg broar, inte murar.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278030"
+    },
+    {
+      "english": "Friendship is, a journey.",
+      "swedish": "Vänskap är, en resa.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278030"
+    },
+    {
+      "english": "Together, we are stronger.",
+      "swedish": "Tillsammans, är vi starkare.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278031"
+    },
+    {
+      "english": "Friends make life, better.",
+      "swedish": "Vänner gör livet, bättre.",
+      "category": "Friendship",
+      "generated_at": "2026-07-14T05:03:43.278032"
+    }
+  ],
+  "last_updated": "2026-07-14T05:03:43.278044"
+}
