@@ -42,7 +42,7 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Tacksamhete", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
@@ -56,7 +56,7 @@ CATEGORIES_Swedish = {
     "Wisdom": "Visdom",
     "Happiness": "Lycka",
     "Self Improvement": "Självförbättring",
-    "Gratitude": "Tacksamhet",
+    "Tacksamhete": "Tacksamhet",
     "Friendship": "Vänskap",
     "Hope": "Hopp",
     "Creativity": "Kreativitet",
@@ -365,7 +365,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
             {"english": "Grow through what you go through.", "Swedish": "在经历中成长。", "pronunciation": "zài jīng lì zhōng chéng zhǎng."},
             {"english": "Invest in yourself daily.", "Swedish": "每天投资自己。", "pronunciation": "měi tiān tóu zī zì jǐ."},
         ],
-        "Gratitude": [
+        "Tacksamhete": [
             {"english": "Thank you for everything.", "Swedish": "谢谢你的一切。", "pronunciation": "xiè xie nǐ de yī qiè."},
             {"english": "I appreciate your help.", "Swedish": "我感激你的帮助。", "pronunciation": "wǒ gǎn jī nǐ de bāng zhù."},
             {"english": "Grateful for this moment.", "Swedish": "感激这一刻。", "pronunciation": "gǎn jī zhè yī kè."},
