@@ -98,5 +98,5 @@ jobs:
           git add output/history/
           if ! git diff --staged --quiet; then
             git commit -m "Update history - Run #${{ github.run_number }}"
-            git push
+            git pull --rebase && git push
           fi
