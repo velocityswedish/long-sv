@@ -2879,7 +2879,727 @@
       "Swedish": "Ljus kan skina, genom sprickor.",
       "category": "Hope",
       "generated_at": "2026-07-18T03:57:19.930887"
+    },
+    {
+      "english": "This is a good start, really.",
+      "Swedish": "Det här är en bra början, verkligen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589847"
+    },
+    {
+      "english": "You understand, much better now.",
+      "Swedish": "Du förstår, mycket bättre nu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589858"
+    },
+    {
+      "english": "That sentence, was perfect.",
+      "Swedish": "Den meningen, var perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589860"
+    },
+    {
+      "english": "Your accent, is improving fast.",
+      "Swedish": "Din brytning, blir bättre snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589861"
+    },
+    {
+      "english": "You used, the right word.",
+      "Swedish": "Du använde, rätt ord.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589862"
+    },
+    {
+      "english": "That phrase, sounds natural.",
+      "Swedish": "Den frasen, låter naturlig.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589863"
+    },
+    {
+      "english": "Almost, like a native speaker.",
+      "Swedish": "Nästan, som en infödd talare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589865"
+    },
+    {
+      "english": "Your grammar, is solid.",
+      "Swedish": "Din grammatik, är stabil.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589868"
+    },
+    {
+      "english": "That's, exactly right.",
+      "Swedish": "Det är, precis rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589869"
+    },
+    {
+      "english": "You're learning, quickly.",
+      "Swedish": "Du lär dig, snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589870"
+    },
+    {
+      "english": "This is, a great step.",
+      "Swedish": "Det här är, ett bra steg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589872"
+    },
+    {
+      "english": "You expressed, that well.",
+      "Swedish": "Du uttryckte, det bra.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589873"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "Swedish": "Din uttals, är tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589874"
+    },
+    {
+      "english": "That's, a very good effort.",
+      "Swedish": "Det är, en väldigt bra insats.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589875"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "Swedish": "Du börjar, få kläm på det.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589876"
+    },
+    {
+      "english": "This is, a major improvement.",
+      "Swedish": "Det här är, en stor förbättring.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589878"
+    },
+    {
+      "english": "You sounded, very fluent.",
+      "Swedish": "Du lät, väldigt flytande.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589879"
+    },
+    {
+      "english": "Your vocabulary, is expanding.",
+      "Swedish": "Ditt ordförråd, utökas.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589880"
+    },
+    {
+      "english": "That's, a correct sentence.",
+      "Swedish": "Det är, en korrekt mening.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589881"
+    },
+    {
+      "english": "You're speaking, more confidently.",
+      "Swedish": "Du pratar, mer självsäkert.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589882"
+    },
+    {
+      "english": "This is, progress.",
+      "Swedish": "Det här är, framsteg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589884"
+    },
+    {
+      "english": "You remembered, the verb.",
+      "Swedish": "Du kom ihåg, verbet.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589885"
+    },
+    {
+      "english": "That was, a perfect translation.",
+      "Swedish": "Det där var, en perfekt översättning.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589886"
+    },
+    {
+      "english": "You're using, correct intonation.",
+      "Swedish": "Du använder, korrekt intonation.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589887"
+    },
+    {
+      "english": "Good job, on that part.",
+      "Swedish": "Bra jobbat, med den delen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589888"
+    },
+    {
+      "english": "That sounds, very Swedish.",
+      "Swedish": "Det låter, väldigt svenskt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589889"
+    },
+    {
+      "english": "You understood, the context.",
+      "Swedish": "Du förstod, sammanhanget.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589890"
+    },
+    {
+      "english": "This is, becoming easier.",
+      "Swedish": "Det här blir, enklare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589891"
+    },
+    {
+      "english": "Your fluency, is growing.",
+      "Swedish": "Ditt flyt, växer.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589892"
+    },
+    {
+      "english": "That's, a correct phrase.",
+      "Swedish": "Det där är, en korrekt fras.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589893"
+    },
+    {
+      "english": "You're using, the correct tense.",
+      "Swedish": "Du använder, rätt tempus.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589894"
+    },
+    {
+      "english": "Your Swedish, is solid.",
+      "Swedish": "Din svenska, är solid.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589895"
+    },
+    {
+      "english": "That's, a natural flow.",
+      "Swedish": "Det där är, ett naturligt flöde.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589896"
+    },
+    {
+      "english": "You're articulating, perfectly.",
+      "Swedish": "Du artikulerar, perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589897"
+    },
+    {
+      "english": "This is, a great sound.",
+      "Swedish": "Det här är, ett bra ljud.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589898"
+    },
+    {
+      "english": "You nailed, that one.",
+      "Swedish": "Du prickade, den rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589899"
+    },
+    {
+      "english": "Your comprehension, is excellent.",
+      "Swedish": "Din förståelse, är utmärkt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589900"
+    },
+    {
+      "english": "You're speaking, very clearly.",
+      "Swedish": "Du talar, mycket tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589901"
+    },
+    {
+      "english": "This is, a perfect example.",
+      "Swedish": "Det här är, ett perfekt exempel.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589909"
+    },
+    {
+      "english": "This is a good start, really.",
+      "Swedish": "Det här är en bra början, verkligen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589911"
+    },
+    {
+      "english": "You understand, much better now.",
+      "Swedish": "Du förstår, mycket bättre nu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589912"
+    },
+    {
+      "english": "That sentence, was perfect.",
+      "Swedish": "Den meningen, var perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589914"
+    },
+    {
+      "english": "Your accent, is improving fast.",
+      "Swedish": "Din brytning, blir bättre snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589915"
+    },
+    {
+      "english": "You used, the right word.",
+      "Swedish": "Du använde, rätt ord.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589916"
+    },
+    {
+      "english": "That phrase, sounds natural.",
+      "Swedish": "Den frasen, låter naturlig.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589917"
+    },
+    {
+      "english": "Almost, like a native speaker.",
+      "Swedish": "Nästan, som en infödd talare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589918"
+    },
+    {
+      "english": "Your grammar, is solid.",
+      "Swedish": "Din grammatik, är stabil.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589920"
+    },
+    {
+      "english": "That's, exactly right.",
+      "Swedish": "Det är, precis rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589921"
+    },
+    {
+      "english": "You're learning, quickly.",
+      "Swedish": "Du lär dig, snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589922"
+    },
+    {
+      "english": "This is, a great step.",
+      "Swedish": "Det här är, ett bra steg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589923"
+    },
+    {
+      "english": "You expressed, that well.",
+      "Swedish": "Du uttryckte, det bra.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589924"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "Swedish": "Din uttals, är tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589925"
+    },
+    {
+      "english": "That's, a very good effort.",
+      "Swedish": "Det är, en väldigt bra insats.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589927"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "Swedish": "Du börjar, få kläm på det.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589928"
+    },
+    {
+      "english": "This is, a major improvement.",
+      "Swedish": "Det här är, en stor förbättring.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589929"
+    },
+    {
+      "english": "You sounded, very fluent.",
+      "Swedish": "Du lät, väldigt flytande.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589930"
+    },
+    {
+      "english": "Your vocabulary, is expanding.",
+      "Swedish": "Ditt ordförråd, utökas.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589931"
+    },
+    {
+      "english": "That's, a correct sentence.",
+      "Swedish": "Det är, en korrekt mening.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589932"
+    },
+    {
+      "english": "You're speaking, more confidently.",
+      "Swedish": "Du pratar, mer självsäkert.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589933"
+    },
+    {
+      "english": "This is, progress.",
+      "Swedish": "Det här är, framsteg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589934"
+    },
+    {
+      "english": "You remembered, the verb.",
+      "Swedish": "Du kom ihåg, verbet.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589936"
+    },
+    {
+      "english": "That was, a perfect translation.",
+      "Swedish": "Det där var, en perfekt översättning.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589937"
+    },
+    {
+      "english": "You're using, correct intonation.",
+      "Swedish": "Du använder, korrekt intonation.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589938"
+    },
+    {
+      "english": "Good job, on that part.",
+      "Swedish": "Bra jobbat, med den delen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589939"
+    },
+    {
+      "english": "That sounds, very Swedish.",
+      "Swedish": "Det låter, väldigt svenskt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589940"
+    },
+    {
+      "english": "You understood, the context.",
+      "Swedish": "Du förstod, sammanhanget.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589941"
+    },
+    {
+      "english": "This is, becoming easier.",
+      "Swedish": "Det här blir, enklare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589942"
+    },
+    {
+      "english": "Your fluency, is growing.",
+      "Swedish": "Ditt flyt, växer.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589943"
+    },
+    {
+      "english": "That's, a correct phrase.",
+      "Swedish": "Det där är, en korrekt fras.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589944"
+    },
+    {
+      "english": "You're using, the correct tense.",
+      "Swedish": "Du använder, rätt tempus.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589946"
+    },
+    {
+      "english": "Your Swedish, is solid.",
+      "Swedish": "Din svenska, är solid.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589947"
+    },
+    {
+      "english": "That's, a natural flow.",
+      "Swedish": "Det där är, ett naturligt flöde.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589948"
+    },
+    {
+      "english": "You're articulating, perfectly.",
+      "Swedish": "Du artikulerar, perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589949"
+    },
+    {
+      "english": "This is, a great sound.",
+      "Swedish": "Det här är, ett bra ljud.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589950"
+    },
+    {
+      "english": "You nailed, that one.",
+      "Swedish": "Du prickade, den rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589951"
+    },
+    {
+      "english": "Your comprehension, is excellent.",
+      "Swedish": "Din förståelse, är utmärkt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589952"
+    },
+    {
+      "english": "You're speaking, very clearly.",
+      "Swedish": "Du talar, mycket tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589953"
+    },
+    {
+      "english": "This is, a perfect example.",
+      "Swedish": "Det här är, ett perfekt exempel.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589954"
+    },
+    {
+      "english": "This is a good start, really.",
+      "Swedish": "Det här är en bra början, verkligen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589955"
+    },
+    {
+      "english": "You understand, much better now.",
+      "Swedish": "Du förstår, mycket bättre nu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589957"
+    },
+    {
+      "english": "That sentence, was perfect.",
+      "Swedish": "Den meningen, var perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589958"
+    },
+    {
+      "english": "Your accent, is improving fast.",
+      "Swedish": "Din brytning, blir bättre snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589959"
+    },
+    {
+      "english": "You used, the right word.",
+      "Swedish": "Du använde, rätt ord.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589960"
+    },
+    {
+      "english": "That phrase, sounds natural.",
+      "Swedish": "Den frasen, låter naturlig.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589961"
+    },
+    {
+      "english": "Almost, like a native speaker.",
+      "Swedish": "Nästan, som en infödd talare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589962"
+    },
+    {
+      "english": "Your grammar, is solid.",
+      "Swedish": "Din grammatik, är stabil.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589965"
+    },
+    {
+      "english": "That's, exactly right.",
+      "Swedish": "Det är, precis rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589967"
+    },
+    {
+      "english": "You're learning, quickly.",
+      "Swedish": "Du lär dig, snabbt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589968"
+    },
+    {
+      "english": "This is, a great step.",
+      "Swedish": "Det här är, ett bra steg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589969"
+    },
+    {
+      "english": "You expressed, that well.",
+      "Swedish": "Du uttryckte, det bra.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589970"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "Swedish": "Din uttals, är tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589971"
+    },
+    {
+      "english": "That's, a very good effort.",
+      "Swedish": "Det är, en väldigt bra insats.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589972"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "Swedish": "Du börjar, få kläm på det.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589974"
+    },
+    {
+      "english": "This is, a major improvement.",
+      "Swedish": "Det här är, en stor förbättring.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589975"
+    },
+    {
+      "english": "You sounded, very fluent.",
+      "Swedish": "Du lät, väldigt flytande.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589976"
+    },
+    {
+      "english": "Your vocabulary, is expanding.",
+      "Swedish": "Ditt ordförråd, utökas.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589977"
+    },
+    {
+      "english": "That's, a correct sentence.",
+      "Swedish": "Det är, en korrekt mening.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589978"
+    },
+    {
+      "english": "You're speaking, more confidently.",
+      "Swedish": "Du pratar, mer självsäkert.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589979"
+    },
+    {
+      "english": "This is, progress.",
+      "Swedish": "Det här är, framsteg.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589980"
+    },
+    {
+      "english": "You remembered, the verb.",
+      "Swedish": "Du kom ihåg, verbet.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589981"
+    },
+    {
+      "english": "That was, a perfect translation.",
+      "Swedish": "Det där var, en perfekt översättning.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589982"
+    },
+    {
+      "english": "You're using, correct intonation.",
+      "Swedish": "Du använder, korrekt intonation.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589985"
+    },
+    {
+      "english": "Good job, on that part.",
+      "Swedish": "Bra jobbat, med den delen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589986"
+    },
+    {
+      "english": "That sounds, very Swedish.",
+      "Swedish": "Det låter, väldigt svenskt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589987"
+    },
+    {
+      "english": "You understood, the context.",
+      "Swedish": "Du förstod, sammanhanget.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589988"
+    },
+    {
+      "english": "This is, becoming easier.",
+      "Swedish": "Det här blir, enklare.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589989"
+    },
+    {
+      "english": "Your fluency, is growing.",
+      "Swedish": "Ditt flyt, växer.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.589990"
+    },
+    {
+      "english": "That's, a correct phrase.",
+      "Swedish": "Det där är, en korrekt fras.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590028"
+    },
+    {
+      "english": "You're using, the correct tense.",
+      "Swedish": "Du använder, rätt tempus.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590030"
+    },
+    {
+      "english": "Your Swedish, is solid.",
+      "Swedish": "Din svenska, är solid.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590031"
+    },
+    {
+      "english": "That's, a natural flow.",
+      "Swedish": "Det där är, ett naturligt flöde.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590032"
+    },
+    {
+      "english": "You're articulating, perfectly.",
+      "Swedish": "Du artikulerar, perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590033"
+    },
+    {
+      "english": "This is, a great sound.",
+      "Swedish": "Det här är, ett bra ljud.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590034"
+    },
+    {
+      "english": "You nailed, that one.",
+      "Swedish": "Du prickade, den rätt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590037"
+    },
+    {
+      "english": "Your comprehension, is excellent.",
+      "Swedish": "Din förståelse, är utmärkt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590038"
+    },
+    {
+      "english": "You're speaking, very clearly.",
+      "Swedish": "Du talar, mycket tydligt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590039"
+    },
+    {
+      "english": "This is, a perfect example.",
+      "Swedish": "Det här är, ett perfekt exempel.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590040"
+    },
+    {
+      "english": "This is a good start, really.",
+      "Swedish": "Det här är en bra början, verkligen.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590041"
+    },
+    {
+      "english": "You understand, much better now.",
+      "Swedish": "Du förstår, mycket bättre nu.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590042"
+    },
+    {
+      "english": "That sentence, was perfect.",
+      "Swedish": "Den meningen, var perfekt.",
+      "category": "Success",
+      "generated_at": "2026-07-19T04:22:49.590045"
     }
   ],
-  "last_updated": "2026-07-18T03:57:19.930889"
+  "last_updated": "2026-07-19T04:22:49.590048"
 }
