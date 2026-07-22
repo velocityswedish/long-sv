@@ -5039,7 +5039,727 @@
       "Swedish": "Din svenska nyckel, är här.",
       "category": "Inspiration",
       "generated_at": "2026-07-21T04:17:36.411832"
+    },
+    {
+      "english": "Creativity flows, like a river.",
+      "Swedish": "Kreativiteten flödar, som en älv.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541375"
+    },
+    {
+      "english": "Imagine brightly, build bolder.",
+      "Swedish": "Föreställ dig ljust, bygg djärvare.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541386"
+    },
+    {
+      "english": "Your ideas spark, ignite futures.",
+      "Swedish": "Dina idéer gnistrar, tänder framtiden.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541387"
+    },
+    {
+      "english": "New thoughts bloom, like spring flowers.",
+      "Swedish": "Nya tankar spirar, som vårblommor.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541389"
+    },
+    {
+      "english": "Invent daily, live inspired.",
+      "Swedish": "Hitta på dagligen, lev inspirerat.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541390"
+    },
+    {
+      "english": "Let your mind wander, find wonder.",
+      "Swedish": "Låt tanken vandra, finn förundran.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541390"
+    },
+    {
+      "english": "Create a story, with every word.",
+      "Swedish": "Skapa en saga, med varje ord.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541391"
+    },
+    {
+      "english": "The blank page, awaits your art.",
+      "Swedish": "Den tomma sidan, väntar din konst.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541394"
+    },
+    {
+      "english": "Think outside, the usual box.",
+      "Swedish": "Tänk utanför, den vanliga lådan.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541395"
+    },
+    {
+      "english": "Originality, is your superpower.",
+      "Swedish": "Originalitet, är din superkraft.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541396"
+    },
+    {
+      "english": "Sketch a vision, then make it real.",
+      "Swedish": "Skissa en vision, gör den verklig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541397"
+    },
+    {
+      "english": "Every problem, has a solution waiting.",
+      "Swedish": "Varje problem, har en lösning som väntar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541398"
+    },
+    {
+      "english": "Innovation, is just a good idea.",
+      "Swedish": "Innovation, är bara en bra idé.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541399"
+    },
+    {
+      "english": "Brainstorm freely, then focus in.",
+      "Swedish": "Idékläckning fritt, fokusera sen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541400"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Swedish": "Frukta inte misslyckande, lär av det.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541401"
+    },
+    {
+      "english": "Build something new, from the old.",
+      "Swedish": "Bygg något nytt, av det gamla.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541402"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "Swedish": "Nyfikenhet, leder till upptäckt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541402"
+    },
+    {
+      "english": "A small change, a big difference.",
+      "Swedish": "En liten förändring, en stor skillnad.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541403"
+    },
+    {
+      "english": "What if, is a powerful question.",
+      "Swedish": "Tänk om, är en mäktig fråga.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541404"
+    },
+    {
+      "english": "Your imagination, your greatest tool.",
+      "Swedish": "Din fantasi, ditt största verktyg.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541405"
+    },
+    {
+      "english": "Combine ideas, unexpected magic.",
+      "Swedish": "Kombinera idéer, oväntad magi.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541406"
+    },
+    {
+      "english": "Think differently, live fully.",
+      "Swedish": "Tänk annorlunda, lev fullt ut.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541408"
+    },
+    {
+      "english": "The world needs, your unique spark.",
+      "Swedish": "Världen behöver, din unika gnista.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541409"
+    },
+    {
+      "english": "From inspiration, to realization.",
+      "Swedish": "Från inspiration, till förverkligande.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541409"
+    },
+    {
+      "english": "Break the mold, find your own path.",
+      "Swedish": "Bryt formen, finn din egen stig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541410"
+    },
+    {
+      "english": "Play with possibilities, invent tomorrow.",
+      "Swedish": "Lek med möjligheter, uppfinn morgondagen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541411"
+    },
+    {
+      "english": "A dash of daring, a spark of joy.",
+      "Swedish": "En nypa djärvhet, en gnutta glädje.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541412"
+    },
+    {
+      "english": "Let your passion, guide your hands.",
+      "Swedish": "Låt din passion, styra dina händer.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541412"
+    },
+    {
+      "english": "See the unseen, do the undone.",
+      "Swedish": "Se det osedda, gör det ogjorda.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541413"
+    },
+    {
+      "english": "Transform ordinary, into extraordinary.",
+      "Swedish": "Förvandla vanligt, till ovanligt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541414"
+    },
+    {
+      "english": "Ideas are seeds, grow them well.",
+      "Swedish": "Idéer är frön, odla dem väl.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541415"
+    },
+    {
+      "english": "The future is unwritten, create it.",
+      "Swedish": "Framtiden är oskriven, skapa den.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541415"
+    },
+    {
+      "english": "Unleash your genius, one step at time.",
+      "Swedish": "Släpp lös din genialitet, ett steg i taget.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541416"
+    },
+    {
+      "english": "Invent, adapt, overcome, thrive.",
+      "Swedish": "Uppfinn, anpassa, övervinn, frodas.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541417"
+    },
+    {
+      "english": "What if you could, imagine that?",
+      "Swedish": "Tänk om du kunde, föreställ dig det?",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541417"
+    },
+    {
+      "english": "A touch of whimsy, a world of fun.",
+      "Swedish": "En touch av infall, en värld av lek.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541418"
+    },
+    {
+      "english": "Your canvas awaits, paint your dreams.",
+      "Swedish": "Din duk väntar, måla dina drömmar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541419"
+    },
+    {
+      "english": "Curiosity is the fuel, for invention.",
+      "Swedish": "Nyfikenhet är bränslet, för uppfinning.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541420"
+    },
+    {
+      "english": "Dare to be different, that's the key.",
+      "Swedish": "Våga vara annorlunda, det är nyckeln.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541420"
+    },
+    {
+      "english": "Create your own magic, everyday.",
+      "Swedish": "Skapa din egen magi, varje dag.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541421"
+    },
+    {
+      "english": "Creativity flows, like a river.",
+      "Swedish": "Kreativiteten flödar, som en älv.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541422"
+    },
+    {
+      "english": "Imagine brightly, build bolder.",
+      "Swedish": "Föreställ dig ljust, bygg djärvare.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541423"
+    },
+    {
+      "english": "Your ideas spark, ignite futures.",
+      "Swedish": "Dina idéer gnistrar, tänder framtiden.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541424"
+    },
+    {
+      "english": "New thoughts bloom, like spring flowers.",
+      "Swedish": "Nya tankar spirar, som vårblommor.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541425"
+    },
+    {
+      "english": "Invent daily, live inspired.",
+      "Swedish": "Hitta på dagligen, lev inspirerat.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541425"
+    },
+    {
+      "english": "Let your mind wander, find wonder.",
+      "Swedish": "Låt tanken vandra, finn förundran.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541426"
+    },
+    {
+      "english": "Create a story, with every word.",
+      "Swedish": "Skapa en saga, med varje ord.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541427"
+    },
+    {
+      "english": "The blank page, awaits your art.",
+      "Swedish": "Den tomma sidan, väntar din konst.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541428"
+    },
+    {
+      "english": "Think outside, the usual box.",
+      "Swedish": "Tänk utanför, den vanliga lådan.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541428"
+    },
+    {
+      "english": "Originality, is your superpower.",
+      "Swedish": "Originalitet, är din superkraft.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541429"
+    },
+    {
+      "english": "Sketch a vision, then make it real.",
+      "Swedish": "Skissa en vision, gör den verklig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541430"
+    },
+    {
+      "english": "Every problem, has a solution waiting.",
+      "Swedish": "Varje problem, har en lösning som väntar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541430"
+    },
+    {
+      "english": "Innovation, is just a good idea.",
+      "Swedish": "Innovation, är bara en bra idé.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541431"
+    },
+    {
+      "english": "Brainstorm freely, then focus in.",
+      "Swedish": "Idékläckning fritt, fokusera sen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541432"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Swedish": "Frukta inte misslyckande, lär av det.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541433"
+    },
+    {
+      "english": "Build something new, from the old.",
+      "Swedish": "Bygg något nytt, av det gamla.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541433"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "Swedish": "Nyfikenhet, leder till upptäckt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541434"
+    },
+    {
+      "english": "A small change, a big difference.",
+      "Swedish": "En liten förändring, en stor skillnad.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541435"
+    },
+    {
+      "english": "What if, is a powerful question.",
+      "Swedish": "Tänk om, är en mäktig fråga.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541436"
+    },
+    {
+      "english": "Your imagination, your greatest tool.",
+      "Swedish": "Din fantasi, ditt största verktyg.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541437"
+    },
+    {
+      "english": "Combine ideas, unexpected magic.",
+      "Swedish": "Kombinera idéer, oväntad magi.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541437"
+    },
+    {
+      "english": "Think differently, live fully.",
+      "Swedish": "Tänk annorlunda, lev fullt ut.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541438"
+    },
+    {
+      "english": "The world needs, your unique spark.",
+      "Swedish": "Världen behöver, din unika gnista.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541439"
+    },
+    {
+      "english": "From inspiration, to realization.",
+      "Swedish": "Från inspiration, till förverkligande.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541440"
+    },
+    {
+      "english": "Break the mold, find your own path.",
+      "Swedish": "Bryt formen, finn din egen stig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541440"
+    },
+    {
+      "english": "Play with possibilities, invent tomorrow.",
+      "Swedish": "Lek med möjligheter, uppfinn morgondagen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541441"
+    },
+    {
+      "english": "A dash of daring, a spark of joy.",
+      "Swedish": "En nypa djärvhet, en gnutta glädje.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541442"
+    },
+    {
+      "english": "Let your passion, guide your hands.",
+      "Swedish": "Låt din passion, styra dina händer.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541442"
+    },
+    {
+      "english": "See the unseen, do the undone.",
+      "Swedish": "Se det osedda, gör det ogjorda.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541443"
+    },
+    {
+      "english": "Transform ordinary, into extraordinary.",
+      "Swedish": "Förvandla vanligt, till ovanligt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541444"
+    },
+    {
+      "english": "Ideas are seeds, grow them well.",
+      "Swedish": "Idéer är frön, odla dem väl.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541445"
+    },
+    {
+      "english": "The future is unwritten, create it.",
+      "Swedish": "Framtiden är oskriven, skapa den.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541446"
+    },
+    {
+      "english": "Unleash your genius, one step at time.",
+      "Swedish": "Släpp lös din genialitet, ett steg i taget.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541449"
+    },
+    {
+      "english": "Invent, adapt, overcome, thrive.",
+      "Swedish": "Uppfinn, anpassa, övervinn, frodas.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541450"
+    },
+    {
+      "english": "What if you could, imagine that?",
+      "Swedish": "Tänk om du kunde, föreställ dig det?",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541451"
+    },
+    {
+      "english": "A touch of whimsy, a world of fun.",
+      "Swedish": "En touch av infall, en värld av lek.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541452"
+    },
+    {
+      "english": "Your canvas awaits, paint your dreams.",
+      "Swedish": "Din duk väntar, måla dina drömmar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541452"
+    },
+    {
+      "english": "Curiosity is the fuel, for invention.",
+      "Swedish": "Nyfikenhet är bränslet, för uppfinning.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541453"
+    },
+    {
+      "english": "Dare to be different, that's the key.",
+      "Swedish": "Våga vara annorlunda, det är nyckeln.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541454"
+    },
+    {
+      "english": "Create your own magic, everyday.",
+      "Swedish": "Skapa din egen magi, varje dag.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541455"
+    },
+    {
+      "english": "Creativity flows, like a river.",
+      "Swedish": "Kreativiteten flödar, som en älv.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541456"
+    },
+    {
+      "english": "Imagine brightly, build bolder.",
+      "Swedish": "Föreställ dig ljust, bygg djärvare.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541457"
+    },
+    {
+      "english": "Your ideas spark, ignite futures.",
+      "Swedish": "Dina idéer gnistrar, tänder framtiden.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541457"
+    },
+    {
+      "english": "New thoughts bloom, like spring flowers.",
+      "Swedish": "Nya tankar spirar, som vårblommor.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541458"
+    },
+    {
+      "english": "Invent daily, live inspired.",
+      "Swedish": "Hitta på dagligen, lev inspirerat.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541459"
+    },
+    {
+      "english": "Let your mind wander, find wonder.",
+      "Swedish": "Låt tanken vandra, finn förundran.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541460"
+    },
+    {
+      "english": "Create a story, with every word.",
+      "Swedish": "Skapa en saga, med varje ord.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541460"
+    },
+    {
+      "english": "The blank page, awaits your art.",
+      "Swedish": "Den tomma sidan, väntar din konst.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541461"
+    },
+    {
+      "english": "Think outside, the usual box.",
+      "Swedish": "Tänk utanför, den vanliga lådan.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541462"
+    },
+    {
+      "english": "Originality, is your superpower.",
+      "Swedish": "Originalitet, är din superkraft.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541462"
+    },
+    {
+      "english": "Sketch a vision, then make it real.",
+      "Swedish": "Skissa en vision, gör den verklig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541463"
+    },
+    {
+      "english": "Every problem, has a solution waiting.",
+      "Swedish": "Varje problem, har en lösning som väntar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541464"
+    },
+    {
+      "english": "Innovation, is just a good idea.",
+      "Swedish": "Innovation, är bara en bra idé.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541465"
+    },
+    {
+      "english": "Brainstorm freely, then focus in.",
+      "Swedish": "Idékläckning fritt, fokusera sen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541466"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Swedish": "Frukta inte misslyckande, lär av det.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541466"
+    },
+    {
+      "english": "Build something new, from the old.",
+      "Swedish": "Bygg något nytt, av det gamla.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541467"
+    },
+    {
+      "english": "Curiosity, leads to discovery.",
+      "Swedish": "Nyfikenhet, leder till upptäckt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541468"
+    },
+    {
+      "english": "A small change, a big difference.",
+      "Swedish": "En liten förändring, en stor skillnad.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541468"
+    },
+    {
+      "english": "What if, is a powerful question.",
+      "Swedish": "Tänk om, är en mäktig fråga.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541469"
+    },
+    {
+      "english": "Your imagination, your greatest tool.",
+      "Swedish": "Din fantasi, ditt största verktyg.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541470"
+    },
+    {
+      "english": "Combine ideas, unexpected magic.",
+      "Swedish": "Kombinera idéer, oväntad magi.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541470"
+    },
+    {
+      "english": "Think differently, live fully.",
+      "Swedish": "Tänk annorlunda, lev fullt ut.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541471"
+    },
+    {
+      "english": "The world needs, your unique spark.",
+      "Swedish": "Världen behöver, din unika gnista.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541472"
+    },
+    {
+      "english": "From inspiration, to realization.",
+      "Swedish": "Från inspiration, till förverkligande.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541474"
+    },
+    {
+      "english": "Break the mold, find your own path.",
+      "Swedish": "Bryt formen, finn din egen stig.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541475"
+    },
+    {
+      "english": "Play with possibilities, invent tomorrow.",
+      "Swedish": "Lek med möjligheter, uppfinn morgondagen.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541476"
+    },
+    {
+      "english": "A dash of daring, a spark of joy.",
+      "Swedish": "En nypa djärvhet, en gnutta glädje.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541476"
+    },
+    {
+      "english": "Let your passion, guide your hands.",
+      "Swedish": "Låt din passion, styra dina händer.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541477"
+    },
+    {
+      "english": "See the unseen, do the undone.",
+      "Swedish": "Se det osedda, gör det ogjorda.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541478"
+    },
+    {
+      "english": "Transform ordinary, into extraordinary.",
+      "Swedish": "Förvandla vanligt, till ovanligt.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541478"
+    },
+    {
+      "english": "Ideas are seeds, grow them well.",
+      "Swedish": "Idéer är frön, odla dem väl.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541479"
+    },
+    {
+      "english": "The future is unwritten, create it.",
+      "Swedish": "Framtiden är oskriven, skapa den.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541480"
+    },
+    {
+      "english": "Unleash your genius, one step at time.",
+      "Swedish": "Släpp lös din genialitet, ett steg i taget.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541480"
+    },
+    {
+      "english": "Invent, adapt, overcome, thrive.",
+      "Swedish": "Uppfinn, anpassa, övervinn, frodas.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541481"
+    },
+    {
+      "english": "What if you could, imagine that?",
+      "Swedish": "Tänk om du kunde, föreställ dig det?",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541482"
+    },
+    {
+      "english": "A touch of whimsy, a world of fun.",
+      "Swedish": "En touch av infall, en värld av lek.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541482"
+    },
+    {
+      "english": "Your canvas awaits, paint your dreams.",
+      "Swedish": "Din duk väntar, måla dina drömmar.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541483"
+    },
+    {
+      "english": "Curiosity is the fuel, for invention.",
+      "Swedish": "Nyfikenhet är bränslet, för uppfinning.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541484"
+    },
+    {
+      "english": "Dare to be different, that's the key.",
+      "Swedish": "Våga vara annorlunda, det är nyckeln.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541484"
+    },
+    {
+      "english": "Create your own magic, everyday.",
+      "Swedish": "Skapa din egen magi, varje dag.",
+      "category": "Creativity",
+      "generated_at": "2026-07-22T04:19:35.541485"
     }
   ],
-  "last_updated": "2026-07-21T04:17:36.411834"
+  "last_updated": "2026-07-22T04:19:35.541486"
 }
