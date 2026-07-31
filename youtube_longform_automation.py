@@ -37,26 +37,26 @@ VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
 TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120
+TARGET_PHRASES = 60  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Tacksamhete", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
 # Swedish translations for display
-CATEGORIES_Swedish = {
+CATEGORIES_SWEDISH = {
     "Motivation": "Motivation",
     "Love": "Kärlek",
     "Success": "Framgång",
     "Wisdom": "Visdom",
     "Happiness": "Lycka",
     "Self Improvement": "Självförbättring",
-    "Tacksamhete": "Tacksamhet",
+    "Gratitude": "Tacksamhet",
     "Friendship": "Vänskap",
     "Hope": "Hopp",
     "Creativity": "Kreativitet",
@@ -79,7 +79,7 @@ CATEGORIES_Swedish = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Swedish_VOICE = "sv-SE-SofieNeural"
+SWEDISH_VOICE = "sv-SE-SofieNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Swedish": phrase["Swedish"],
+            "swedish": phrase["swedish"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Swedish = CATEGORIES_Swedish[category_english]
+    category_swedish = CATEGORIES_SWEDISH[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -259,7 +259,7 @@ For each phrase:
 3. Pronunciation guide (phonetic spelling, e.g., "Hej, hur mår du?")
 
 Return as JSON array:
-[{{"english": "...", "Swedish": "...", "pronunciation": "..."}}]
+[{{"english": "...", "swedish": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
@@ -272,7 +272,7 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
                     "temperature": 1.0
                 }
 
-                response = requests.post(url, headers=headers, json=payload, timeout=180)
+                response = requests.post(url, headers=headers, json=payload, timeout=90)
                 response.raise_for_status()
 
                 data = response.json()
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Swedish": "相信自己。", "pronunciation": "xiāng xìn zì jǐ."},
-            {"english": "You are capable of amazing things.", "Swedish": "你有能力成就惊人的事情。", "pronunciation": "nǐ yǒu néng lì chéng jiù jīng rén de shì qíng."},
-            {"english": "Dream big, start small.", "Swedish": "胸怀大志，从小做起。", "pronunciation": "xiōng huái dà zhì, cóng xiǎo zuò qǐ."},
-            {"english": "Your future is created by your actions.", "Swedish": "你的未来由你的行动创造。", "pronunciation": "nǐ de wèi lái yóu nǐ de xíng dòng chuàng zào."},
-            {"english": "Never give up on your dreams.", "Swedish": "永不放弃梦想。", "pronunciation": "yǒng bù fàng qì mèng xiǎng."},
-            {"english": "Small steps lead to big changes.", "Swedish": "小步引领大变化。", "pronunciation": "xiǎo bù yǐn lǐng dà biàn huà."},
-            {"english": "You are stronger than you think.", "Swedish": "你比自己想象的更强大。", "pronunciation": "nǐ bǐ zì jǐ xiǎng xiàng de gèng qiáng dà."},
+            {"english": "Believe in yourself.", "swedish": "相信自己。", "pronunciation": "xiāng xìn zì jǐ."},
+            {"english": "You are capable of amazing things.", "swedish": "你有能力成就惊人的事情。", "pronunciation": "nǐ yǒu néng lì chéng jiù jīng rén de shì qíng."},
+            {"english": "Dream big, start small.", "swedish": "胸怀大志，从小做起。", "pronunciation": "xiōng huái dà zhì, cóng xiǎo zuò qǐ."},
+            {"english": "Your future is created by your actions.", "swedish": "你的未来由你的行动创造。", "pronunciation": "nǐ de wèi lái yóu nǐ de xíng dòng chuàng zào."},
+            {"english": "Never give up on your dreams.", "swedish": "永不放弃梦想。", "pronunciation": "yǒng bù fàng qì mèng xiǎng."},
+            {"english": "Small steps lead to big changes.", "swedish": "小步引领大变化。", "pronunciation": "xiǎo bù yǐn lǐng dà biàn huà."},
+            {"english": "You are stronger than you think.", "swedish": "你比自己想象的更强大。", "pronunciation": "nǐ bǐ zì jǐ xiǎng xiàng de gèng qiáng dà."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Swedish": "先爱自己。", "pronunciation": "xiān ài zì jǐ."},
-            {"english": "Love makes everything possible.", "Swedish": "爱使一切成为可能。", "pronunciation": "ài shǐ yī qiè chéng wéi kě néng."},
-            {"english": "My heart beats for you.", "Swedish": "我的心为你跳动。", "pronunciation": "wǒ de xīn wèi nǐ tiào dòng."},
-            {"english": "You are my everything.", "Swedish": "你是我的一切。", "pronunciation": "nǐ shì wǒ de yī qiè."},
-            {"english": "Together forever, hand in hand.", "Swedish": "永远在一起，手牵手。", "pronunciation": "yǒng yuǎn zài yī qǐ, shǒu qiān shǒu."},
+            {"english": "Love yourself first.", "swedish": "先爱自己。", "pronunciation": "xiān ài zì jǐ."},
+            {"english": "Love makes everything possible.", "swedish": "爱使一切成为可能。", "pronunciation": "ài shǐ yī qiè chéng wéi kě néng."},
+            {"english": "My heart beats for you.", "swedish": "我的心为你跳动。", "pronunciation": "wǒ de xīn wèi nǐ tiào dòng."},
+            {"english": "You are my everything.", "swedish": "你是我的一切。", "pronunciation": "nǐ shì wǒ de yī qiè."},
+            {"english": "Together forever, hand in hand.", "swedish": "永远在一起，手牵手。", "pronunciation": "yǒng yuǎn zài yī qǐ, shǒu qiān shǒu."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Swedish": "成功来自努力。", "pronunciation": "chéng gōng lái zì nǔ lì."},
-            {"english": "Keep going, you're getting there.", "Swedish": "继续前进，你快到了。", "pronunciation": "jì xù qián jìn, nǐ kuài dào le."},
-            {"english": "Winners never quit.", "Swedish": "赢家永不放弃。", "pronunciation": "yíng jiā yǒng bù fàng qì."},
-            {"english": "Your effort will pay off.", "Swedish": "你的努力会有回报。", "pronunciation": "nǐ de nǔ lì huì yǒu huí bào."},
+            {"english": "Success comes from hard work.", "swedish": "成功来自努力。", "pronunciation": "chéng gōng lái zì nǔ lì."},
+            {"english": "Keep going, you're getting there.", "swedish": "继续前进，你快到了。", "pronunciation": "jì xù qián jìn, nǐ kuài dào le."},
+            {"english": "Winners never quit.", "swedish": "赢家永不放弃。", "pronunciation": "yíng jiā yǒng bù fàng qì."},
+            {"english": "Your effort will pay off.", "swedish": "你的努力会有回报。", "pronunciation": "nǐ de nǔ lì huì yǒu huí bào."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Swedish": "知识就是力量。", "pronunciation": "zhī shí jiù shì lì liàng."},
-            {"english": "Learn from yesterday, live for today.", "Swedish": "借鉴昨天，活在今天。", "pronunciation": "jiè jiàn zuó tiān, huó zài jīn tiān."},
-            {"english": "Think before you act.", "Swedish": "三思而后行。", "pronunciation": "sān sī ér hòu xíng."},
-            {"english": "Experience is the best teacher.", "Swedish": "经验是最好的老师。", "pronunciation": "jīng yàn shì zuì hǎo de lǎo shī."},
+            {"english": "Knowledge is power.", "swedish": "知识就是力量。", "pronunciation": "zhī shí jiù shì lì liàng."},
+            {"english": "Learn from yesterday, live for today.", "swedish": "借鉴昨天，活在今天。", "pronunciation": "jiè jiàn zuó tiān, huó zài jīn tiān."},
+            {"english": "Think before you act.", "swedish": "三思而后行。", "pronunciation": "sān sī ér hòu xíng."},
+            {"english": "Experience is the best teacher.", "swedish": "经验是最好的老师。", "pronunciation": "jīng yàn shì zuì hǎo de lǎo shī."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Swedish": "快乐是一种选择。", "pronunciation": "kuài lè shì yī zhǒng xuǎn zé."},
-            {"english": "Find joy in the little things.", "Swedish": "在小事中寻找快乐。", "pronunciation": "zài xiǎo shì zhōng xún zhǎo kuài lè."},
-            {"english": "Smile, it makes others happy.", "Swedish": "微笑，让别人也开心。", "pronunciation": "wēi xiào, ràng bié rén yě kāi xīn."},
-            {"english": "Today is a gift.", "Swedish": "今天是礼物。", "pronunciation": "jīn tiān shì lǐ wù."},
+            {"english": "Happiness is a choice.", "swedish": "快乐是一种选择。", "pronunciation": "kuài lè shì yī zhǒng xuǎn zé."},
+            {"english": "Find joy in the little things.", "swedish": "在小事中寻找快乐。", "pronunciation": "zài xiǎo shì zhōng xún zhǎo kuài lè."},
+            {"english": "Smile, it makes others happy.", "swedish": "微笑，让别人也开心。", "pronunciation": "wēi xiào, ràng bié rén yě kāi xīn."},
+            {"english": "Today is a gift.", "swedish": "今天是礼物。", "pronunciation": "jīn tiān shì lǐ wù."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "Swedish": "比昨天更好。", "pronunciation": "bǐ zuó tiān gèng hǎo."},
-            {"english": "Grow through what you go through.", "Swedish": "在经历中成长。", "pronunciation": "zài jīng lì zhōng chéng zhǎng."},
-            {"english": "Invest in yourself daily.", "Swedish": "每天投资自己。", "pronunciation": "měi tiān tóu zī zì jǐ."},
+            {"english": "Be better than yesterday.", "swedish": "比昨天更好。", "pronunciation": "bǐ zuó tiān gèng hǎo."},
+            {"english": "Grow through what you go through.", "swedish": "在经历中成长。", "pronunciation": "zài jīng lì zhōng chéng zhǎng."},
+            {"english": "Invest in yourself daily.", "swedish": "每天投资自己。", "pronunciation": "měi tiān tóu zī zì jǐ."},
         ],
-        "Tacksamhete": [
-            {"english": "Thank you for everything.", "Swedish": "谢谢你的一切。", "pronunciation": "xiè xie nǐ de yī qiè."},
-            {"english": "I appreciate your help.", "Swedish": "我感激你的帮助。", "pronunciation": "wǒ gǎn jī nǐ de bāng zhù."},
-            {"english": "Grateful for this moment.", "Swedish": "感激这一刻。", "pronunciation": "gǎn jī zhè yī kè."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "swedish": "谢谢你的一切。", "pronunciation": "xiè xie nǐ de yī qiè."},
+            {"english": "I appreciate your help.", "swedish": "我感激你的帮助。", "pronunciation": "wǒ gǎn jī nǐ de bāng zhù."},
+            {"english": "Grateful for this moment.", "swedish": "感激这一刻。", "pronunciation": "gǎn jī zhè yī kè."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Swedish": "永远是朋友，无论如何。", "pronunciation": "yǒng yuǎn shì péng yǒu, wú lùn rú hé."},
-            {"english": "You are my best friend.", "Swedish": "你是我最好的朋友。", "pronunciation": "nǐ shì wǒ zuì hǎo de péng yǒu."},
-            {"english": "True friends stick together.", "Swedish": "真正的朋友在一起。", "pronunciation": "zhēn zhèng de péng yǒu zài yī qǐ."},
+            {"english": "Friends forever, no matter what.", "swedish": "永远是朋友，无论如何。", "pronunciation": "yǒng yuǎn shì péng yǒu, wú lùn rú hé."},
+            {"english": "You are my best friend.", "swedish": "你是我最好的朋友。", "pronunciation": "nǐ shì wǒ zuì hǎo de péng yǒu."},
+            {"english": "True friends stick together.", "swedish": "真正的朋友在一起。", "pronunciation": "zhēn zhèng de péng yǒu zài yī qǐ."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Swedish": "总有希望。", "pronunciation": "zǒng yǒu xī wàng."},
-            {"english": "Better days are coming.", "Swedish": "更好的日子会来。", "pronunciation": "gèng hǎo de rì zi huì lái."},
-            {"english": "Keep faith, keep going.", "Swedish": "保持信念，继续前进。", "pronunciation": "bǎo chí xìn niàn, jì xù qián jìn."},
+            {"english": "There is always hope.", "swedish": "总有希望。", "pronunciation": "zǒng yǒu xī wàng."},
+            {"english": "Better days are coming.", "swedish": "更好的日子会来。", "pronunciation": "gèng hǎo de rì zi huì lái."},
+            {"english": "Keep faith, keep going.", "swedish": "保持信念，继续前进。", "pronunciation": "bǎo chí xìn niàn, jì xù qián jìn."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Swedish": "今天创造美好的东西。", "pronunciation": "jīn tiān chuàng zào měi hǎo de dōng xī."},
-            {"english": "Your imagination is unlimited.", "Swedish": "你的想象力无限。", "pronunciation": "nǐ de xiǎng xiàng lì wú xiàn."},
-            {"english": "Art comes from the heart.", "Swedish": "艺术来自内心。", "pronunciation": "yì shù lái zì nèi xīn."},
-            {"english": "Express yourself freely.", "Swedish": "自由表达自己。", "pronunciation": "zì yóu biǎo dá zì jǐ."},
-            {"english": "Innovation starts with curiosity.", "Swedish": "创新始于好奇心。", "pronunciation": "chuàng xīn shǐ yú hào qí xīn."},
+            {"english": "Create something beautiful today.", "swedish": "今天创造美好的东西。", "pronunciation": "jīn tiān chuàng zào měi hǎo de dōng xī."},
+            {"english": "Your imagination is unlimited.", "swedish": "你的想象力无限。", "pronunciation": "nǐ de xiǎng xiàng lì wú xiàn."},
+            {"english": "Art comes from the heart.", "swedish": "艺术来自内心。", "pronunciation": "yì shù lái zì nèi xīn."},
+            {"english": "Express yourself freely.", "swedish": "自由表达自己。", "pronunciation": "zì yóu biǎo dá zì jǐ."},
+            {"english": "Innovation starts with curiosity.", "swedish": "创新始于好奇心。", "pronunciation": "chuàng xīn shǐ yú hào qí xīn."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "Swedish": "在内心寻找平静。", "pronunciation": "zài nèi xīn xún zhǎo píng jìng."},
-            {"english": "Breathe, relax, let go.", "Swedish": "呼吸，放松，放下。", "pronunciation": "hū xī, fàng sōng, fàng xià."},
-            {"english": "Calm mind, happy heart.", "Swedish": "心静，心喜。", "pronunciation": "xīn jìng, xīn xǐ."},
+            {"english": "Find peace within yourself.", "swedish": "在内心寻找平静。", "pronunciation": "zài nèi xīn xún zhǎo píng jìng."},
+            {"english": "Breathe, relax, let go.", "swedish": "呼吸，放松，放下。", "pronunciation": "hū xī, fàng sōng, fàng xià."},
+            {"english": "Calm mind, happy heart.", "swedish": "心静，心喜。", "pronunciation": "xīn jìng, xīn xǐ."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Swedish": "你足够了，就做你自己。", "pronunciation": "nǐ zú gòu le, jiù zuò nǐ zì jǐ."},
-            {"english": "Stand tall, speak up.", "Swedish": "挺直腰板，大声说话。", "pronunciation": "tǐng zhí yāo bǎn, dà shēng shuō huà."},
-            {"english": "Believe in your abilities.", "Swedish": "相信你的能力。", "pronunciation": "xiāng xìn nǐ de néng lì."},
+            {"english": "You are enough, just as you are.", "swedish": "你足够了，就做你自己。", "pronunciation": "nǐ zú gòu le, jiù zuò nǐ zì jǐ."},
+            {"english": "Stand tall, speak up.", "swedish": "挺直腰板，大声说话。", "pronunciation": "tǐng zhí yāo bǎn, dà shēng shuō huà."},
+            {"english": "Believe in your abilities.", "swedish": "相信你的能力。", "pronunciation": "xiāng xìn nǐ de néng lì."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Swedish": "永不放弃，继续前进。", "pronunciation": "yǒng bù fàng qì, jì xù qián jìn."},
-            {"english": "Storms make trees take deeper roots.", "Swedish": "风暴使树根更深。", "pronunciation": "fēng bào shǐ shù gēn gèng shēn."},
-            {"english": "Patience and persistence win.", "Swedish": "耐心和坚持获胜。", "pronunciation": "nài xīn hé jiān chí huò shèng."},
+            {"english": "Never give up, keep pushing.", "swedish": "永不放弃，继续前进。", "pronunciation": "yǒng bù fàng qì, jì xù qián jìn."},
+            {"english": "Storms make trees take deeper roots.", "swedish": "风暴使树根更深。", "pronunciation": "fēng bào shǐ shù gēn gèng shēn."},
+            {"english": "Patience and persistence win.", "swedish": "耐心和坚持获胜。", "pronunciation": "nài xīn hé jiān chí huò shèng."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Swedish": "让你的光芒闪耀。", "pronunciation": "ràng nǐ de guāng máng shǎn yào."},
-            {"english": "Inspire others by your actions.", "Swedish": "用行动激励他人。", "pronunciation": "yòng xíng dòng jī lì tā rén."},
-            {"english": "Be the change you want to see.", "Swedish": "成为你想看到的改变。", "pronunciation": "chéng wéi nǐ xiǎng kàn dào de gǎi biàn."},
+            {"english": "Let your light shine bright.", "swedish": "让你的光芒闪耀。", "pronunciation": "ràng nǐ de guāng máng shǎn yào."},
+            {"english": "Inspire others by your actions.", "swedish": "用行动激励他人。", "pronunciation": "yòng xíng dòng jī lì tā rén."},
+            {"english": "Be the change you want to see.", "swedish": "成为你想看到的改变。", "pronunciation": "chéng wéi nǐ xiǎng kàn dào de gǎi biàn."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "Swedish": "每天选择积极。", "pronunciation": "měi tiān xuǎn zé jī jí."},
-            {"english": "Good vibes only.", "Swedish": "只要好氛围。", "pronunciation": "zhǐ yào hǎo fēn wéi."},
-            {"english": "Life is what you make it.", "Swedish": "生活由你创造。", "pronunciation": "shēng huó yóu nǐ chuàng zào."},
+            {"english": "Choose positivity every day.", "swedish": "每天选择积极。", "pronunciation": "měi tiān xuǎn zé jī jí."},
+            {"english": "Good vibes only.", "swedish": "只要好氛围。", "pronunciation": "zhǐ yào hǎo fēn wéi."},
+            {"english": "Life is what you make it.", "swedish": "生活由你创造。", "pronunciation": "shēng huó yóu nǐ chuàng zào."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Swedish": "勇敢，迈出第一步。", "pronunciation": "yǒng gǎn, mài chū dì yī bù."},
-            {"english": "Courage is not the absence of fear.", "Swedish": "勇气不是没有恐惧。", "pronunciation": "yǒng qì bù shì méi yǒu kǒng jù."},
-            {"english": "Face your fears head on.", "Swedish": "直面恐惧。", "pronunciation": "zhí miàn kǒng jù."},
+            {"english": "Be brave, take the first step.", "swedish": "勇敢，迈出第一步。", "pronunciation": "yǒng gǎn, mài chū dì yī bù."},
+            {"english": "Courage is not the absence of fear.", "swedish": "勇气不是没有恐惧。", "pronunciation": "yǒng qì bù shì méi yǒu kǒng jù."},
+            {"english": "Face your fears head on.", "swedish": "直面恐惧。", "pronunciation": "zhí miàn kǒng jù."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Swedish": "善待你遇到的每个人。", "pronunciation": "shàn dài nǐ yù dào de měi gè rén."},
-            {"english": "Kindness costs nothing, means everything.", "Swedish": "善良无需代价，意义非凡。", "pronunciation": "shàn liáng wú xū dài jià, yì yì fēi fán."},
-            {"english": "Spread kindness wherever you go.", "Swedish": "无论去哪里都传播善良。", "pronunciation": "wú lùn qù nǎ lǐ dōu chuán bō shàn liáng."},
+            {"english": "Be kind to everyone you meet.", "swedish": "善待你遇到的每个人。", "pronunciation": "shàn dài nǐ yù dào de měi gè rén."},
+            {"english": "Kindness costs nothing, means everything.", "swedish": "善良无需代价，意义非凡。", "pronunciation": "shàn liáng wú xū dài jià, yì yì fēi fán."},
+            {"english": "Spread kindness wherever you go.", "swedish": "无论去哪里都传播善良。", "pronunciation": "wú lùn qù nǎ lǐ dōu chuán bō shàn liáng."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Swedish": "好事需要时间。", "pronunciation": "hǎo shì xū yào shí jiān."},
-            {"english": "Wait patiently, trust the process.", "Swedish": "耐心等待，相信过程。", "pronunciation": "nài xīn děng dài, xiāng xìn guò chéng."},
-            {"english": "Rome wasn't built in a day.", "Swedish": "罗马不是一天建成的。", "pronunciation": "luó mǎ bù shì yī tiān jiàn chéng de."},
+            {"english": "Good things take time.", "swedish": "好事需要时间。", "pronunciation": "hǎo shì xū yào shí jiān."},
+            {"english": "Wait patiently, trust the process.", "swedish": "耐心等待，相信过程。", "pronunciation": "nài xīn děng dài, xiāng xìn guò chéng."},
+            {"english": "Rome wasn't built in a day.", "swedish": "罗马不是一天建成的。", "pronunciation": "luó mǎ bù shì yī tiān jiàn chéng de."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Swedish": "原谅并释放自己。", "pronunciation": "yuán liàng bìng shì fàng zì jǐ."},
-            {"english": "Let go of grudges, find peace.", "Swedish": "放下怨恨，找到平静。", "pronunciation": "fàng xià yuàn hèn, zhǎo dào píng jìng."},
-            {"english": "Forgiveness is a gift to yourself.", "Swedish": "原谅是给自己的礼物。", "pronunciation": "yuán liàng shì gěi zì jǐ de lǐ wù."},
+            {"english": "Forgive and set yourself free.", "swedish": "原谅并释放自己。", "pronunciation": "yuán liàng bìng shì fàng zì jǐ."},
+            {"english": "Let go of grudges, find peace.", "swedish": "放下怨恨，找到平静。", "pronunciation": "fàng xià yuàn hèn, zhǎo dào píng jìng."},
+            {"english": "Forgiveness is a gift to yourself.", "swedish": "原谅是给自己的礼物。", "pronunciation": "yuán liàng shì gěi zì jǐ de lǐ wù."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Swedish": "你比自己知道的更强大。", "pronunciation": "nǐ bǐ zì jǐ zhī dào de gèng qiáng dà."},
-            {"english": "Inner strength comes from within.", "Swedish": "内在力量来自内心。", "pronunciation": "nèi zài lì liàng lái zì nèi xīn."},
-            {"english": "Challenges make you stronger.", "Swedish": "挑战让你更强大。", "pronunciation": "tiǎo zhàn ràng nǐ gèng qiáng dà."},
+            {"english": "You are stronger than you know.", "swedish": "你比自己知道的更强大。", "pronunciation": "nǐ bǐ zì jǐ zhī dào de gèng qiáng dà."},
+            {"english": "Inner strength comes from within.", "swedish": "内在力量来自内心。", "pronunciation": "nèi zài lì liàng lái zì nèi xīn."},
+            {"english": "Challenges make you stronger.", "swedish": "挑战让你更强大。", "pronunciation": "tiǎo zhàn ràng nǐ gèng qiáng dà."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Swedish": "在每一刻找到快乐。", "pronunciation": "zài měi yī kè zhǎo dào kuài lè."},
-            {"english": "Joy is contagious, spread it.", "Swedish": "快乐会传染，传播它。", "pronunciation": "kuài lè huì chuán rǎn, chuán bō tā."},
-            {"english": "Dance like nobody's watching.", "Swedish": "像没人看着一样跳舞。", "pronunciation": "xiàng méi rén kàn zhe yī yàng tiào wǔ."},
+            {"english": "Find joy in every moment.", "swedish": "在每一刻找到快乐。", "pronunciation": "zài měi yī kè zhǎo dào kuài lè."},
+            {"english": "Joy is contagious, spread it.", "swedish": "快乐会传染，传播它。", "pronunciation": "kuài lè huì chuán rǎn, chuán bō tā."},
+            {"english": "Dance like nobody's watching.", "swedish": "像没人看着一样跳舞。", "pronunciation": "xiàng méi rén kàn zhe yī yàng tiào wǔ."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Swedish": "在生活中找到平衡。", "pronunciation": "zài shēng huó zhōng zhǎo dào píng héng."},
-            {"english": "Work hard, rest well.", "Swedish": "努力工作，好好休息。", "pronunciation": "nǔ lì gōng zuò, hǎo hǎo xiū xī."},
-            {"english": "Too much of anything is not good.", "Swedish": "过犹不及。", "pronunciation": "guò yóu bù jí."},
+            {"english": "Find balance in your life.", "swedish": "在生活中找到平衡。", "pronunciation": "zài shēng huó zhōng zhǎo dào píng héng."},
+            {"english": "Work hard, rest well.", "swedish": "努力工作，好好休息。", "pronunciation": "nǔ lì gōng zuò, hǎo hǎo xiū xī."},
+            {"english": "Too much of anything is not good.", "swedish": "过犹不及。", "pronunciation": "guò yóu bù jí."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Swedish": "成长发生在舒适区外。", "pronunciation": "chéng zhǎng fā shēng zài shū shì qū wài."},
-            {"english": "Embrace change, grow stronger.", "Swedish": "拥抱改变，变得更强大。", "pronunciation": "yōng bào gǎi biàn, biàn dé gèng qiáng dà."},
-            {"english": "Every challenge is a chance to grow.", "Swedish": "每个挑战都是成长机会。", "pronunciation": "měi gè tiǎo zhàn dōu shì chéng zhǎng jī huì."},
+            {"english": "Growth happens outside your comfort zone.", "swedish": "成长发生在舒适区外。", "pronunciation": "chéng zhǎng fā shēng zài shū shì qū wài."},
+            {"english": "Embrace change, grow stronger.", "swedish": "拥抱改变，变得更强大。", "pronunciation": "yōng bào gǎi biàn, biàn dé gèng qiáng dà."},
+            {"english": "Every challenge is a chance to grow.", "swedish": "每个挑战都是成长机会。", "pronunciation": "měi gè tiǎo zhàn dōu shì chéng zhǎng jī huì."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Swedish": "找到你的目标，追随它。", "pronunciation": "zhǎo dào nǐ de mù biāo, zhuī suí tā."},
-            {"english": "Your life has meaning.", "Swedish": "你的生命有意义。", "pronunciation": "nǐ de shēng mìng yǒu yì yì."},
-            {"english": "Live with intention, not accident.", "Swedish": "有目的地生活，不是偶然。", "pronunciation": "yǒu mù dì de shēng huó, bù shì ǒu rán."},
+            {"english": "Find your purpose, follow it.", "swedish": "找到你的目标，追随它。", "pronunciation": "zhǎo dào nǐ de mù biāo, zhuī suí tā."},
+            {"english": "Your life has meaning.", "swedish": "你的生命有意义。", "pronunciation": "nǐ de shēng mìng yǒu yì yì."},
+            {"english": "Live with intention, not accident.", "swedish": "有目的地生活，不是偶然。", "pronunciation": "yǒu mù dì de shēng huó, bù shì ǒu rán."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Swedish": "活在当下这一刻。", "pronunciation": "huó zài dāng xià zhè yī kè."},
-            {"english": "Breathe deeply, stay grounded.", "Swedish": "深呼吸，保持踏实。", "pronunciation": "shēn hū xī, bǎo chí tà shí."},
-            {"english": "Notice the little things around you.", "Swedish": "注意周围的小事。", "pronunciation": "zhù yì zhōu wéi de xiǎo shì."},
+            {"english": "Be present in this moment.", "swedish": "活在当下这一刻。", "pronunciation": "huó zài dāng xià zhè yī kè."},
+            {"english": "Breathe deeply, stay grounded.", "swedish": "深呼吸，保持踏实。", "pronunciation": "shēn hū xī, bǎo chí tà shí."},
+            {"english": "Notice the little things around you.", "swedish": "注意周围的小事。", "pronunciation": "zhù yì zhōu wéi de xiǎo shì."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Swedish_file = output_dir / f"Swedish_{i}.mp3"
+        swedish_file = output_dir / f"swedish_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -522,14 +522,14 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Swedish audio
-        sv_success = asyncio.run(generate_single_audio(phrase["Swedish"], Swedish_VOICE, str(Swedish_file)))
+        sv_success = asyncio.run(generate_single_audio(phrase["swedish"], SWEDISH_VOICE, str(swedish_file)))
         if not sv_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Swedish_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(swedish_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        sv_duration = get_audio_duration(str(Swedish_file))
+        sv_duration = get_audio_duration(str(swedish_file))
 
         # Add pause between English and Swedish
         pause_between = 0.5
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Swedish_file),
+            "-i", str(swedish_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Swedish_file.as_posix()}'\n")
+                f.write(f"file '{swedish_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Swedish": str(Swedish_file),
+            "swedish": str(swedish_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    Swedish_font_paths = [
+    swedish_font_paths = [
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -681,12 +681,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_Swedish = load_font(Swedish_font_paths, 82)
-    font_pronunciation = load_font(Swedish_font_paths, 48)
+    font_swedish = load_font(swedish_font_paths, 82)
+    font_pronunciation = load_font(swedish_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Swedish = phrase_data.get("Swedish", "")
+    swedish = phrase_data.get("swedish", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -740,7 +740,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Swedish Box
-    sv_lines = wrap_text(Swedish, font_Swedish, VIDEO_WIDTH - 300)
+    sv_lines = wrap_text(swedish, font_swedish, VIDEO_WIDTH - 300)
     sv_line_h = 100
     sv_total_h = len(sv_lines) * sv_line_h
     
@@ -777,7 +777,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     for i, line in enumerate(sv_lines):
         draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * sv_line_h) + sv_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_Swedish, anchor="mm")
+                  line, fill=(255, 255, 255), font=font_swedish, anchor="mm")
 
     y_cursor += sv_box_h + (GAP // 2)
 
@@ -795,7 +795,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Swedish"
+    brand_text = "VELOCITY SWEDISH"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -811,7 +811,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Swedish: str, output_path: str):
+def generate_thumbnail(category_english: str, category_swedish: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -826,7 +826,7 @@ def generate_thumbnail(category_english: str, category_Swedish: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
-    Swedish_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
+    swedish_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -835,12 +835,12 @@ def generate_thumbnail(category_english: str, category_Swedish: str, output_path
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(Swedish_font_paths, 110)
+    font_main = load_font(swedish_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Swedish", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER SWEDISH", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -853,7 +853,7 @@ def generate_thumbnail(category_english: str, category_Swedish: str, output_path
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
     # Swedish Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Swedish, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_swedish, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -865,7 +865,7 @@ def generate_thumbnail(category_english: str, category_Swedish: str, output_path
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Swedish", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY SWEDISH", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -900,13 +900,13 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Swedish: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_swedish: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Swedish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Swedish})",
-        f"60 Swedish Phrases for {category_english} | Speak Swedish Like a Native! ({category_Swedish})",
+        f"Learn Swedish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_swedish})",
+        f"60 Swedish Phrases for {category_english} | Speak Swedish Like a Native! ({category_swedish})",
         f"Master Swedish {category_english} | 60 Essential Swedish Phrases with Pronunciation | Velocity Swedish",
         f"Swedish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
         f"Speak Swedish Fluently | {category_english} Phrases | English + Swedish + Pronunciation",
@@ -915,7 +915,7 @@ def generate_title_description(category_english: str, category_Swedish: str, phr
     # Generate comprehensive description
     description = f"""🇸🇪 Learn Swedish with Velocity Swedish! 🇸🇪
 
-In this video, you'll learn 60 essential Swedish phrases about {category_english} ({category_Swedish}).
+In this video, you'll learn 60 essential Swedish phrases about {category_english} ({category_swedish}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
@@ -944,7 +944,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Swedish: {phrase['Swedish']}
+   Swedish: {phrase['swedish']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -967,7 +967,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Swedish:
+📱 FOLLOW VELOCITY SWEDISH:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -1035,7 +1035,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Swedish": category_Swedish,
+        "category_swedish": category_swedish,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1139,7 +1139,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Swedish[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_SWEDISH[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1152,7 +1152,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['Swedish']}")
+        print(f"  {i}. {phrase['english']} → {phrase['swedish']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1180,10 +1180,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_SWEDISH[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_SWEDISH[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1216,7 +1216,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_metadata = generate_title_description(
         category_english,
-        CATEGORIES_Swedish[category_english],
+        CATEGORIES_SWEDISH[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1225,7 +1225,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     # Save metadata
     metadata = {
         "category_english": category_english,
-        "category_Swedish": CATEGORIES_Swedish[category_english],
+        "category_swedish": CATEGORIES_SWEDISH[category_english],
         "timestamp": timestamp,
         "target_phrases": phrases_count,
         "actual_duration_seconds": total_duration,
@@ -1250,7 +1250,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         "description": title_metadata["description"],
         "tags": title_metadata["tags"],
         "category_english": category_english,
-        "category_Swedish": CATEGORIES_Swedish[category_english],
+        "category_swedish": CATEGORIES_SWEDISH[category_english],
         "phrases_count": len(phrases),
         "duration_minutes": total_duration / 60
     }
@@ -1298,7 +1298,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇸🇪 VELOCITY Swedish - YOUTUBE LONG-FORM AUTOMATION 🇸🇪")
+    print("🇸🇪 VELOCITY SWEDISH - YOUTUBE LONG-FORM AUTOMATION 🇸🇪")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1310,7 +1310,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Swedish[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_SWEDISH[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
