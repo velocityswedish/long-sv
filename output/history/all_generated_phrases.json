@@ -9719,7 +9719,367 @@
       "swedish": "Acceptera utmaningen, väx starkare.",
       "category": "Strength",
       "generated_at": "2026-08-02T04:33:22.722941"
+    },
+    {
+      "english": "Breathe deep, speak slow.",
+      "swedish": "Andas djupt, tala långsamt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601249"
+    },
+    {
+      "english": "Feel the words, let them flow.",
+      "swedish": "Känn orden, låt dem flöda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601257"
+    },
+    {
+      "english": "Listen to the quiet, too.",
+      "swedish": "Lyssna på tystnaden, också.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601259"
+    },
+    {
+      "english": "Find your inner voice.",
+      "swedish": "Hitta din inre röst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601263"
+    },
+    {
+      "english": "Let go of the rush.",
+      "swedish": "Släpp stressen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601264"
+    },
+    {
+      "english": "Each moment, a new sound.",
+      "swedish": "Varje ögonblick, ett nytt ljud.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601265"
+    },
+    {
+      "english": "Ground yourself, then speak.",
+      "swedish": "Jorda dig, prata sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601267"
+    },
+    {
+      "english": "Observe, absorb, then utter.",
+      "swedish": "Observera, absorbera, säg sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601269"
+    },
+    {
+      "english": "Feel the space between words.",
+      "swedish": "Känn utrymmet mellan orden.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601271"
+    },
+    {
+      "english": "Your thoughts, quiet them first.",
+      "swedish": "Dina tankar, tysta dem först.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601272"
+    },
+    {
+      "english": "Just be here, with Swedish.",
+      "swedish": "Bara var här, med svenskan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601274"
+    },
+    {
+      "english": "Let syllables settle.",
+      "swedish": "Låt stavelserna sjunka.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601275"
+    },
+    {
+      "english": "Find the calm within speech.",
+      "swedish": "Hitta lugnet i talet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601276"
+    },
+    {
+      "english": "Don't force it, just breathe.",
+      "swedish": "Tvinga inte, andas bara.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601277"
+    },
+    {
+      "english": "The present word, is enough.",
+      "swedish": "Dagens ord, räcker.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601278"
+    },
+    {
+      "english": "Hear the silence, speak softly.",
+      "swedish": "Hör tystnaden, tala mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601279"
+    },
+    {
+      "english": "Release the tension, relax.",
+      "swedish": "Släpp spänningen, slappna av.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601280"
+    },
+    {
+      "english": "Let your breath guide you.",
+      "swedish": "Låt din andning leda dig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601282"
+    },
+    {
+      "english": "This moment, this sound.",
+      "swedish": "Detta ögonblick, detta ljud.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601283"
+    },
+    {
+      "english": "Inhale peace, exhale words.",
+      "swedish": "Andas in frid, andas ut ord.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601284"
+    },
+    {
+      "english": "Stillness before speaking.",
+      "swedish": "Stillhet före tal.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601285"
+    },
+    {
+      "english": "Feel the pause, it matters.",
+      "swedish": "Känn pausen, den betyder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601286"
+    },
+    {
+      "english": "Let your voice be gentle.",
+      "swedish": "Låt din röst vara mild.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601287"
+    },
+    {
+      "english": "Be present, listen inward.",
+      "swedish": "Var närvarande, lyssna inåt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601288"
+    },
+    {
+      "english": "Quiet the mind, speak clearly.",
+      "swedish": "Tysta sinnet, tala tydligt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601289"
+    },
+    {
+      "english": "Your natural tone, found.",
+      "swedish": "Din naturliga ton, hittad.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601290"
+    },
+    {
+      "english": "Settle into the sound.",
+      "swedish": "Luta dig in i ljudet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601291"
+    },
+    {
+      "english": "One breath, one sentence.",
+      "swedish": "En andning, en mening.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601292"
+    },
+    {
+      "english": "Find your Swedish center.",
+      "swedish": "Hitta ditt svenska centrum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601293"
+    },
+    {
+      "english": "Release the pressure, speak.",
+      "swedish": "Släpp pressen, prata.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601294"
+    },
+    {
+      "english": "Let the meaning sink in.",
+      "swedish": "Låt meningen sjunka in.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601295"
+    },
+    {
+      "english": "Each syllable, a moment.",
+      "swedish": "Varje stavelse, ett ögonblick.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601296"
+    },
+    {
+      "english": "Speak from your calm.",
+      "swedish": "Tala från ditt lugn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601299"
+    },
+    {
+      "english": "Unclench your jaw, speak.",
+      "swedish": "Slappna av i käken, prata.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601300"
+    },
+    {
+      "english": "Feel the ground, then sound.",
+      "swedish": "Känn marken, sen ljudet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601301"
+    },
+    {
+      "english": "The quiet is your teacher.",
+      "swedish": "Tystnaden är din lärare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601302"
+    },
+    {
+      "english": "Just listen, then respond.",
+      "swedish": "Bara lyssna, svara sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601303"
+    },
+    {
+      "english": "Softly, clearly, beautifully.",
+      "swedish": "Mjukt, tydligt, vackert.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601304"
+    },
+    {
+      "english": "Your true voice, waiting.",
+      "swedish": "Din sanna röst, väntar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601305"
+    },
+    {
+      "english": "Breathe deep, speak slow.",
+      "swedish": "Andas djupt, tala långsamt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601306"
+    },
+    {
+      "english": "Feel the words, let them flow.",
+      "swedish": "Känn orden, låt dem flöda.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601307"
+    },
+    {
+      "english": "Listen to the quiet, too.",
+      "swedish": "Lyssna på tystnaden, också.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601308"
+    },
+    {
+      "english": "Find your inner voice.",
+      "swedish": "Hitta din inre röst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601309"
+    },
+    {
+      "english": "Let go of the rush.",
+      "swedish": "Släpp stressen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601310"
+    },
+    {
+      "english": "Each moment, a new sound.",
+      "swedish": "Varje ögonblick, ett nytt ljud.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601311"
+    },
+    {
+      "english": "Ground yourself, then speak.",
+      "swedish": "Jorda dig, prata sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601312"
+    },
+    {
+      "english": "Observe, absorb, then utter.",
+      "swedish": "Observera, absorbera, säg sen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601313"
+    },
+    {
+      "english": "Feel the space between words.",
+      "swedish": "Känn utrymmet mellan orden.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601314"
+    },
+    {
+      "english": "Your thoughts, quiet them first.",
+      "swedish": "Dina tankar, tysta dem först.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601315"
+    },
+    {
+      "english": "Just be here, with Swedish.",
+      "swedish": "Bara var här, med svenskan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601316"
+    },
+    {
+      "english": "Let syllables settle.",
+      "swedish": "Låt stavelserna sjunka.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601317"
+    },
+    {
+      "english": "Find the calm within speech.",
+      "swedish": "Hitta lugnet i talet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601318"
+    },
+    {
+      "english": "Don't force it, just breathe.",
+      "swedish": "Tvinga inte, andas bara.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601319"
+    },
+    {
+      "english": "The present word, is enough.",
+      "swedish": "Dagens ord, räcker.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601322"
+    },
+    {
+      "english": "Hear the silence, speak softly.",
+      "swedish": "Hör tystnaden, tala mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601323"
+    },
+    {
+      "english": "Release the tension, relax.",
+      "swedish": "Släpp spänningen, slappna av.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601324"
+    },
+    {
+      "english": "Let your breath guide you.",
+      "swedish": "Låt din andning leda dig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601325"
+    },
+    {
+      "english": "This moment, this sound.",
+      "swedish": "Detta ögonblick, detta ljud.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601326"
+    },
+    {
+      "english": "Inhale peace, exhale words.",
+      "swedish": "Andas in frid, andas ut ord.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601327"
+    },
+    {
+      "english": "Stillness before speaking.",
+      "swedish": "Stillhet före tal.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-03T04:32:19.601328"
     }
   ],
-  "last_updated": "2026-08-02T04:33:22.722943"
+  "last_updated": "2026-08-03T04:32:19.601330"
 }
