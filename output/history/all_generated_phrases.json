@@ -10079,7 +10079,367 @@
       "swedish": "Stillhet före tal.",
       "category": "Mindfulness",
       "generated_at": "2026-08-03T04:32:19.601328"
+    },
+    {
+      "english": "Good friends, are like stars.",
+      "swedish": "Goda vänner, som stjärnor.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822474"
+    },
+    {
+      "english": "True friends, are always there.",
+      "swedish": "Sanna vänner, finns alltid där.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822486"
+    },
+    {
+      "english": "You are a great friend.",
+      "swedish": "Du är en toppenkompis.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822488"
+    },
+    {
+      "english": "Thank you, for being you.",
+      "swedish": "Tack, för att du finns.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822489"
+    },
+    {
+      "english": "I appreciate our friendship.",
+      "swedish": "Jag värdesätter vår vänskap.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822490"
+    },
+    {
+      "english": "We always have fun.",
+      "swedish": "Vi har alltid kul.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822491"
+    },
+    {
+      "english": "You understand me.",
+      "swedish": "Du förstår mig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822492"
+    },
+    {
+      "english": "Loyalty, is important.",
+      "swedish": "Lojalitet, är viktigt.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822496"
+    },
+    {
+      "english": "We share secrets.",
+      "swedish": "Vi delar hemligheter.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822497"
+    },
+    {
+      "english": "You make me laugh.",
+      "swedish": "Du får mig att skratta.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822499"
+    },
+    {
+      "english": "Kindness, is key.",
+      "swedish": "Vänlighet, är nyckeln.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822500"
+    },
+    {
+      "english": "We support each other.",
+      "swedish": "Vi stöttar varandra.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822501"
+    },
+    {
+      "english": "My best friend, is you.",
+      "swedish": "Min bästa vän, är du.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822506"
+    },
+    {
+      "english": "Let's stay in touch.",
+      "swedish": "Vi hörs, eller hur?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822507"
+    },
+    {
+      "english": "Good company, is precious.",
+      "swedish": "Gott sällskap, är dyrbart.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822508"
+    },
+    {
+      "english": "We grow together.",
+      "swedish": "Vi växer tillsammans.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822509"
+    },
+    {
+      "english": "Friendship lasts.",
+      "swedish": "Vänskap varar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822511"
+    },
+    {
+      "english": "You're my rock.",
+      "swedish": "Du är min klippa.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822512"
+    },
+    {
+      "english": "We have history.",
+      "swedish": "Vi har en historia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822513"
+    },
+    {
+      "english": "Your advice, is valued.",
+      "swedish": "Dina råd, är värdefulla.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822514"
+    },
+    {
+      "english": "We share laughter, and tears.",
+      "swedish": "Vi delar skratt, och tårar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822515"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "swedish": "En sann vän, är ovanlig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822516"
+    },
+    {
+      "english": "Friendship, is an adventure.",
+      "swedish": "Vänskap, är ett äventyr.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822517"
+    },
+    {
+      "english": "We have so much in common.",
+      "swedish": "Vi har mycket gemensamt.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822518"
+    },
+    {
+      "english": "You accept me, as I am.",
+      "swedish": "Du accepterar mig, som jag är.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822519"
+    },
+    {
+      "english": "Our bond, is strong.",
+      "swedish": "Vår relation, är stark.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822519"
+    },
+    {
+      "english": "Thanks for listening.",
+      "swedish": "Tack för att du lyssnar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822520"
+    },
+    {
+      "english": "You always cheer me up.",
+      "swedish": "Du piggar alltid upp mig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822521"
+    },
+    {
+      "english": "We make memories.",
+      "swedish": "Vi skapar minnen.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822522"
+    },
+    {
+      "english": "You are important to me.",
+      "swedish": "Du betyder mycket för mig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822523"
+    },
+    {
+      "english": "Good times, with good people.",
+      "swedish": "Goda tider, med goda människor.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822524"
+    },
+    {
+      "english": "You inspire me.",
+      "swedish": "Du inspirerar mig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822525"
+    },
+    {
+      "english": "Friendship is patient.",
+      "swedish": "Vänskap är tålmodig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822526"
+    },
+    {
+      "english": "We have fun, even when it's quiet.",
+      "swedish": "Vi har kul, även när det är tyst.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822527"
+    },
+    {
+      "english": "You make me a better person.",
+      "swedish": "Du gör mig till en bättre människa.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822528"
+    },
+    {
+      "english": "Good friends, are like stars.",
+      "swedish": "Goda vänner, som stjärnor.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822529"
+    },
+    {
+      "english": "True friends, are always there.",
+      "swedish": "Sanna vänner, finns alltid där.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822530"
+    },
+    {
+      "english": "You are a great friend.",
+      "swedish": "Du är en toppenkompis.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822531"
+    },
+    {
+      "english": "Thank you, for being you.",
+      "swedish": "Tack, för att du finns.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822532"
+    },
+    {
+      "english": "I appreciate our friendship.",
+      "swedish": "Jag värdesätter vår vänskap.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822535"
+    },
+    {
+      "english": "We always have fun.",
+      "swedish": "Vi har alltid kul.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822536"
+    },
+    {
+      "english": "You understand me.",
+      "swedish": "Du förstår mig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822538"
+    },
+    {
+      "english": "Loyalty, is important.",
+      "swedish": "Lojalitet, är viktigt.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822539"
+    },
+    {
+      "english": "We share secrets.",
+      "swedish": "Vi delar hemligheter.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822539"
+    },
+    {
+      "english": "You make me laugh.",
+      "swedish": "Du får mig att skratta.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822540"
+    },
+    {
+      "english": "Kindness, is key.",
+      "swedish": "Vänlighet, är nyckeln.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822541"
+    },
+    {
+      "english": "We support each other.",
+      "swedish": "Vi stöttar varandra.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822542"
+    },
+    {
+      "english": "My best friend, is you.",
+      "swedish": "Min bästa vän, är du.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822543"
+    },
+    {
+      "english": "Let's stay in touch.",
+      "swedish": "Vi hörs, eller hur?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822544"
+    },
+    {
+      "english": "Good company, is precious.",
+      "swedish": "Gott sällskap, är dyrbart.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822545"
+    },
+    {
+      "english": "We grow together.",
+      "swedish": "Vi växer tillsammans.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822546"
+    },
+    {
+      "english": "Friendship lasts.",
+      "swedish": "Vänskap varar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822547"
+    },
+    {
+      "english": "You're my rock.",
+      "swedish": "Du är min klippa.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822548"
+    },
+    {
+      "english": "We have history.",
+      "swedish": "Vi har en historia.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822549"
+    },
+    {
+      "english": "Your advice, is valued.",
+      "swedish": "Dina råd, är värdefulla.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822550"
+    },
+    {
+      "english": "We share laughter, and tears.",
+      "swedish": "Vi delar skratt, och tårar.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822551"
+    },
+    {
+      "english": "A true friend, is rare.",
+      "swedish": "En sann vän, är ovanlig.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822552"
+    },
+    {
+      "english": "Friendship, is an adventure.",
+      "swedish": "Vänskap, är ett äventyr.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822553"
+    },
+    {
+      "english": "We have so much in common.",
+      "swedish": "Vi har mycket gemensamt.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822554"
+    },
+    {
+      "english": "You accept me, as I am.",
+      "swedish": "Du accepterar mig, som jag är.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:16:37.822555"
     }
   ],
-  "last_updated": "2026-08-03T04:32:19.601330"
+  "last_updated": "2026-08-04T04:16:37.822557"
 }
