@@ -257,6 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Swedish translation
 3. Pronunciation guide (phonetic spelling, e.g., "Hej, hur mår du?")
+CRITICAL: Every translation MUST be in Swedish. NEVER use German, Spanish, or any other language. Only Swedish.
 
 Return as JSON array:
 [{{"english": "...", "swedish": "...", "pronunciation": "..."}}]
