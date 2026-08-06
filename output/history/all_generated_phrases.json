@@ -10799,7 +10799,367 @@
       "swedish": "Sänk dig i, vardagsspråket.",
       "category": "Purpose",
       "generated_at": "2026-08-05T04:13:04.944775"
+    },
+    {
+      "english": "Share a smile, brightens days.",
+      "swedish": "Ge ett leende, ljusar upp dagar.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096408"
+    },
+    {
+      "english": "Help others, feel good.",
+      "swedish": "Hjälp andra, må bra.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096420"
+    },
+    {
+      "english": "Offer comfort, be there.",
+      "swedish": "Erbjud tröst, var där.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096423"
+    },
+    {
+      "english": "Listen with heart, understand.",
+      "swedish": "Lyssna med hjärta, förstå.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096424"
+    },
+    {
+      "english": "Show empathy, connect.",
+      "swedish": "Visa empati, koppla ihop.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096426"
+    },
+    {
+      "english": "Give compliments, sincerely.",
+      "swedish": "Ge beröm, uppriktigt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096427"
+    },
+    {
+      "english": "Practice patience, it's a virtue.",
+      "swedish": "Öva tålamod, det är en dygd.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096428"
+    },
+    {
+      "english": "Forgive quickly, let go.",
+      "swedish": "Förlåt snabbt, släpp taget.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096432"
+    },
+    {
+      "english": "Be understanding, for everyone.",
+      "swedish": "Var förstående, för alla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096434"
+    },
+    {
+      "english": "Offer encouragement, lift spirits.",
+      "swedish": "Ge uppmuntran, lyft humöret.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096436"
+    },
+    {
+      "english": "Be generous, share freely.",
+      "swedish": "Var generös, dela fritt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096437"
+    },
+    {
+      "english": "Show gratitude, say thanks.",
+      "swedish": "Visa tacksamhet, säg tack.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096439"
+    },
+    {
+      "english": "Speak gently, soft words matter.",
+      "swedish": "Tala mjukt, lena ord betyder.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096440"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "swedish": "Var en god lyssnare, hör verkligen.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096445"
+    },
+    {
+      "english": "Spread positivity, it's contagious.",
+      "swedish": "Sprid positivitet, det smittar.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096447"
+    },
+    {
+      "english": "Offer a helping hand, whenever.",
+      "swedish": "Räck ut en hjälpande hand, när som helst.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096448"
+    },
+    {
+      "english": "Be thoughtful, consider others.",
+      "swedish": "Var omtänksam, tänk på andra.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096449"
+    },
+    {
+      "english": "Express appreciation, show you care.",
+      "swedish": "Uttryck uppskattning, visa att du bryr dig.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096451"
+    },
+    {
+      "english": "Create peace, be calm.",
+      "swedish": "Skapa lugn, var stilla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096452"
+    },
+    {
+      "english": "Offer support, stand by them.",
+      "swedish": "Ge stöd, stå vid deras sida.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096453"
+    },
+    {
+      "english": "Be forgiving, with grace.",
+      "swedish": "Var förlåtande, med nåd.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096455"
+    },
+    {
+      "english": "Share kindness, it multiplies.",
+      "swedish": "Dela vänlighet, det mångfaldigas.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096456"
+    },
+    {
+      "english": "Offer a warm welcome, make them feel home.",
+      "swedish": "Ge ett varmt välkomnande, få dem att känna sig hemma.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096457"
+    },
+    {
+      "english": "Be a good neighbor, always.",
+      "swedish": "Var en god granne, alltid.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096458"
+    },
+    {
+      "english": "Show compassion, feel with them.",
+      "swedish": "Visa medkänsla, känn med dem.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096460"
+    },
+    {
+      "english": "Act with integrity, be honest.",
+      "swedish": "Agera med integritet, var ärlig.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096461"
+    },
+    {
+      "english": "Be humble, learn from all.",
+      "swedish": "Var ödmjuk, lär dig av alla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096462"
+    },
+    {
+      "english": "Offer understanding, accept differences.",
+      "swedish": "Erbjud förståelse, acceptera olikheter.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096463"
+    },
+    {
+      "english": "Be gentle, with yourself too.",
+      "swedish": "Var mild, även mot dig själv.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096464"
+    },
+    {
+      "english": "Radiate warmth, be inviting.",
+      "swedish": "Ustråla värme, var inbjudande.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096465"
+    },
+    {
+      "english": "Practice forgiveness, inner peace.",
+      "swedish": "Öva förlåtelse, inre frid.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096466"
+    },
+    {
+      "english": "Offer a listening ear, truly listen.",
+      "swedish": "Erbjud ett lyssnande öra, lyssna verkligen.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096467"
+    },
+    {
+      "english": "Be supportive, in all ways.",
+      "swedish": "Var stöttande, på alla sätt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096468"
+    },
+    {
+      "english": "Share good news, spread joy.",
+      "swedish": "Dela goda nyheter, sprid glädje.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096469"
+    },
+    {
+      "english": "Be considerate, think ahead.",
+      "swedish": "Var hänsynsfull, tänk framåt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096471"
+    },
+    {
+      "english": "Offer sincere apologies, when wrong.",
+      "swedish": "Be om uppriktiga ursäkter, när du har fel.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096472"
+    },
+    {
+      "english": "Be a source of comfort, when needed.",
+      "swedish": "Var en källa till tröst, när det behövs.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096473"
+    },
+    {
+      "english": "Show genuine interest, ask more.",
+      "swedish": "Visa genuint intresse, fråga mer.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096477"
+    },
+    {
+      "english": "Be a positive influence, always.",
+      "swedish": "Var en positiv påverkan, alltid.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096478"
+    },
+    {
+      "english": "Share a smile, brightens days.",
+      "swedish": "Ge ett leende, ljusar upp dagar.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096479"
+    },
+    {
+      "english": "Help others, feel good.",
+      "swedish": "Hjälp andra, må bra.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096481"
+    },
+    {
+      "english": "Offer comfort, be there.",
+      "swedish": "Erbjud tröst, var där.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096482"
+    },
+    {
+      "english": "Listen with heart, understand.",
+      "swedish": "Lyssna med hjärta, förstå.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096483"
+    },
+    {
+      "english": "Show empathy, connect.",
+      "swedish": "Visa empati, koppla ihop.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096485"
+    },
+    {
+      "english": "Give compliments, sincerely.",
+      "swedish": "Ge beröm, uppriktigt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096486"
+    },
+    {
+      "english": "Practice patience, it's a virtue.",
+      "swedish": "Öva tålamod, det är en dygd.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096487"
+    },
+    {
+      "english": "Forgive quickly, let go.",
+      "swedish": "Förlåt snabbt, släpp taget.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096488"
+    },
+    {
+      "english": "Be understanding, for everyone.",
+      "swedish": "Var förstående, för alla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096489"
+    },
+    {
+      "english": "Offer encouragement, lift spirits.",
+      "swedish": "Ge uppmuntran, lyft humöret.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096490"
+    },
+    {
+      "english": "Be generous, share freely.",
+      "swedish": "Var generös, dela fritt.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096492"
+    },
+    {
+      "english": "Show gratitude, say thanks.",
+      "swedish": "Visa tacksamhet, säg tack.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096493"
+    },
+    {
+      "english": "Speak gently, soft words matter.",
+      "swedish": "Tala mjukt, lena ord betyder.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096494"
+    },
+    {
+      "english": "Be a good listener, truly hear.",
+      "swedish": "Var en god lyssnare, hör verkligen.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096495"
+    },
+    {
+      "english": "Spread positivity, it's contagious.",
+      "swedish": "Sprid positivitet, det smittar.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096497"
+    },
+    {
+      "english": "Offer a helping hand, whenever.",
+      "swedish": "Räck ut en hjälpande hand, när som helst.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096498"
+    },
+    {
+      "english": "Be thoughtful, consider others.",
+      "swedish": "Var omtänksam, tänk på andra.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096499"
+    },
+    {
+      "english": "Express appreciation, show you care.",
+      "swedish": "Uttryck uppskattning, visa att du bryr dig.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096500"
+    },
+    {
+      "english": "Create peace, be calm.",
+      "swedish": "Skapa lugn, var stilla.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096501"
+    },
+    {
+      "english": "Offer support, stand by them.",
+      "swedish": "Ge stöd, stå vid deras sida.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096502"
+    },
+    {
+      "english": "Be forgiving, with grace.",
+      "swedish": "Var förlåtande, med nåd.",
+      "category": "Kindness",
+      "generated_at": "2026-08-06T04:15:37.096503"
     }
   ],
-  "last_updated": "2026-08-05T04:13:04.944777"
+  "last_updated": "2026-08-06T04:15:37.096505"
 }
