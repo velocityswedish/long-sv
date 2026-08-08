@@ -11519,7 +11519,367 @@
       "swedish": "Förlåt dem, inte för dem.",
       "category": "Forgiveness",
       "generated_at": "2026-08-07T03:51:49.521134"
+    },
+    {
+      "english": "Speak Swedish, clearly, and slowly.",
+      "swedish": "Tala svenska, tydligt, och långsamt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648920"
+    },
+    {
+      "english": "Don't say 'ja' for 'yes'.",
+      "swedish": "Säg inte 'ja' för 'ja'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648933"
+    },
+    {
+      "english": "Use 'är' for 'is', always.",
+      "swedish": "Använd 'är' för 'is', alltid.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648935"
+    },
+    {
+      "english": "Say 'tack', for 'thank you'.",
+      "swedish": "Säg 'tack', för 'tack'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648936"
+    },
+    {
+      "english": "Swedish verbs, don't change much.",
+      "swedish": "Svenska verb, ändras inte mycket.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648938"
+    },
+    {
+      "english": "Remember 'en' and 'ett' words.",
+      "swedish": "Kom ihåg 'en' och 'ett' ord.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648939"
+    },
+    {
+      "english": "Ask questions, with 'hur', 'vad', 'var'.",
+      "swedish": "Ställ frågor, med 'hur', 'vad', 'var'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648941"
+    },
+    {
+      "english": "Pronounce the 'sj' sound, carefully.",
+      "swedish": "Uttala 'sj'-ljudet, försiktigt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648944"
+    },
+    {
+      "english": "Practice 'att ha', for 'to have'.",
+      "swedish": "Öva 'att ha', för 'to have'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648945"
+    },
+    {
+      "english": "Swedish prepositions, can be tricky.",
+      "swedish": "Svenska prepositioner, kan vara knepiga.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648947"
+    },
+    {
+      "english": "Listen to native speakers, a lot.",
+      "swedish": "Lyssna på modersmålstalare, mycket.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648948"
+    },
+    {
+      "english": "The 'å', 'ä', 'ö' sounds, are key.",
+      "swedish": "Ljuden 'å', 'ä', 'ö', är viktiga.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648949"
+    },
+    {
+      "english": "Don't be afraid, to make mistakes.",
+      "swedish": "Var inte rädd, att göra fel.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648951"
+    },
+    {
+      "english": "Swedish grammar, is quite logical.",
+      "swedish": "Svensk grammatik, är ganska logisk.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648952"
+    },
+    {
+      "english": "Focus on common phrases, first.",
+      "swedish": "Fokusera på vanliga fraser, först.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648953"
+    },
+    {
+      "english": "Say 'ursäkta', for 'excuse me'.",
+      "swedish": "Säg 'ursäkta', för 'excuse me'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648954"
+    },
+    {
+      "english": "The 'k' sound before 'i', 'y', 'e'.",
+      "swedish": "K-ljudet före 'i', 'y', 'e'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648955"
+    },
+    {
+      "english": "Learn basic greetings, like 'hej'.",
+      "swedish": "Lär dig grundläggande hälsningar, som 'hej'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648956"
+    },
+    {
+      "english": "Swedish word order, is often strict.",
+      "swedish": "Svensk ordföljd, är ofta strikt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648957"
+    },
+    {
+      "english": "Understand 'vill' for 'want'.",
+      "swedish": "Förstå 'vill' för 'want'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648958"
+    },
+    {
+      "english": "Use 'har' for present perfect.",
+      "swedish": "Använd 'har' för perfekt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648960"
+    },
+    {
+      "english": "Don't translate word-for-word, always.",
+      "swedish": "Översätt inte ordagrant, alltid.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648961"
+    },
+    {
+      "english": "Swedish has no gender, for nouns.",
+      "swedish": "Svenskan har inga genus, för substantiv.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648962"
+    },
+    {
+      "english": "Practice saying 'skål', for cheers.",
+      "swedish": "Öva på att säga 'skål', för skål.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648963"
+    },
+    {
+      "english": "The double consonants, are important.",
+      "swedish": "Dubbelkonsonanterna, är viktiga.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648964"
+    },
+    {
+      "english": "Swedish 'och', means 'and'.",
+      "swedish": "Svenska 'och', betyder 'och'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648965"
+    },
+    {
+      "english": "Keep sentences, short and sweet.",
+      "swedish": "Håll meningar, korta och enkla.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648966"
+    },
+    {
+      "english": "Swedish 'att', is very useful.",
+      "swedish": "Svenska 'att', är mycket användbart.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648967"
+    },
+    {
+      "english": "Imitate the melody, of speech.",
+      "swedish": "Härma melodin, i talet.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648968"
+    },
+    {
+      "english": "Use 'gärna', for 'gladly'.",
+      "swedish": "Använd 'gärna', för 'gärna'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648969"
+    },
+    {
+      "english": "Swedish 'vet' means 'know'.",
+      "swedish": "Svenska 'vet', betyder 'know'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648970"
+    },
+    {
+      "english": "The 'tj' sound, is like 'ch' in 'cheese'.",
+      "swedish": "Tj-ljudet, är som 'ch' i 'church'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648971"
+    },
+    {
+      "english": "Don't forget 'hej då', for goodbye.",
+      "swedish": "Glöm inte 'hej då', för goodbye.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648975"
+    },
+    {
+      "english": "Swedish 'också', means 'also'.",
+      "swedish": "Svenska 'också', betyder 'also'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648976"
+    },
+    {
+      "english": "Listen for the 'e' sound.",
+      "swedish": "Lyssna på e-ljudet.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648977"
+    },
+    {
+      "english": "Swedish 'inte', means 'not'.",
+      "swedish": "Svenska 'inte', betyder 'inte'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648978"
+    },
+    {
+      "english": "The 'r' sound, is rolled, softly.",
+      "swedish": "R-ljudet, rullas, mjukt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648979"
+    },
+    {
+      "english": "Swedish 'för', means 'for'.",
+      "swedish": "Svenska 'för', betyder 'for'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648980"
+    },
+    {
+      "english": "Think in Swedish, more often.",
+      "swedish": "Tänk på svenska, oftare.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648981"
+    },
+    {
+      "english": "Swedish 'då', means 'then'.",
+      "swedish": "Svenska 'då', betyder 'then'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648982"
+    },
+    {
+      "english": "Speak Swedish, clearly, and slowly.",
+      "swedish": "Tala svenska, tydligt, och långsamt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648984"
+    },
+    {
+      "english": "Don't say 'ja' for 'yes'.",
+      "swedish": "Säg inte 'ja' för 'ja'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648985"
+    },
+    {
+      "english": "Use 'är' for 'is', always.",
+      "swedish": "Använd 'är' för 'is', alltid.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648986"
+    },
+    {
+      "english": "Say 'tack', for 'thank you'.",
+      "swedish": "Säg 'tack', för 'tack'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648988"
+    },
+    {
+      "english": "Swedish verbs, don't change much.",
+      "swedish": "Svenska verb, ändras inte mycket.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648989"
+    },
+    {
+      "english": "Remember 'en' and 'ett' words.",
+      "swedish": "Kom ihåg 'en' och 'ett' ord.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648990"
+    },
+    {
+      "english": "Ask questions, with 'hur', 'vad', 'var'.",
+      "swedish": "Ställ frågor, med 'hur', 'vad', 'var'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648991"
+    },
+    {
+      "english": "Pronounce the 'sj' sound, carefully.",
+      "swedish": "Uttala 'sj'-ljudet, försiktigt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648992"
+    },
+    {
+      "english": "Practice 'att ha', for 'to have'.",
+      "swedish": "Öva 'att ha', för 'to have'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648993"
+    },
+    {
+      "english": "Swedish prepositions, can be tricky.",
+      "swedish": "Svenska prepositioner, kan vara knepiga.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648995"
+    },
+    {
+      "english": "Listen to native speakers, a lot.",
+      "swedish": "Lyssna på modersmålstalare, mycket.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648996"
+    },
+    {
+      "english": "The 'å', 'ä', 'ö' sounds, are key.",
+      "swedish": "Ljuden 'å', 'ä', 'ö', är viktiga.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648997"
+    },
+    {
+      "english": "Don't be afraid, to make mistakes.",
+      "swedish": "Var inte rädd, att göra fel.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648998"
+    },
+    {
+      "english": "Swedish grammar, is quite logical.",
+      "swedish": "Svensk grammatik, är ganska logisk.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.648999"
+    },
+    {
+      "english": "Focus on common phrases, first.",
+      "swedish": "Fokusera på vanliga fraser, först.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649000"
+    },
+    {
+      "english": "Say 'ursäkta', for 'excuse me'.",
+      "swedish": "Säg 'ursäkta', för 'excuse me'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649001"
+    },
+    {
+      "english": "The 'k' sound before 'i', 'y', 'e'.",
+      "swedish": "K-ljudet före 'i', 'y', 'e'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649002"
+    },
+    {
+      "english": "Learn basic greetings, like 'hej'.",
+      "swedish": "Lär dig grundläggande hälsningar, som 'hej'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649004"
+    },
+    {
+      "english": "Swedish word order, is often strict.",
+      "swedish": "Svensk ordföljd, är ofta strikt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649005"
+    },
+    {
+      "english": "Understand 'vill' for 'want'.",
+      "swedish": "Förstå 'vill' för 'want'.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-08T02:56:25.649006"
     }
   ],
-  "last_updated": "2026-08-07T03:51:49.521135"
+  "last_updated": "2026-08-08T02:56:25.649008"
 }
