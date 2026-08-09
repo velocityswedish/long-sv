@@ -11879,7 +11879,367 @@
       "swedish": "Förstå 'vill' för 'want'.",
       "category": "Wisdom",
       "generated_at": "2026-08-08T02:56:25.649006"
+    },
+    {
+      "english": "Swedish 'bra', means 'good'.",
+      "swedish": "Svenska 'bra', betyder 'good'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984948"
+    },
+    {
+      "english": "Say 'jag', for 'I', always.",
+      "swedish": "Säg 'jag', för 'I', alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984954"
+    },
+    {
+      "english": "The 'g' sound, can be soft.",
+      "swedish": "G-ljudet, kan vara mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984956"
+    },
+    {
+      "english": "Use 'en', for common nouns.",
+      "swedish": "Använd 'en', för vanliga substantiv.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984957"
+    },
+    {
+      "english": "Swedish 'ett', for neuter nouns.",
+      "swedish": "Svenska 'ett', för neutrumord.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984958"
+    },
+    {
+      "english": "Don't forget 'v' for 'v'.",
+      "swedish": "Glöm inte 'v' för 'v'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984960"
+    },
+    {
+      "english": "Swedish 'han', means 'he'.",
+      "swedish": "Svenska 'han', betyder 'he'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984961"
+    },
+    {
+      "english": "Say 'hon', for 'she', clearly.",
+      "swedish": "Säg 'hon', för 'she', tydligt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984964"
+    },
+    {
+      "english": "Swedish 'de', means 'they'.",
+      "swedish": "Svenska 'de', betyder 'they'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984965"
+    },
+    {
+      "english": "Listen for 'st', at the start.",
+      "swedish": "Lyssna efter 'st', i början.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984966"
+    },
+    {
+      "english": "Swedish 'liten', means 'small'.",
+      "swedish": "Svenska 'liten', betyder 'small'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984967"
+    },
+    {
+      "english": "Use 'stor', for 'big' often.",
+      "swedish": "Använd 'stor', för 'big', ofta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984969"
+    },
+    {
+      "english": "Swedish 'och', sounds like 'ok'.",
+      "swedish": "Svenska 'och', låter som 'ok'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984970"
+    },
+    {
+      "english": "The 'sj' sound, is tricky, yes.",
+      "swedish": "Sj-ljudet, är knepigt, ja.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984971"
+    },
+    {
+      "english": "Swedish 'hem', means 'home'.",
+      "swedish": "Svenska 'hem', betyder 'home'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984975"
+    },
+    {
+      "english": "Say 'nu', for 'now', please.",
+      "swedish": "Säg 'nu', för 'now', snälla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984977"
+    },
+    {
+      "english": "Swedish 'här', means 'here'.",
+      "swedish": "Svenska 'här', betyder 'here'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984978"
+    },
+    {
+      "english": "The 'y' sound, is unique, learn.",
+      "swedish": "Y-ljudet, är unikt, lär dig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984979"
+    },
+    {
+      "english": "Swedish 'där', means 'there'.",
+      "swedish": "Svenska 'där', betyder 'there'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984980"
+    },
+    {
+      "english": "Use 'att', before verbs, always.",
+      "swedish": "Använd 'att', före verb, alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984981"
+    },
+    {
+      "english": "Swedish 'vill', is 'want', remember.",
+      "swedish": "Svenska 'vill', är 'want', kom ihåg.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984983"
+    },
+    {
+      "english": "Say 'kan', for 'can', easily.",
+      "swedish": "Säg 'kan', för 'can', enkelt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984984"
+    },
+    {
+      "english": "Swedish 'måste', means 'must'.",
+      "swedish": "Svenska 'måste', betyder 'must'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984985"
+    },
+    {
+      "english": "The 'ä' sound, is like 'a' in 'cat'.",
+      "swedish": "Ä-ljudet, är som 'a' i 'cat'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984986"
+    },
+    {
+      "english": "Swedish 'får', means 'may' or 'get'.",
+      "swedish": "Svenska 'får', betyder 'may' eller 'get'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984987"
+    },
+    {
+      "english": "Listen to the 'ö' sound.",
+      "swedish": "Lyssna på ö-ljudet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984988"
+    },
+    {
+      "english": "Swedish 'vill ha', means 'want to have'.",
+      "swedish": "Svenska 'vill ha', betyder 'want to have'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984989"
+    },
+    {
+      "english": "Say 'mig', for 'me', directly.",
+      "swedish": "Säg 'mig', för 'me', direkt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984990"
+    },
+    {
+      "english": "Swedish 'dig', means 'you' (object).",
+      "swedish": "Svenska 'dig', betyder 'you' (objekt).",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984991"
+    },
+    {
+      "english": "The 'å' sound, is like 'o' in 'more'.",
+      "swedish": "Å-ljudet, är som 'o' i 'more'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984992"
+    },
+    {
+      "english": "Swedish 'allt', means 'everything'.",
+      "swedish": "Svenska 'allt', betyder 'everything'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984993"
+    },
+    {
+      "english": "Use 'igen', for 'again', often.",
+      "swedish": "Använd 'igen', för 'again', ofta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984994"
+    },
+    {
+      "english": "Swedish 'ibland', means 'sometimes'.",
+      "swedish": "Svenska 'ibland', betyder 'sometimes'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984995"
+    },
+    {
+      "english": "The 'sj' sound, is like 'sh' in 'ship'.",
+      "swedish": "Sj-ljudet, är som 'sh' i 'ship'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984996"
+    },
+    {
+      "english": "Swedish 'bara', means 'only' or 'just'.",
+      "swedish": "Svenska 'bara', betyder 'only' eller 'just'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984997"
+    },
+    {
+      "english": "Say 'gärna', for 'gladly', nicely.",
+      "swedish": "Säg 'gärna', för 'gladly', trevligt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984998"
+    },
+    {
+      "english": "Swedish 'tycker', means 'think' or 'like'.",
+      "swedish": "Svenska 'tycker', betyder 'think' eller 'like'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.984999"
+    },
+    {
+      "english": "The 'ng' sound, is common.",
+      "swedish": "Ng-ljudet, är vanligt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985001"
+    },
+    {
+      "english": "Swedish 'vet', means 'know', yes.",
+      "swedish": "Svenska 'vet', betyder 'know', ja.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985002"
+    },
+    {
+      "english": "Use 'men', for 'but', always.",
+      "swedish": "Använd 'men', för 'but', alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985003"
+    },
+    {
+      "english": "Swedish 'bra', means 'good'.",
+      "swedish": "Svenska 'bra', betyder 'good'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985005"
+    },
+    {
+      "english": "Say 'jag', for 'I', always.",
+      "swedish": "Säg 'jag', för 'I', alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985006"
+    },
+    {
+      "english": "The 'g' sound, can be soft.",
+      "swedish": "G-ljudet, kan vara mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985007"
+    },
+    {
+      "english": "Use 'en', for common nouns.",
+      "swedish": "Använd 'en', för vanliga substantiv.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985008"
+    },
+    {
+      "english": "Swedish 'ett', for neuter nouns.",
+      "swedish": "Svenska 'ett', för neutrumord.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985010"
+    },
+    {
+      "english": "Don't forget 'v' for 'v'.",
+      "swedish": "Glöm inte 'v' för 'v'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985012"
+    },
+    {
+      "english": "Swedish 'han', means 'he'.",
+      "swedish": "Svenska 'han', betyder 'he'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985013"
+    },
+    {
+      "english": "Say 'hon', for 'she', clearly.",
+      "swedish": "Säg 'hon', för 'she', tydligt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985014"
+    },
+    {
+      "english": "Swedish 'de', means 'they'.",
+      "swedish": "Svenska 'de', betyder 'they'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985014"
+    },
+    {
+      "english": "Listen for 'st', at the start.",
+      "swedish": "Lyssna efter 'st', i början.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985015"
+    },
+    {
+      "english": "Swedish 'liten', means 'small'.",
+      "swedish": "Svenska 'liten', betyder 'small'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985016"
+    },
+    {
+      "english": "Use 'stor', for 'big' often.",
+      "swedish": "Använd 'stor', för 'big', ofta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985017"
+    },
+    {
+      "english": "Swedish 'och', sounds like 'ok'.",
+      "swedish": "Svenska 'och', låter som 'ok'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985018"
+    },
+    {
+      "english": "The 'sj' sound, is tricky, yes.",
+      "swedish": "Sj-ljudet, är knepigt, ja.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985019"
+    },
+    {
+      "english": "Swedish 'hem', means 'home'.",
+      "swedish": "Svenska 'hem', betyder 'home'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985020"
+    },
+    {
+      "english": "Say 'nu', for 'now', please.",
+      "swedish": "Säg 'nu', för 'now', snälla.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985021"
+    },
+    {
+      "english": "Swedish 'här', means 'here'.",
+      "swedish": "Svenska 'här', betyder 'here'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985038"
+    },
+    {
+      "english": "The 'y' sound, is unique, learn.",
+      "swedish": "Y-ljudet, är unikt, lär dig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985039"
+    },
+    {
+      "english": "Swedish 'där', means 'there'.",
+      "swedish": "Svenska 'där', betyder 'there'.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985040"
+    },
+    {
+      "english": "Use 'att', before verbs, always.",
+      "swedish": "Använd 'att', före verb, alltid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-09T03:03:15.985041"
     }
   ],
-  "last_updated": "2026-08-08T02:56:25.649008"
+  "last_updated": "2026-08-09T03:03:15.985043"
 }
