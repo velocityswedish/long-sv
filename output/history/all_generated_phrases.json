@@ -17279,7 +17279,367 @@
       "swedish": "Svensk charm, är subtil.",
       "category": "Wisdom",
       "generated_at": "2026-09-01T06:07:51.251394"
+    },
+    {
+      "english": "Your Swedish, is so smooth.",
+      "swedish": "Din svenska, är så mjuk.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684025"
+    },
+    {
+      "english": "You learn fast, don't you?",
+      "swedish": "Du lär dig snabbt, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684038"
+    },
+    {
+      "english": "Your accent, is kinda cute.",
+      "swedish": "Din accent, är lite gullig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684046"
+    },
+    {
+      "english": "I like your Swedish, a lot.",
+      "swedish": "Jag gillar din svenska, mycket.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684048"
+    },
+    {
+      "english": "You make Swedish, sound so good.",
+      "swedish": "Du får svenska, att låta så bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684050"
+    },
+    {
+      "english": "Can you say that again, slowly?",
+      "swedish": "Kan du säga det igen, långsamt?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684058"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "swedish": "Du är ett naturbarn, till detta.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684060"
+    },
+    {
+      "english": "I understand you, perfectly.",
+      "swedish": "Jag förstår dig, perfekt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684065"
+    },
+    {
+      "english": "Swedish sounds better, with you.",
+      "swedish": "Svenska låter bättre, med dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684067"
+    },
+    {
+      "english": "You've got the rhythm, of Swedish.",
+      "swedish": "Du har rytmen, i svenskan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684069"
+    },
+    {
+      "english": "This phrase, is for you.",
+      "swedish": "Den här frasen, är till dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684071"
+    },
+    {
+      "english": "You say it, like a local.",
+      "swedish": "Du säger det, som en lokalbo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684073"
+    },
+    {
+      "english": "That word, fits you well.",
+      "swedish": "Det ordet, passar dig bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684074"
+    },
+    {
+      "english": "You have a gift, for languages.",
+      "swedish": "Du har en gåva, för språk.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684076"
+    },
+    {
+      "english": "This is going, so well.",
+      "swedish": "Det här går, så bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684078"
+    },
+    {
+      "english": "You speak Swedish, with passion.",
+      "swedish": "Du talar svenska, med passion.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684079"
+    },
+    {
+      "english": "I love hearing you, speak Swedish.",
+      "swedish": "Jag älskar att höra dig, tala svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684081"
+    },
+    {
+      "english": "You have a nice voice, for Swedish.",
+      "swedish": "Du har en fin röst, för svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684083"
+    },
+    {
+      "english": "This sentence, sounds so right.",
+      "swedish": "Den här meningen, låter så rätt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684084"
+    },
+    {
+      "english": "You have a way, with words.",
+      "swedish": "Du har ett sätt, med ord.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684086"
+    },
+    {
+      "english": "Your Swedish, is very charming.",
+      "swedish": "Din svenska, är väldigt charmig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684088"
+    },
+    {
+      "english": "You really get it, don't you?",
+      "swedish": "Du fattar verkligen, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684089"
+    },
+    {
+      "english": "This word, is on your lips.",
+      "swedish": "Det här ordet, ligger på dina läppar.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684091"
+    },
+    {
+      "english": "You're a quick study, aren't you?",
+      "swedish": "Du är en snabbstudent, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684093"
+    },
+    {
+      "english": "That sounds, so natural.",
+      "swedish": "Det låter, så naturligt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684095"
+    },
+    {
+      "english": "You have a good ear, for Swedish.",
+      "swedish": "Du har ett bra öra, för svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684096"
+    },
+    {
+      "english": "You make Swedish, fun to hear.",
+      "swedish": "Du gör svenska, rolig att höra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684098"
+    },
+    {
+      "english": "This phrase, sounds like you.",
+      "swedish": "Den här frasen, passar dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684100"
+    },
+    {
+      "english": "You're really nailing it, with Swedish.",
+      "swedish": "Du prickar verkligen rätt, med svenskan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684102"
+    },
+    {
+      "english": "Your confidence, in Swedish, shines.",
+      "swedish": "Ditt självförtroende, i svenska, lyser.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684104"
+    },
+    {
+      "english": "Your Swedish, is so smooth.",
+      "swedish": "Din svenska, är så mjuk.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684106"
+    },
+    {
+      "english": "You learn fast, don't you?",
+      "swedish": "Du lär dig snabbt, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684108"
+    },
+    {
+      "english": "Your accent, is kinda cute.",
+      "swedish": "Din accent, är lite gullig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684110"
+    },
+    {
+      "english": "I like your Swedish, a lot.",
+      "swedish": "Jag gillar din svenska, mycket.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684112"
+    },
+    {
+      "english": "You make Swedish, sound so good.",
+      "swedish": "Du får svenska, att låta så bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684114"
+    },
+    {
+      "english": "Can you say that again, slowly?",
+      "swedish": "Kan du säga det igen, långsamt?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684116"
+    },
+    {
+      "english": "You're a natural, at this.",
+      "swedish": "Du är ett naturbarn, till detta.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684121"
+    },
+    {
+      "english": "I understand you, perfectly.",
+      "swedish": "Jag förstår dig, perfekt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684123"
+    },
+    {
+      "english": "Swedish sounds better, with you.",
+      "swedish": "Svenska låter bättre, med dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684125"
+    },
+    {
+      "english": "You've got the rhythm, of Swedish.",
+      "swedish": "Du har rytmen, i svenskan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684127"
+    },
+    {
+      "english": "This phrase, is for you.",
+      "swedish": "Den här frasen, är till dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684129"
+    },
+    {
+      "english": "You say it, like a local.",
+      "swedish": "Du säger det, som en lokalbo.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684131"
+    },
+    {
+      "english": "That word, fits you well.",
+      "swedish": "Det ordet, passar dig bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684133"
+    },
+    {
+      "english": "You have a gift, for languages.",
+      "swedish": "Du har en gåva, för språk.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684135"
+    },
+    {
+      "english": "This is going, so well.",
+      "swedish": "Det här går, så bra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684137"
+    },
+    {
+      "english": "You speak Swedish, with passion.",
+      "swedish": "Du talar svenska, med passion.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684139"
+    },
+    {
+      "english": "I love hearing you, speak Swedish.",
+      "swedish": "Jag älskar att höra dig, tala svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684141"
+    },
+    {
+      "english": "You have a nice voice, for Swedish.",
+      "swedish": "Du har en fin röst, för svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684143"
+    },
+    {
+      "english": "This sentence, sounds so right.",
+      "swedish": "Den här meningen, låter så rätt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684144"
+    },
+    {
+      "english": "You have a way, with words.",
+      "swedish": "Du har ett sätt, med ord.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684146"
+    },
+    {
+      "english": "Your Swedish, is very charming.",
+      "swedish": "Din svenska, är väldigt charmig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684148"
+    },
+    {
+      "english": "You really get it, don't you?",
+      "swedish": "Du fattar verkligen, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684150"
+    },
+    {
+      "english": "This word, is on your lips.",
+      "swedish": "Det här ordet, ligger på dina läppar.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684155"
+    },
+    {
+      "english": "You're a quick study, aren't you?",
+      "swedish": "Du är en snabbstudent, eller hur?",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684157"
+    },
+    {
+      "english": "That sounds, so natural.",
+      "swedish": "Det låter, så naturligt.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684158"
+    },
+    {
+      "english": "You have a good ear, for Swedish.",
+      "swedish": "Du har ett bra öra, för svenska.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684160"
+    },
+    {
+      "english": "You make Swedish, fun to hear.",
+      "swedish": "Du gör svenska, rolig att höra.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684162"
+    },
+    {
+      "english": "This phrase, sounds like you.",
+      "swedish": "Den här frasen, passar dig.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684164"
+    },
+    {
+      "english": "You're really nailing it, with Swedish.",
+      "swedish": "Du prickar verkligen rätt, med svenskan.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684166"
+    },
+    {
+      "english": "Your confidence, in Swedish, shines.",
+      "swedish": "Ditt självförtroende, i svenska, lyser.",
+      "category": "Confidence",
+      "generated_at": "2026-09-02T05:32:37.684168"
     }
   ],
-  "last_updated": "2026-09-01T06:07:51.251396"
+  "last_updated": "2026-09-02T05:32:37.684171"
 }
