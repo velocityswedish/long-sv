@@ -18359,7 +18359,367 @@
       "swedish": "Du gör, ett jättebra jobb.",
       "category": "Motivation",
       "generated_at": "2026-09-04T05:38:24.568460"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "swedish": "Misstag, är lektioner.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412428"
+    },
+    {
+      "english": "Little by little, you grow.",
+      "swedish": "Lite i taget, växer du.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412444"
+    },
+    {
+      "english": "Progress, is not perfect.",
+      "swedish": "Framsteg, är inte perfekt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412448"
+    },
+    {
+      "english": "Your voice, is important.",
+      "swedish": "Din röst, är viktig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412451"
+    },
+    {
+      "english": "Never give up, learning.",
+      "swedish": "Ge aldrig upp, att lära dig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412454"
+    },
+    {
+      "english": "Today's struggle, tomorrow's strength.",
+      "swedish": "Dagens kamp, morgondagens styrka.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412456"
+    },
+    {
+      "english": "Each attempt, builds skill.",
+      "swedish": "Varje försök, bygger skicklighet.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412459"
+    },
+    {
+      "english": "Don't fear, making errors.",
+      "swedish": "Frukta inte, att göra fel.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412465"
+    },
+    {
+      "english": "Learning takes, time.",
+      "swedish": "Lärande tar, tid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412468"
+    },
+    {
+      "english": "Repeat often, speak well.",
+      "swedish": "Upprepa ofta, tala bra.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412470"
+    },
+    {
+      "english": "Push forward, always.",
+      "swedish": "Pressa framåt, alltid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412472"
+    },
+    {
+      "english": "Persistence, unlocks fluency.",
+      "swedish": "Uthållighet, låser upp flyt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412474"
+    },
+    {
+      "english": "Every day, counts.",
+      "swedish": "Varje dag, räknas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412476"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "swedish": "Fira, små segrar.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412479"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "swedish": "Sluta inte, att tro.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412481"
+    },
+    {
+      "english": "Keep speaking, boldly.",
+      "swedish": "Fortsätt tala, djärvt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412483"
+    },
+    {
+      "english": "Learn from, each chat.",
+      "swedish": "Lär av, varje samtal.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412485"
+    },
+    {
+      "english": "Focus on, what's next.",
+      "swedish": "Fokusera på, vad som är näst.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412487"
+    },
+    {
+      "english": "You're building, something great.",
+      "swedish": "Du bygger, något stort.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412489"
+    },
+    {
+      "english": "Even small talks, help.",
+      "swedish": "Även små samtal, hjälper.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412491"
+    },
+    {
+      "english": "Your journey, matters.",
+      "swedish": "Din resa, betyder.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412493"
+    },
+    {
+      "english": "Keep that, motivation.",
+      "swedish": "Behåll den, motivationen.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412496"
+    },
+    {
+      "english": "Stronger words, come soon.",
+      "swedish": "Starkare ord, kommer snart.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412497"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "swedish": "Misstag, är lektioner.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412499"
+    },
+    {
+      "english": "Little by little, you grow.",
+      "swedish": "Lite i taget, växer du.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412500"
+    },
+    {
+      "english": "Progress, is not perfect.",
+      "swedish": "Framsteg, är inte perfekt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412501"
+    },
+    {
+      "english": "Your voice, is important.",
+      "swedish": "Din röst, är viktig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412502"
+    },
+    {
+      "english": "Never give up, learning.",
+      "swedish": "Ge aldrig upp, att lära dig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412503"
+    },
+    {
+      "english": "Today's struggle, tomorrow's strength.",
+      "swedish": "Dagens kamp, morgondagens styrka.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412504"
+    },
+    {
+      "english": "Each attempt, builds skill.",
+      "swedish": "Varje försök, bygger skicklighet.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412505"
+    },
+    {
+      "english": "Don't fear, making errors.",
+      "swedish": "Frukta inte, att göra fel.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412506"
+    },
+    {
+      "english": "Learning takes, time.",
+      "swedish": "Lärande tar, tid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412507"
+    },
+    {
+      "english": "Repeat often, speak well.",
+      "swedish": "Upprepa ofta, tala bra.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412508"
+    },
+    {
+      "english": "Push forward, always.",
+      "swedish": "Pressa framåt, alltid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412509"
+    },
+    {
+      "english": "Persistence, unlocks fluency.",
+      "swedish": "Uthållighet, låser upp flyt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412510"
+    },
+    {
+      "english": "Every day, counts.",
+      "swedish": "Varje dag, räknas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412512"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "swedish": "Fira, små segrar.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412513"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "swedish": "Sluta inte, att tro.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412514"
+    },
+    {
+      "english": "Keep speaking, boldly.",
+      "swedish": "Fortsätt tala, djärvt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412515"
+    },
+    {
+      "english": "Learn from, each chat.",
+      "swedish": "Lär av, varje samtal.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412516"
+    },
+    {
+      "english": "Focus on, what's next.",
+      "swedish": "Fokusera på, vad som är näst.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412517"
+    },
+    {
+      "english": "You're building, something great.",
+      "swedish": "Du bygger, något stort.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412518"
+    },
+    {
+      "english": "Even small talks, help.",
+      "swedish": "Även små samtal, hjälper.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412519"
+    },
+    {
+      "english": "Your journey, matters.",
+      "swedish": "Din resa, betyder.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412520"
+    },
+    {
+      "english": "Keep that, motivation.",
+      "swedish": "Behåll den, motivationen.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412521"
+    },
+    {
+      "english": "Stronger words, come soon.",
+      "swedish": "Starkare ord, kommer snart.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412522"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "swedish": "Misstag, är lektioner.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412524"
+    },
+    {
+      "english": "Little by little, you grow.",
+      "swedish": "Lite i taget, växer du.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412525"
+    },
+    {
+      "english": "Progress, is not perfect.",
+      "swedish": "Framsteg, är inte perfekt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412526"
+    },
+    {
+      "english": "Your voice, is important.",
+      "swedish": "Din röst, är viktig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412527"
+    },
+    {
+      "english": "Never give up, learning.",
+      "swedish": "Ge aldrig upp, att lära dig.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412528"
+    },
+    {
+      "english": "Today's struggle, tomorrow's strength.",
+      "swedish": "Dagens kamp, morgondagens styrka.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412529"
+    },
+    {
+      "english": "Each attempt, builds skill.",
+      "swedish": "Varje försök, bygger skicklighet.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412530"
+    },
+    {
+      "english": "Don't fear, making errors.",
+      "swedish": "Frukta inte, att göra fel.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412535"
+    },
+    {
+      "english": "Learning takes, time.",
+      "swedish": "Lärande tar, tid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412537"
+    },
+    {
+      "english": "Repeat often, speak well.",
+      "swedish": "Upprepa ofta, tala bra.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412538"
+    },
+    {
+      "english": "Push forward, always.",
+      "swedish": "Pressa framåt, alltid.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412539"
+    },
+    {
+      "english": "Persistence, unlocks fluency.",
+      "swedish": "Uthållighet, låser upp flyt.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412540"
+    },
+    {
+      "english": "Every day, counts.",
+      "swedish": "Varje dag, räknas.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412541"
+    },
+    {
+      "english": "Celebrate, small wins.",
+      "swedish": "Fira, små segrar.",
+      "category": "Perseverance",
+      "generated_at": "2026-09-05T05:23:06.412542"
     }
   ],
-  "last_updated": "2026-09-04T05:38:24.568462"
+  "last_updated": "2026-09-05T05:23:06.412544"
 }
