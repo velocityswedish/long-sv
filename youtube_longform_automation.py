@@ -78,7 +78,7 @@ CATEGORIES_SWEDISH = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 SWEDISH_VOICE = "sv-SE-SofieNeural"
 
 # Phrase history file (NEVER delete this!)
