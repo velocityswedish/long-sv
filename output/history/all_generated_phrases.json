@@ -25199,7 +25199,367 @@
       "swedish": "Du har, en vacker själ.",
       "category": "Joy",
       "generated_at": "2026-10-02T06:49:05.039843"
+    },
+    {
+      "english": "A little fika, makes a big difference.",
+      "swedish": "En liten fika, gör stor skillnad.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036958"
+    },
+    {
+      "english": "Lagom is, the Swedish way.",
+      "swedish": "Lagom är, det svenska sättet.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036967"
+    },
+    {
+      "english": "Take a walk, in nature's peace.",
+      "swedish": "Ta en promenad, i naturens lugn.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036968"
+    },
+    {
+      "english": "Share the silence, understand more.",
+      "swedish": "Dela tystnaden, förstå mer.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036969"
+    },
+    {
+      "english": "Let's build, something lasting.",
+      "swedish": "Låt oss bygga, något varaktigt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036970"
+    },
+    {
+      "english": "Together, we can achieve anything.",
+      "swedish": "Tillsammans, kan vi uppnå allt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036970"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "swedish": "Omfamna stunden, fullt ut.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036971"
+    },
+    {
+      "english": "Believe in your, potential.",
+      "swedish": "Tro på din, potential.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036973"
+    },
+    {
+      "english": "Let kindness, guide your actions.",
+      "swedish": "Låt vänlighet, leda dina handlingar.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036974"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "swedish": "Lär dig av misstag, bli starkare.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036975"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "swedish": "Öppna ditt sinne, för nya idéer.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036975"
+    },
+    {
+      "english": "This is, a new beginning.",
+      "swedish": "Det här är, en ny början.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036976"
+    },
+    {
+      "english": "Keep pushing forward, never give up.",
+      "swedish": "Fortsätt framåt, ge aldrig upp.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036977"
+    },
+    {
+      "english": "Find joy, in the simple things.",
+      "swedish": "Finn glädje, i det enkla.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036978"
+    },
+    {
+      "english": "A shared journey, is more beautiful.",
+      "swedish": "En delad resa, är vackrare.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036978"
+    },
+    {
+      "english": "Let curiosity, lead the way.",
+      "swedish": "Låt nyfikenhet, leda vägen.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036979"
+    },
+    {
+      "english": "Celebrate small wins, every day.",
+      "swedish": "Fira små segrar, varje dag.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036979"
+    },
+    {
+      "english": "This is, your moment to shine.",
+      "swedish": "Detta är, din stund att lysa.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036980"
+    },
+    {
+      "english": "Embrace change, with courage.",
+      "swedish": "Omfamna förändring, med mod.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036980"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "swedish": "Hitta din passion, följ den.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036981"
+    },
+    {
+      "english": "Let go, of what holds you back.",
+      "swedish": "Släpp taget, om det som hindrar.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036982"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "swedish": "Din röst, betyder mycket.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036982"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "swedish": "Tacksamhet, låser upp lycka.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036983"
+    },
+    {
+      "english": "Every challenge, is an opportunity.",
+      "swedish": "Varje utmaning, är en möjlighet.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036983"
+    },
+    {
+      "english": "Create your, own destiny.",
+      "swedish": "Skapa ditt, eget öde.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036984"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "swedish": "Den här resan, är värd det.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036984"
+    },
+    {
+      "english": "Find your rhythm, and dance.",
+      "swedish": "Hitta din rytm, och dansa.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036985"
+    },
+    {
+      "english": "A little fika, makes a big difference.",
+      "swedish": "En liten fika, gör stor skillnad.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036986"
+    },
+    {
+      "english": "Lagom is, the Swedish way.",
+      "swedish": "Lagom är, det svenska sättet.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036986"
+    },
+    {
+      "english": "Take a walk, in nature's peace.",
+      "swedish": "Ta en promenad, i naturens lugn.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036987"
+    },
+    {
+      "english": "Share the silence, understand more.",
+      "swedish": "Dela tystnaden, förstå mer.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036987"
+    },
+    {
+      "english": "Let's build, something lasting.",
+      "swedish": "Låt oss bygga, något varaktigt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036988"
+    },
+    {
+      "english": "Together, we can achieve anything.",
+      "swedish": "Tillsammans, kan vi uppnå allt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036988"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "swedish": "Omfamna stunden, fullt ut.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036989"
+    },
+    {
+      "english": "Believe in your, potential.",
+      "swedish": "Tro på din, potential.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036990"
+    },
+    {
+      "english": "Let kindness, guide your actions.",
+      "swedish": "Låt vänlighet, leda dina handlingar.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036990"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "swedish": "Lär dig av misstag, bli starkare.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036991"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "swedish": "Öppna ditt sinne, för nya idéer.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036991"
+    },
+    {
+      "english": "This is, a new beginning.",
+      "swedish": "Det här är, en ny början.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036992"
+    },
+    {
+      "english": "Keep pushing forward, never give up.",
+      "swedish": "Fortsätt framåt, ge aldrig upp.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036992"
+    },
+    {
+      "english": "Find joy, in the simple things.",
+      "swedish": "Finn glädje, i det enkla.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036993"
+    },
+    {
+      "english": "A shared journey, is more beautiful.",
+      "swedish": "En delad resa, är vackrare.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036993"
+    },
+    {
+      "english": "Let curiosity, lead the way.",
+      "swedish": "Låt nyfikenhet, leda vägen.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036994"
+    },
+    {
+      "english": "Celebrate small wins, every day.",
+      "swedish": "Fira små segrar, varje dag.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036994"
+    },
+    {
+      "english": "This is, your moment to shine.",
+      "swedish": "Detta är, din stund att lysa.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036995"
+    },
+    {
+      "english": "Embrace change, with courage.",
+      "swedish": "Omfamna förändring, med mod.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036995"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "swedish": "Hitta din passion, följ den.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036996"
+    },
+    {
+      "english": "Let go, of what holds you back.",
+      "swedish": "Släpp taget, om det som hindrar.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036996"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "swedish": "Din röst, betyder mycket.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036997"
+    },
+    {
+      "english": "Gratitude, unlocks happiness.",
+      "swedish": "Tacksamhet, låser upp lycka.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036997"
+    },
+    {
+      "english": "Every challenge, is an opportunity.",
+      "swedish": "Varje utmaning, är en möjlighet.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036998"
+    },
+    {
+      "english": "Create your, own destiny.",
+      "swedish": "Skapa ditt, eget öde.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036998"
+    },
+    {
+      "english": "This journey, is worth it.",
+      "swedish": "Den här resan, är värd det.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036999"
+    },
+    {
+      "english": "Find your rhythm, and dance.",
+      "swedish": "Hitta din rytm, och dansa.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.036999"
+    },
+    {
+      "english": "A little fika, makes a big difference.",
+      "swedish": "En liten fika, gör stor skillnad.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037000"
+    },
+    {
+      "english": "Lagom is, the Swedish way.",
+      "swedish": "Lagom är, det svenska sättet.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037001"
+    },
+    {
+      "english": "Take a walk, in nature's peace.",
+      "swedish": "Ta en promenad, i naturens lugn.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037001"
+    },
+    {
+      "english": "Share the silence, understand more.",
+      "swedish": "Dela tystnaden, förstå mer.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037002"
+    },
+    {
+      "english": "Let's build, something lasting.",
+      "swedish": "Låt oss bygga, något varaktigt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037002"
+    },
+    {
+      "english": "Together, we can achieve anything.",
+      "swedish": "Tillsammans, kan vi uppnå allt.",
+      "category": "Success",
+      "generated_at": "2026-10-03T06:10:49.037003"
     }
   ],
-  "last_updated": "2026-10-02T06:49:05.039845"
+  "last_updated": "2026-10-03T06:10:49.037004"
 }
