@@ -303,7 +303,6 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Swedish translation
 3. Pronunciation guide (phonetic spelling, e.g., "Hej, hur mår du?")
-CRITICAL: Every translation MUST be in Swedish. NEVER use German, Spanish, or any other language. Only Swedish.
 
 Return as JSON array:
 [{{"english": "...", "swedish": "...", "pronunciation": "..."}}]
@@ -545,16 +544,69 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio using Edge TTS"""
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
+def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
+    """Fallback TTS using Google Translate TTS if Edge TTS fails."""
+    import urllib.request
+    import urllib.parse
+
+    lang_code = "en"
+    voice_lower = str(voice_or_lang).lower()
+    if voice_lower.startswith("en"):
+        lang_code = "en"
+    elif "-" in str(voice_or_lang):
+        part = str(voice_or_lang).split("-")[0].lower()
+        if part == "zh":
+            lang_code = "zh-CN"
+        elif part == "fil":
+            lang_code = "tl"
+        elif part == "nb":
+            lang_code = "no"
+        else:
+            lang_code = part
+    else:
+        lang_code = voice_lower
+
+    clean_text = text.replace("*", "").replace("#", "").strip()
+    if not clean_text:
         return False
+
+    try:
+        url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob"
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = resp.read()
+        if len(data) > 200:
+            with open(output_path, "wb") as f:
+                f.write(data)
+            return True
+    except Exception as e:
+        print(f"  Google TTS fallback error ({lang_code}): {e}")
+    return False
+
+
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
+    """Generate audio using Edge TTS with automatic Google TTS fallback"""
+    import edge_tts
+    for attempt in range(retries):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
+                return True
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+
+    # Fallback to Google TTS
+    if generate_google_tts(text, voice, output_path):
+        return True
+
+    return False
 
 
 def generate_all_audio(phrases: list, output_dir: str):
