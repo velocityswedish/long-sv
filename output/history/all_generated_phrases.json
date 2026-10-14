@@ -29159,7 +29159,367 @@
       "swedish": "Återvänd till, din andning.",
       "category": "Mindfulness",
       "generated_at": "2026-10-13T07:28:30.147800"
+    },
+    {
+      "english": "Sun on your face, ahh.",
+      "swedish": "Sol i ansiktet, åh.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815059"
+    },
+    {
+      "english": "Taste that fika, mmm.",
+      "swedish": "Smaka på fikat, mmm.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815070"
+    },
+    {
+      "english": "Long walk, happy heart.",
+      "swedish": "Långpromenad, glatt hjärta.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815071"
+    },
+    {
+      "english": "Cozy evening, book, tea.",
+      "swedish": "Mysig kväll, bok, te.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815072"
+    },
+    {
+      "english": "Laughing with friends, best.",
+      "swedish": "Skratta med vänner, bäst.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815072"
+    },
+    {
+      "english": "Warm hug, feels good.",
+      "swedish": "Varm kram, känns bra.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815073"
+    },
+    {
+      "english": "Sweet berry, juicy bite.",
+      "swedish": "Sött bär, saftigt bett.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815074"
+    },
+    {
+      "english": "Birds singing, morning song.",
+      "swedish": "Fåglar sjunger, morgonsång.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815076"
+    },
+    {
+      "english": "Fresh air, clean lungs.",
+      "swedish": "Frisk luft, rena lungor.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815077"
+    },
+    {
+      "english": "Good coffee, strong start.",
+      "swedish": "Gott kaffe, stark start.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815078"
+    },
+    {
+      "english": "Simple meal, delicious.",
+      "swedish": "Enkel måltid, utsökt.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815079"
+    },
+    {
+      "english": "Cozy fireplace, crackling sound.",
+      "swedish": "Mysig brasa, sprakande ljud.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815080"
+    },
+    {
+      "english": "Nice chat, warm feeling.",
+      "swedish": "Trevligt snack, varm känsla.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815081"
+    },
+    {
+      "english": "Dancing freely, pure joy.",
+      "swedish": "Dansar fritt, ren glädje.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815081"
+    },
+    {
+      "english": "Watching sunset, colors glow.",
+      "swedish": "Titta på solnedgång, färger lyser.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815082"
+    },
+    {
+      "english": "Soft blanket, happy sigh.",
+      "swedish": "Mjuk filt, lyckligt suck.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815082"
+    },
+    {
+      "english": "Sharing a joke, big smile.",
+      "swedish": "Dela ett skämt, stort leende.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815083"
+    },
+    {
+      "english": "Sweet smell, baking bread.",
+      "swedish": "Söt doft, bakar bröd.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815083"
+    },
+    {
+      "english": "Cool breeze, refreshing touch.",
+      "swedish": "Kall bris, uppfriskande känsla.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815084"
+    },
+    {
+      "english": "Warm socks, cozy feet.",
+      "swedish": "Varma strumpor, mysiga fötter.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815084"
+    },
+    {
+      "english": "Little victory, feel proud.",
+      "swedish": "Liten seger, känn stolthet.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815085"
+    },
+    {
+      "english": "Singing along, car ride.",
+      "swedish": "Sjung med, bilfärd.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815085"
+    },
+    {
+      "english": "Cozy scarf, winter warmth.",
+      "swedish": "Mysig halsduk, vintervärme.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815086"
+    },
+    {
+      "english": "Quiet moment, full of peace.",
+      "swedish": "Tyst stund, fylld av frid.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815086"
+    },
+    {
+      "english": "Bright sunshine, makes you happy.",
+      "swedish": "Klart solsken, gör dig glad.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815087"
+    },
+    {
+      "english": "Good music, moves your soul.",
+      "swedish": "Bra musik, rör din själ.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815087"
+    },
+    {
+      "english": "Warm soup, perfect comfort.",
+      "swedish": "Varm soppa, perfekt tröst.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815088"
+    },
+    {
+      "english": "Seeing a rainbow, magic sight.",
+      "swedish": "Se en regnbåge, magiskt skådespel.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815088"
+    },
+    {
+      "english": "Sweet dreams, restful sleep.",
+      "swedish": "Söta drömmar, vilsam sömn.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815089"
+    },
+    {
+      "english": "Holding hands, connection felt.",
+      "swedish": "Hålla händer, koppling känns.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815089"
+    },
+    {
+      "english": "Fresh flowers, lovely scent.",
+      "swedish": "Färska blommor, härlig doft.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815090"
+    },
+    {
+      "english": "Warm milk, calm before bed.",
+      "swedish": "Varm mjölk, lugn före säng.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815090"
+    },
+    {
+      "english": "Simple pleasure, pure delight.",
+      "swedish": "Enkel njutning, ren glädje.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815091"
+    },
+    {
+      "english": "Sparkling water, refreshing fizz.",
+      "swedish": "Kolsyrat vatten, uppfriskande bubblor.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815091"
+    },
+    {
+      "english": "Warm cookie, sweet treat.",
+      "swedish": "Varm kaka, sött godis.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815092"
+    },
+    {
+      "english": "Waking up, new day.",
+      "swedish": "Vaknar upp, ny dag.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815092"
+    },
+    {
+      "english": "Warm bread, butter melts.",
+      "swedish": "Varmt bröd, smöret smälter.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815093"
+    },
+    {
+      "english": "Soft pillow, good rest.",
+      "swedish": "Mjuk kudde, bra vila.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815093"
+    },
+    {
+      "english": "Felt understood, relief.",
+      "swedish": "Kändes förstådd, lättnad.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815094"
+    },
+    {
+      "english": "Little surprise, happy moment.",
+      "swedish": "Liten överraskning, lycklig stund.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815094"
+    },
+    {
+      "english": "Sun on your face, ahh.",
+      "swedish": "Sol i ansiktet, åh.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815095"
+    },
+    {
+      "english": "Taste that fika, mmm.",
+      "swedish": "Smaka på fikat, mmm.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815095"
+    },
+    {
+      "english": "Long walk, happy heart.",
+      "swedish": "Långpromenad, glatt hjärta.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815096"
+    },
+    {
+      "english": "Cozy evening, book, tea.",
+      "swedish": "Mysig kväll, bok, te.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815096"
+    },
+    {
+      "english": "Laughing with friends, best.",
+      "swedish": "Skratta med vänner, bäst.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815097"
+    },
+    {
+      "english": "Warm hug, feels good.",
+      "swedish": "Varm kram, känns bra.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815097"
+    },
+    {
+      "english": "Sweet berry, juicy bite.",
+      "swedish": "Sött bär, saftigt bett.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815098"
+    },
+    {
+      "english": "Birds singing, morning song.",
+      "swedish": "Fåglar sjunger, morgonsång.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815098"
+    },
+    {
+      "english": "Fresh air, clean lungs.",
+      "swedish": "Frisk luft, rena lungor.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815099"
+    },
+    {
+      "english": "Good coffee, strong start.",
+      "swedish": "Gott kaffe, stark start.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815099"
+    },
+    {
+      "english": "Simple meal, delicious.",
+      "swedish": "Enkel måltid, utsökt.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815100"
+    },
+    {
+      "english": "Cozy fireplace, crackling sound.",
+      "swedish": "Mysig brasa, sprakande ljud.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815100"
+    },
+    {
+      "english": "Nice chat, warm feeling.",
+      "swedish": "Trevligt snack, varm känsla.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815101"
+    },
+    {
+      "english": "Dancing freely, pure joy.",
+      "swedish": "Dansar fritt, ren glädje.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815101"
+    },
+    {
+      "english": "Watching sunset, colors glow.",
+      "swedish": "Titta på solnedgång, färger lyser.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815102"
+    },
+    {
+      "english": "Soft blanket, happy sigh.",
+      "swedish": "Mjuk filt, lyckligt suck.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815102"
+    },
+    {
+      "english": "Sharing a joke, big smile.",
+      "swedish": "Dela ett skämt, stort leende.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815103"
+    },
+    {
+      "english": "Sweet smell, baking bread.",
+      "swedish": "Söt doft, bakar bröd.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815103"
+    },
+    {
+      "english": "Cool breeze, refreshing touch.",
+      "swedish": "Kall bris, uppfriskande känsla.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815104"
+    },
+    {
+      "english": "Warm socks, cozy feet.",
+      "swedish": "Varma strumpor, mysiga fötter.",
+      "category": "Joy",
+      "generated_at": "2026-10-14T05:55:25.815104"
     }
   ],
-  "last_updated": "2026-10-13T07:28:30.147802"
+  "last_updated": "2026-10-14T05:55:25.815105"
 }
