@@ -29519,7 +29519,367 @@
       "swedish": "Varma strumpor, mysiga fötter.",
       "category": "Joy",
       "generated_at": "2026-10-14T05:55:25.815104"
+    },
+    {
+      "english": "Learn Swedish, unlock new worlds.",
+      "swedish": "Lär dig svenska, öppna nya världar.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800871"
+    },
+    {
+      "english": "Speak Swedish, connect deeper.",
+      "swedish": "Tala svenska, knyt starkare band.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800882"
+    },
+    {
+      "english": "Practice daily, improve fast.",
+      "swedish": "Öva varje dag, bli bättre snabbt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800884"
+    },
+    {
+      "english": "Make mistakes, that's learning.",
+      "swedish": "Gör fel, det är att lära.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800885"
+    },
+    {
+      "english": "Read simple books, enjoy words.",
+      "swedish": "Läs enkla böcker, njut av orden.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800887"
+    },
+    {
+      "english": "Watch Swedish shows, hear the flow.",
+      "swedish": "Se svenska serier, hör flytet.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800888"
+    },
+    {
+      "english": "Sing Swedish songs, feel the rhythm.",
+      "swedish": "Sjung svenska sånger, känn rytmen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800889"
+    },
+    {
+      "english": "Explore Swedish culture, broaden your mind.",
+      "swedish": "Utforska svensk kultur, vidga ditt sinne.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800892"
+    },
+    {
+      "english": "Try new foods, taste Sweden.",
+      "swedish": "Prova ny mat, smaka Sverige.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800894"
+    },
+    {
+      "english": "Visit Sweden, experience it.",
+      "swedish": "Besök Sverige, upplev det.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800896"
+    },
+    {
+      "english": "Be patient, progress comes.",
+      "swedish": "Ha tålamod, framsteg kommer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800897"
+    },
+    {
+      "english": "Be brave, speak up.",
+      "swedish": "Var modig, prata.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800898"
+    },
+    {
+      "english": "Enjoy the journey, it's fun.",
+      "swedish": "Njut av resan, den är rolig.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800900"
+    },
+    {
+      "english": "Every word counts, build your vocabulary.",
+      "swedish": "Varje ord räknas, bygg ditt ordförråd.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800901"
+    },
+    {
+      "english": "Use dictionaries, find meanings.",
+      "swedish": "Använd ordböcker, hitta betydelser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800902"
+    },
+    {
+      "english": "Think in Swedish, start small.",
+      "swedish": "Tänk på svenska, börja enkelt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800903"
+    },
+    {
+      "english": "Write notes, remember phrases.",
+      "swedish": "Skriv ner, minns fraser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800904"
+    },
+    {
+      "english": "Find a language partner, practice together.",
+      "swedish": "Hitta en språkkompis, öva ihop.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800906"
+    },
+    {
+      "english": "Pronounce clearly, be understood.",
+      "swedish": "Uttala tydligt, bli förstådd.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800907"
+    },
+    {
+      "english": "Immerse yourself, live the language.",
+      "swedish": "Fördjupa dig, lev språket.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800908"
+    },
+    {
+      "english": "Use flashcards, review often.",
+      "swedish": "Använd kort, repetera ofta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800909"
+    },
+    {
+      "english": "Be curious, explore new words.",
+      "swedish": "Var nyfiken, utforska nya ord.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800910"
+    },
+    {
+      "english": "Understand grammar, build sentences.",
+      "swedish": "Förstå grammatik, bygg meningar.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800911"
+    },
+    {
+      "english": "Speak with confidence, even if imperfect.",
+      "swedish": "Tala med självförtroende, även om inte perfekt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800912"
+    },
+    {
+      "english": "Learn Swedish idioms, sound authentic.",
+      "swedish": "Lär dig svenska uttryck, låt äkta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800913"
+    },
+    {
+      "english": "Understand Swedish humor, laugh along.",
+      "swedish": "Förstå svensk humor, skratta med.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800914"
+    },
+    {
+      "english": "Take Swedish lessons, get structure.",
+      "swedish": "Gå svenska kurser, få struktur.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800915"
+    },
+    {
+      "english": "Join a Swedish club, practice speaking.",
+      "swedish": "Gå med i en svensk förening, öva tala.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800916"
+    },
+    {
+      "english": "Use Swedish apps, learn anywhere.",
+      "swedish": "Använd svenska appar, lär dig överallt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800917"
+    },
+    {
+      "english": "Listen to Swedish podcasts, absorb the language.",
+      "swedish": "Lyssna på svenska poddar, ta in språket.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800918"
+    },
+    {
+      "english": "Read Swedish news, stay updated.",
+      "swedish": "Läs svenska nyheter, håll dig uppdaterad.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800919"
+    },
+    {
+      "english": "Write short stories, express yourself.",
+      "swedish": "Skriv korta berättelser, uttryck dig.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800920"
+    },
+    {
+      "english": "Learn greetings, start conversations.",
+      "swedish": "Lär dig hälsningar, starta samtal.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800921"
+    },
+    {
+      "english": "Ask for directions, navigate easily.",
+      "swedish": "Be om vägbeskrivning, navigera enkelt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800922"
+    },
+    {
+      "english": "Learn Swedish, unlock new worlds.",
+      "swedish": "Lär dig svenska, öppna nya världar.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800923"
+    },
+    {
+      "english": "Speak Swedish, connect deeper.",
+      "swedish": "Tala svenska, knyt starkare band.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800925"
+    },
+    {
+      "english": "Practice daily, improve fast.",
+      "swedish": "Öva varje dag, bli bättre snabbt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800926"
+    },
+    {
+      "english": "Make mistakes, that's learning.",
+      "swedish": "Gör fel, det är att lära.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800927"
+    },
+    {
+      "english": "Read simple books, enjoy words.",
+      "swedish": "Läs enkla böcker, njut av orden.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800928"
+    },
+    {
+      "english": "Watch Swedish shows, hear the flow.",
+      "swedish": "Se svenska serier, hör flytet.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800929"
+    },
+    {
+      "english": "Sing Swedish songs, feel the rhythm.",
+      "swedish": "Sjung svenska sånger, känn rytmen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800931"
+    },
+    {
+      "english": "Explore Swedish culture, broaden your mind.",
+      "swedish": "Utforska svensk kultur, vidga ditt sinne.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800932"
+    },
+    {
+      "english": "Try new foods, taste Sweden.",
+      "swedish": "Prova ny mat, smaka Sverige.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800933"
+    },
+    {
+      "english": "Visit Sweden, experience it.",
+      "swedish": "Besök Sverige, upplev det.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800934"
+    },
+    {
+      "english": "Be patient, progress comes.",
+      "swedish": "Ha tålamod, framsteg kommer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800935"
+    },
+    {
+      "english": "Be brave, speak up.",
+      "swedish": "Var modig, prata.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800937"
+    },
+    {
+      "english": "Enjoy the journey, it's fun.",
+      "swedish": "Njut av resan, den är rolig.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800938"
+    },
+    {
+      "english": "Every word counts, build your vocabulary.",
+      "swedish": "Varje ord räknas, bygg ditt ordförråd.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800939"
+    },
+    {
+      "english": "Use dictionaries, find meanings.",
+      "swedish": "Använd ordböcker, hitta betydelser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800940"
+    },
+    {
+      "english": "Think in Swedish, start small.",
+      "swedish": "Tänk på svenska, börja enkelt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800941"
+    },
+    {
+      "english": "Write notes, remember phrases.",
+      "swedish": "Skriv ner, minns fraser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800942"
+    },
+    {
+      "english": "Find a language partner, practice together.",
+      "swedish": "Hitta en språkkompis, öva ihop.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800943"
+    },
+    {
+      "english": "Pronounce clearly, be understood.",
+      "swedish": "Uttala tydligt, bli förstådd.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800944"
+    },
+    {
+      "english": "Immerse yourself, live the language.",
+      "swedish": "Fördjupa dig, lev språket.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800945"
+    },
+    {
+      "english": "Use flashcards, review often.",
+      "swedish": "Använd kort, repetera ofta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800946"
+    },
+    {
+      "english": "Be curious, explore new words.",
+      "swedish": "Var nyfiken, utforska nya ord.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800948"
+    },
+    {
+      "english": "Understand grammar, build sentences.",
+      "swedish": "Förstå grammatik, bygg meningar.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800949"
+    },
+    {
+      "english": "Speak with confidence, even if imperfect.",
+      "swedish": "Tala med självförtroende, även om inte perfekt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800950"
+    },
+    {
+      "english": "Learn Swedish idioms, sound authentic.",
+      "swedish": "Lär dig svenska uttryck, låt äkta.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800951"
+    },
+    {
+      "english": "Understand Swedish humor, laugh along.",
+      "swedish": "Förstå svensk humor, skratta med.",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T05:39:54.800952"
     }
   ],
-  "last_updated": "2026-10-14T05:55:25.815105"
+  "last_updated": "2026-10-15T05:39:54.800954"
 }
