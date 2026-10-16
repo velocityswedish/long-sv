@@ -1137,74 +1137,54 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
     """Create video from images and audio with PERFECT synchronization"""
 
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
-    print(f"[video] Ensuring PERFECT audio-video synchronization...")
+    print(f"[video] Embedding audio in each clip for frame-perfect sync...")
 
     temp_clips = []
 
-    # Step 1: Create video clips for each image with EXACT audio duration
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
-        duration = audio_info['duration']  # Use EXACT duration from audio
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + SV: {audio_info.get('sv_duration', 0):.1f}s)")
+        duration = audio_info['duration']
+        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + SV: {audio_info.get('foreign_duration', 0):.1f}s)")
 
         temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
-        # Create video clip from image with EXACT duration matching audio
         cmd = [
             "ffmpeg", "-y",
             "-loop", "1",
             "-i", str(img_path),
+            "-i", audio_info['combined'],
             "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS}",
-            "-t", f"{duration:.3f}",  # EXACT duration
             "-c:v", "libx264",
+            "-c:a", "aac",
+            "-b:a", "128k",
             "-pix_fmt", "yuv420p",
             "-preset", "ultrafast",
+            "-shortest",
+            "-vsync", "cfr",
             str(temp_clip)
         ]
 
         subprocess.run(cmd, check=True, capture_output=True)
 
-    # Step 2: Concatenate all video clips
     print("[video] Concatenating clips...")
-    temp_video = Path(output_file).parent / "temp_video.mp4"
     concat_file = Path(output_file).parent / "concat_list.txt"
 
     with open(concat_file, "w", encoding="utf-8") as f:
         for clip in temp_clips:
             f.write(f"file '{clip.resolve().as_posix()}'\n")
 
-    cmd = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_file), "-c", "copy", str(temp_video)]
+    cmd = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_file), "-c", "copy", str(output_file)]
     subprocess.run(cmd, check=True, capture_output=True)
 
     if concat_file.exists():
         concat_file.unlink()
 
-    # Step 3: Add the combined audio (which already has correct timing)
-    print("[video] Adding audio...")
-    audio_duration = get_audio_duration(combined_audio)
-    print(f"[video] Audio duration: {audio_duration:.2f}s")
-
-    cmd = [
-        "ffmpeg", "-y",
-        "-i", str(temp_video),
-        "-i", str(combined_audio),
-        "-c:v", "copy",
-        "-c:a", "aac",
-        "-t", f"{audio_duration:.3f}",
-        str(output_file)
-    ]
-    subprocess.run(cmd, check=True, capture_output=True)
-
-    # Verify final video
     video_duration = get_audio_duration(str(output_file))
     print(f"[video] ✓ Video created: {Path(output_file).name} ({video_duration:.2f}s)")
 
-    # Cleanup temp files
     for clip in temp_clips:
         if clip.exists():
             clip.unlink()
-    if temp_video.exists():
-        temp_video.unlink()
 
 
 # ============== MAIN WORKFLOW ==============
