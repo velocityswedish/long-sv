@@ -1,0 +1,302 @@
+name: YouTube Long-Form Video Generator - Velocity Swedish
+
+on:
+  # Schedule: Generate and upload 1 long-form video per day at 10 PM EST (3 AM UTC next day)
+  # Best time for audience: 10 PM EST reaches American audience before they sleep
+  schedule:
+    - cron: '0 3 * * *'  # 10:00 PM EST (3:00 AM UTC next day)
+
+  # Allow manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Category (optional, random if empty)'
+        required: false
+        default: ''
+      phrases:
+        description: 'Number of phrases (default: 120)'
+        required: false
+        default: '120'
+
+jobs:
+  generate-youtube-video:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📥 Download phrase history (if exists)
+        uses: actions/download-artifact@v4
+        id: download-history
+        continue-on-error: true
+        with:
+          name: longform-phrase-history
+          path: output/history/
+
+      - name: 📝 Initialize history if not found
+        run: |
+          mkdir -p output/history
+          if [ ! -f "output/history/all_generated_phrases.json" ]; then
+            echo '{"phrases": [], "last_updated": null}' > output/history/all_generated_phrases.json
+            echo "📝 Created new phrase history file"
+          else
+            echo "✅ Loaded existing phrase history"
+            phrase_count=$(python -c "import json; print(len(json.load(open('output/history/all_generated_phrases.json'))['phrases']))" 2>/dev/null || echo "0")
+            echo "📊 History contains $phrase_count phrases"
+          fi
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation
+          echo "✅ System dependencies and fonts installed"
+          sudo fc-cache -fv
+          echo "✅ Font cache refreshed"
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          if [ -f "upload/requirements.txt" ]; then
+            pip install -r upload/requirements.txt
+          fi
+          echo "✅ All dependencies installed (including YouTube upload libs)"
+
+      - name: 🔐 Create .env file from secrets
+        run: |
+          echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
+          echo "AI_MODEL=${{ secrets.AI_MODEL || 'gemini-fast' }}" >> .env
+          echo "" >> .env
+          echo "# YouTube API Credentials" >> .env
+          echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
+          echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
+          echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
+          echo "" >> .env
+          echo "# Timezone" >> .env
+          echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
+          echo "✅ .env file created"
+
+      - name: 🎬 Generate Long-Form YouTube Video
+        id: generate
+        run: |
+          echo "🚀 Starting YouTube long-form video generation..."
+          echo "⏱️  This will take approximately 8-12 minutes..."
+          echo ""
+          
+          # Run the long-form generator
+          python youtube_longform_automation.py
+          
+          echo ""
+          echo "✅ Video generation complete!"
+          echo ""
+          echo "📁 Generated files:"
+          ls -la output/longform_videos/ | tail -20
+          
+          # Get the latest video directory
+          LATEST_DIR=$(ls -td output/longform_videos/*/ | head -1)
+          echo "LATEST_VIDEO_DIR=$LATEST_DIR" >> $GITHUB_OUTPUT
+          
+          # Get video duration
+          if [ -f "${LATEST_DIR}video_metadata.json" ]; then
+            DURATION=$(python -c "import json; print(json.load(open('${LATEST_DIR}video_metadata.json'))['actual_duration_minutes'])")
+            echo "VIDEO_DURATION=$DURATION minutes" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 📋 Show YouTube Upload Info
+        run: |
+          LATEST_DIR="${{ steps.generate.outputs.LATEST_VIDEO_DIR }}"
+          echo "📄 YouTube Upload Information:"
+          echo "================================"
+          if [ -f "${LATEST_DIR}youtube_upload_info.txt" ]; then
+            head -50 "${LATEST_DIR}youtube_upload_info.txt"
+          fi
+
+      - name: 🎴 Generate Thumbnail Summary
+        run: |
+          LATEST_DIR="${{ steps.generate.outputs.LATEST_VIDEO_DIR }}"
+          echo "🖼️  Thumbnail Files:"
+          echo "===================="
+          ls -lh "${LATEST_DIR}"*.jpg 2>/dev/null || echo "No thumbnail files found"
+          echo ""
+          echo "📊 File sizes:"
+          du -h "${LATEST_DIR}"*.jpg 2>/dev/null || true
+
+      - name: 📺 Upload to YouTube (Video + Thumbnail + Metadata)
+        id: youtube-upload
+        continue-on-error: true
+        run: |
+          echo "🚀 Starting automatic YouTube upload..."
+          
+          # Get latest video directory
+          LATEST_DIR=$(ls -td output/longform_videos/*/ | head -1)
+          echo "📁 Video directory: $LATEST_DIR"
+          
+          # Verify required files exist
+          if [ ! -f "${LATEST_DIR}final_video.mp4" ]; then
+            echo "❌ Video file not found: ${LATEST_DIR}final_video.mp4"
+            echo "upload_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          
+          if [ ! -f "${LATEST_DIR}thumbnail.jpg" ]; then
+            echo "⚠️  Thumbnail not found: ${LATEST_DIR}thumbnail.jpg"
+          fi
+          
+          # Set environment variables for YouTube upload
+          export YT_CLIENT_ID="${{ secrets.YT_CLIENT_ID }}"
+          export YT_CLIENT_SECRET="${{ secrets.YT_CLIENT_SECRET }}"
+          export YT_REFRESH_TOKEN="${{ secrets.YT_REFRESH_TOKEN }}"
+          
+          # Verify credentials are set
+          if [ -z "$YT_CLIENT_ID" ] || [ -z "$YT_CLIENT_SECRET" ] || [ -z "$YT_REFRESH_TOKEN" ]; then
+            echo "❌ YouTube credentials not set! Please add YT_CLIENT_ID, YT_CLIENT_SECRET, and YT_REFRESH_TOKEN to GitHub Secrets."
+            echo "upload_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          
+          echo "✅ YouTube credentials verified"
+          
+          # Add upload directory to PYTHONPATH
+          export PYTHONPATH="${{ github.workspace }}/upload:$PYTHONPATH"
+          
+          # Run the YouTube upload script
+          cd upload
+          python upload_youtube_longform.py
+          upload_exit_code=$?
+          
+          if [ $upload_exit_code -ne 0 ]; then
+            echo "❌ YouTube upload failed with exit code $upload_exit_code"
+            echo "upload_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          
+          echo "✅ YouTube upload step complete!"
+          
+          # Check if upload result file was created
+          if [ -f "${LATEST_DIR}youtube_upload_result.json" ]; then
+            echo "📄 Upload result:"
+            cat "${LATEST_DIR}youtube_upload_result.json"
+            
+            # Extract video ID for summary
+            VIDEO_ID=$(python -c "import json; print(json.load(open('${LATEST_DIR}youtube_upload_result.json'))['video_id'])" 2>/dev/null || echo "Unknown")
+            echo "VIDEO_ID=$VIDEO_ID" >> $GITHUB_OUTPUT
+            echo "YOUTUBE_URL=https://www.youtube.com/watch?v=$VIDEO_ID" >> $GITHUB_OUTPUT
+            echo "upload_success=true" >> $GITHUB_OUTPUT
+          else
+            echo "⚠️  Upload result file not found - upload may have failed"
+            echo "VIDEO_ID=Unknown" >> $GITHUB_OUTPUT
+            echo "YOUTUBE_URL=Unknown" >> $GITHUB_OUTPUT
+            echo "upload_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          GITHUB_ACTIONS: "true"
+
+      - name: 📤 Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-video-${{ github.run_number }}
+          path: |
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}final_video.mp4
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}thumbnail.jpg
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}video_thumbnail_frame.jpg
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}youtube_upload_info.txt
+            ${{ steps.generate.outputs.LATEST_VIDEO_DIR }}video_metadata.json
+          retention-days: 7
+
+      - name: 💾 Upload Phrase History
+        uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: longform-phrase-history
+          path: output/history/all_generated_phrases.json
+          retention-days: 90
+          overwrite: true
+
+      - name: 💾 Commit Phrase History to Repository
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/history/all_generated_phrases.json
+          if ! git diff --staged --quiet; then
+            git commit -m "📊 Update long-form phrase history - Run #${{ github.run_number }}"
+            git push
+            echo "✅ Phrase history committed - NO repeats across runs!"
+          else
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: 📊 Upload Summary Comment
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const duration = process.env.VIDEO_DURATION || 'Unknown';
+            const videoId = '${{ steps.youtube-upload.outputs.VIDEO_ID }}' || 'Not uploaded yet';
+            const youtubeUrl = '${{ steps.youtube-upload.outputs.YOUTUBE_URL }}' || 'Check workflow run for details';
+            const uploadSuccess = '${{ steps.youtube-upload.outputs.upload_success }}' === 'true';
+
+            if (uploadSuccess) {
+              const message = [
+                '## ✅ YouTube Long-Form Video Generated & Uploaded!',
+                '',
+                '| Property | Value |',
+                '|----------|-------|',
+                `| Duration | ${duration} |`,
+                `| Video ID | ${videoId} |`,
+                `| YouTube URL | ${youtubeUrl} |`,
+                '| Status | 🟢 Automatically uploaded to YouTube |',
+                '',
+                '### 📥 Download Backup',
+                '1. Go to **Actions** tab',
+                '2. Click on this workflow run',
+                '3. Scroll to **Artifacts** section',
+                `4. Download \`youtube-video-${{ github.run_number }}\``,
+                '',
+                '### 📺 YouTube Upload Details',
+                '- ✅ Video automatically uploaded to YouTube',
+                '- ✅ Custom thumbnail uploaded',
+                '- ✅ Title, description, and tags included',
+                '- 🟢 Video is **PUBLIC** (visible to everyone)',
+                '',
+                '### 📝 Manual Steps (if needed)',
+                '1. Go to [YouTube Studio](https://studio.youtube.com)',
+                '2. Find the uploaded video (it should be Public)',
+                '3. Check thumbnail and metadata'
+              ].join('\n');
+              console.log(message);
+            } else {
+              const message = [
+                '## ⚠️ YouTube Long-Form Video Generated (Upload Failed)',
+                '',
+                '| Property | Value |',
+                '|----------|-------|',
+                `| Duration | ${duration} |`,
+                '| Status | 🟡 Video generated but upload failed |',
+                '',
+                '### 📥 Download and Manual Upload Required',
+                '1. Go to **Actions** tab',
+                '2. Click on this workflow run',
+                '3. Scroll to **Artifacts** section',
+                `4. Download \`youtube-video-${{ github.run_number }}\``,
+                '5. Extract and manually upload to YouTube',
+                '',
+                '### 📝 Files Included',
+                '- final_video.mp4',
+                '- thumbnail.jpg',
+                '- youtube_upload_info.txt (title + description + tags)'
+              ].join('\n');
+              console.log(message);
+            }
