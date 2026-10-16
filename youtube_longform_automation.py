@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
-CATEGORIES_ENGLISH = list(CATEGORIES_SWEDISH.keys())
 
 # Swedish translations for display
 CATEGORIES_SWEDISH = {
@@ -98,6 +97,9 @@ CATEGORIES_SWEDISH = {
     "Cultural Traditions": "Kulturella traditioner",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_SWEDISH.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 SWEDISH_VOICE = "sv-SE-SofieNeural"
