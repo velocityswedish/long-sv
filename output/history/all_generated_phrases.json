@@ -5843,7 +5843,727 @@
       "swedish": "Vad lärde du dig idag?",
       "category": "Growth",
       "generated_at": "2026-10-17T05:24:43.950582"
+    },
+    {
+      "english": "Oh, what a lovely surprise!",
+      "swedish": "Åh, vilken härlig överraskning!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364554"
+    },
+    {
+      "english": "This feels so good, truly.",
+      "swedish": "Det här känns så bra, verkligen.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364567"
+    },
+    {
+      "english": "I'm so happy right now.",
+      "swedish": "Jag är så glad just nu.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364571"
+    },
+    {
+      "english": "What a wonderful moment!",
+      "swedish": "Vilket underbart ögonblick!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364574"
+    },
+    {
+      "english": "Everything is going great!",
+      "swedish": "Allt går jättebra!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364576"
+    },
+    {
+      "english": "This makes my day brighter.",
+      "swedish": "Det här gör min dag ljusare.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364579"
+    },
+    {
+      "english": "Such a pleasant feeling.",
+      "swedish": "En sån behaglig känsla.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364582"
+    },
+    {
+      "english": "I'm absolutely delighted!",
+      "swedish": "Jag är helt förtjust!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364587"
+    },
+    {
+      "english": "That's fantastic news!",
+      "swedish": "Vilka fantastiska nyheter!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364590"
+    },
+    {
+      "english": "My heart feels so full.",
+      "swedish": "Mitt hjärta känns så fullt.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364593"
+    },
+    {
+      "english": "This is pure bliss.",
+      "swedish": "Det här är ren lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364596"
+    },
+    {
+      "english": "I'm really excited about this.",
+      "swedish": "Jag är verkligen exalterad över detta.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364598"
+    },
+    {
+      "english": "What a joy to see!",
+      "swedish": "Vilken glädje att se!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364601"
+    },
+    {
+      "english": "This is simply wonderful.",
+      "swedish": "Det här är helt underbart.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364605"
+    },
+    {
+      "english": "Feeling a wave of happiness.",
+      "swedish": "Känner en våg av lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364608"
+    },
+    {
+      "english": "This outcome is perfect.",
+      "swedish": "Det här utfallet är perfekt.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364610"
+    },
+    {
+      "english": "So pleased with this!",
+      "swedish": "Så nöjd med detta!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364614"
+    },
+    {
+      "english": "It's a pure delight.",
+      "swedish": "Det är en ren fröjd.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364617"
+    },
+    {
+      "english": "This brings me so much joy.",
+      "swedish": "Det här ger mig så mycket glädje.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364620"
+    },
+    {
+      "english": "Absolutely thrilled, yes!",
+      "swedish": "Helt upprymd, ja!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364622"
+    },
+    {
+      "english": "What a delightful experience.",
+      "swedish": "Vilken härlig upplevelse.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364625"
+    },
+    {
+      "english": "This is truly heartwarming.",
+      "swedish": "Det här värmer verkligen.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364628"
+    },
+    {
+      "english": "Feeling very optimistic now.",
+      "swedish": "Känner mig väldigt optimistisk nu.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364630"
+    },
+    {
+      "english": "Couldn't be happier, honestly.",
+      "swedish": "Kunde inte vara gladare, ärligt talat.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364633"
+    },
+    {
+      "english": "What a fantastic achievement!",
+      "swedish": "Vilken fantastisk prestation!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364635"
+    },
+    {
+      "english": "This is sheer happiness.",
+      "swedish": "Det här är ren lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364638"
+    },
+    {
+      "english": "A moment of pure contentment.",
+      "swedish": "Ett ögonblick av ren tillfredsställelse.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364640"
+    },
+    {
+      "english": "Everything aligns perfectly.",
+      "swedish": "Allt stämmer perfekt.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364643"
+    },
+    {
+      "english": "Feeling a deep sense of joy.",
+      "swedish": "Känner en djup känsla av glädje.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364645"
+    },
+    {
+      "english": "This is simply perfect!",
+      "swedish": "Det här är helt perfekt!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364650"
+    },
+    {
+      "english": "What are you smiling about?",
+      "swedish": "Vad ler du åt?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364652"
+    },
+    {
+      "english": "Did something funny happen?",
+      "swedish": "Hände något roligt?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364655"
+    },
+    {
+      "english": "Tell me, what's up?",
+      "swedish": "Säg, vad händer?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364658"
+    },
+    {
+      "english": "Can you share your good mood?",
+      "swedish": "Kan du dela din glädje?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364661"
+    },
+    {
+      "english": "What brings you such joy?",
+      "swedish": "Vad ger dig sådan glädje?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364663"
+    },
+    {
+      "english": "How did you find this out?",
+      "swedish": "Hur fick du veta det?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364666"
+    },
+    {
+      "english": "Did you hear the good news?",
+      "swedish": "Hörde du de goda nyheterna?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364668"
+    },
+    {
+      "english": "Are you excited for tomorrow?",
+      "swedish": "Är du förväntansfull inför imorgon?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364671"
+    },
+    {
+      "english": "What's making you so happy?",
+      "swedish": "Vad gör dig så glad?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364687"
+    },
+    {
+      "english": "Is everything going well?",
+      "swedish": "Går allt bra?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364693"
+    },
+    {
+      "english": "May I ask a quick question?",
+      "swedish": "Får jag ställa en snabb fråga?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364695"
+    },
+    {
+      "english": "Could you recommend something fun?",
+      "swedish": "Kan du rekommendera något roligt?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364698"
+    },
+    {
+      "english": "What's the plan for today?",
+      "swedish": "Vad är planen för idag?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364701"
+    },
+    {
+      "english": "Do you want to join us?",
+      "swedish": "Vill du följa med oss?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364704"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "swedish": "Vad är dina tankar om detta?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364706"
+    },
+    {
+      "english": "Is this a good time to talk?",
+      "swedish": "Är det här en bra tid att prata?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364709"
+    },
+    {
+      "english": "What are you hoping for?",
+      "swedish": "Vad hoppas du på?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364711"
+    },
+    {
+      "english": "Did you achieve your goal?",
+      "swedish": "Nådde du ditt mål?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364714"
+    },
+    {
+      "english": "How did you solve that problem?",
+      "swedish": "Hur löste du det problemet?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364718"
+    },
+    {
+      "english": "What makes you laugh the most?",
+      "swedish": "Vad får dig att skratta mest?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364720"
+    },
+    {
+      "english": "Are you looking forward to it?",
+      "swedish": "Ser du fram emot det?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364723"
+    },
+    {
+      "english": "What inspired this decision?",
+      "swedish": "Vad inspirerade detta beslut?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364725"
+    },
+    {
+      "english": "Can I help you with anything?",
+      "swedish": "Kan jag hjälpa dig med något?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364728"
+    },
+    {
+      "english": "What’s your favorite part?",
+      "swedish": "Vad är din favoritsdel?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364732"
+    },
+    {
+      "english": "Are we on the same page?",
+      "swedish": "Är vi på samma spår?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364734"
+    },
+    {
+      "english": "What do you think about this?",
+      "swedish": "Vad tycker du om detta?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364737"
+    },
+    {
+      "english": "How was your day, really?",
+      "swedish": "Hur var din dag, på riktigt?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364740"
+    },
+    {
+      "english": "What’s the secret to your success?",
+      "swedish": "Vad är hemligheten bakom din framgång?",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364743"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "swedish": "Tro på dig själv, du klarar det.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364746"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "swedish": "Du gör ett bra jobb, fortsätt så.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364749"
+    },
+    {
+      "english": "What a wonderful idea, I love it!",
+      "swedish": "Vilken härlig idé, jag gillar den!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364753"
+    },
+    {
+      "english": "This is progress, celebrate it.",
+      "swedish": "Det här är framsteg, fira det.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364755"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "swedish": "Din ansträngning uppskattas verkligen.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364758"
+    },
+    {
+      "english": "Focus on the positive, always.",
+      "swedish": "Fokusera på det positiva, alltid.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364761"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "swedish": "Varje dag är en ny chans.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364763"
+    },
+    {
+      "english": "You've got this, I know you do.",
+      "swedish": "Du fixar det, jag vet att du gör det.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364766"
+    },
+    {
+      "english": "That's a brilliant solution!",
+      "swedish": "Det där är en lysande lösning!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364770"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "swedish": "Behåll den positiva energin.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364773"
+    },
+    {
+      "english": "Well done, I'm proud of you.",
+      "swedish": "Bra jobbat, jag är stolt över dig.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364776"
+    },
+    {
+      "english": "You inspire me with your attitude.",
+      "swedish": "Du inspirerar mig med din attityd.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364779"
+    },
+    {
+      "english": "This will lead to something great.",
+      "swedish": "Det här kommer leda till något stort.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364781"
+    },
+    {
+      "english": "Embrace challenges, they make us stronger.",
+      "swedish": "Anamma utmaningar, de gör oss starkare.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364784"
+    },
+    {
+      "english": "Your positive outlook is admirable.",
+      "swedish": "Ditt positiva synsätt är beundransvärt.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364786"
+    },
+    {
+      "english": "You're making real progress here.",
+      "swedish": "Du gör verkliga framsteg här.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364789"
+    },
+    {
+      "english": "Let's keep this momentum going.",
+      "swedish": "Låt oss hålla den här farten uppe.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364792"
+    },
+    {
+      "english": "That's a great way to look at it.",
+      "swedish": "Det är ett bra sätt att se på det.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364795"
+    },
+    {
+      "english": "You have such a good spirit.",
+      "swedish": "Du har en sån god anda.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364797"
+    },
+    {
+      "english": "This calls for a celebration!",
+      "swedish": "Det här kräver en firande!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364800"
+    },
+    {
+      "english": "Your optimism is infectious.",
+      "swedish": "Din optimism smittar av sig.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364802"
+    },
+    {
+      "english": "Keep shining, you're amazing.",
+      "swedish": "Fortsätt lysa, du är fantastisk.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364805"
+    },
+    {
+      "english": "This is exactly what we needed.",
+      "swedish": "Det här är precis vad vi behövde.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364809"
+    },
+    {
+      "english": "What a wonderful outcome, wow!",
+      "swedish": "Vilket underbart resultat, wow!",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364812"
+    },
+    {
+      "english": "Believe in the good things coming.",
+      "swedish": "Tro på de goda sakerna som kommer.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364814"
+    },
+    {
+      "english": "This is a true breakthrough.",
+      "swedish": "Det här är ett verkligt genombrott.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364817"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "swedish": "Din beslutsamhet är inspirerande.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364820"
+    },
+    {
+      "english": "This feeling is absolutely wonderful.",
+      "swedish": "Den här känslan är helt underbar.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364822"
+    },
+    {
+      "english": "This brings a deep sense of calm.",
+      "swedish": "Det här ger en djup känsla av lugn.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364825"
+    },
+    {
+      "english": "I feel a quiet contentment growing.",
+      "swedish": "Jag känner en stilla tillfredsställelse växa.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364828"
+    },
+    {
+      "english": "My heart feels truly full today.",
+      "swedish": "Mitt hjärta känns verkligen fyllt idag.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364830"
+    },
+    {
+      "english": "There's a gentle happiness inside.",
+      "swedish": "Det finns en mjuk lycka där inne.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364833"
+    },
+    {
+      "english": "This moment, it's pure bliss.",
+      "swedish": "Det här ögonblicket, det är ren lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364838"
+    },
+    {
+      "english": "I'm grateful for this peaceful feeling.",
+      "swedish": "Jag är tacksam för den här fridfulla känslan.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364841"
+    },
+    {
+      "english": "A wave of joy just washed over me.",
+      "swedish": "En våg av glädje sköljde precis över mig.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364843"
+    },
+    {
+      "english": "This is more than I hoped for.",
+      "swedish": "Det här är mer än jag hoppats på.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364846"
+    },
+    {
+      "english": "My soul feels light and airy.",
+      "swedish": "Min själ känns lätt och luftig.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364848"
+    },
+    {
+      "english": "It’s a deep, resonant happiness.",
+      "swedish": "Det är en djup, klangfull lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364852"
+    },
+    {
+      "english": "I cherish this simple delight.",
+      "swedish": "Jag värdesätter denna enkla glädje.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364854"
+    },
+    {
+      "english": "This feeling is incredibly grounding.",
+      "swedish": "Den här känslan är otroligt jordande.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364857"
+    },
+    {
+      "english": "My spirit feels uplifted and bright.",
+      "swedish": "Min ande känns upplyft och ljus.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364859"
+    },
+    {
+      "english": "It’s a gentle, warming sensation.",
+      "swedish": "Det är en mild, värmande känsla.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364865"
+    },
+    {
+      "english": "I'm experiencing pure, unadulterated joy.",
+      "swedish": "Jag upplever ren, oförfalskad glädje.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364868"
+    },
+    {
+      "english": "This brings a quiet smile to my face.",
+      "swedish": "Det här ger ett tyst leende på mina läppar.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364871"
+    },
+    {
+      "english": "My heart is singing a happy tune.",
+      "swedish": "Mitt hjärta sjunger en glad melodi.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364873"
+    },
+    {
+      "english": "There’s a profound sense of peace here.",
+      "swedish": "Det finns en djup känsla av frid här.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364877"
+    },
+    {
+      "english": "This is a moment of sweet serenity.",
+      "swedish": "Det här är ett ögonblick av ljuvlig stillhet.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364880"
+    },
+    {
+      "english": "I feel a blossoming happiness within.",
+      "swedish": "Jag känner en blommande lycka inom mig.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364882"
+    },
+    {
+      "english": "This sensation is deeply satisfying.",
+      "swedish": "Den här känslan är djupt tillfredsställande.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364885"
+    },
+    {
+      "english": "My spirit feels light as a feather.",
+      "swedish": "Min ande känns lätt som en fjäder.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364887"
+    },
+    {
+      "english": "This is pure, unadulterated delight.",
+      "swedish": "Det här är ren, oförfalskad förtjusning.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364890"
+    },
+    {
+      "english": "A gentle joy permeates everything.",
+      "swedish": "En mild glädje genomsyrar allt.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364893"
+    },
+    {
+      "english": "My heart feels at perfect ease.",
+      "swedish": "Mitt hjärta känns helt avslappnat.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364895"
+    },
+    {
+      "english": "This is a moment of true contentment.",
+      "swedish": "Det här är ett ögonblick av sann belåtenhet.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364898"
+    },
+    {
+      "english": "I feel a quiet, inner radiance.",
+      "swedish": "Jag känner en tyst, inre utstrålning.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364902"
+    },
+    {
+      "english": "This is a sweet, welcome feeling.",
+      "swedish": "Det här är en ljuv, välkommen känsla.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364905"
+    },
+    {
+      "english": "My soul drinks in this happiness.",
+      "swedish": "Min själ dricker i sig denna lycka.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364908"
+    },
+    {
+      "english": "This brings a profound sense of peace.",
+      "swedish": "Det här ger en djup känsla av frid.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364910"
+    },
+    {
+      "english": "Let's make today, a happy day.",
+      "swedish": "Låt oss göra idag, till en glad dag.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364913"
+    },
+    {
+      "english": "This small act, brought big joy.",
+      "swedish": "Den här lilla handlingen, gav stor glädje.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364916"
+    },
+    {
+      "english": "Enjoy the little things, always.",
+      "swedish": "Njut av de små sakerna, alltid.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364918"
+    },
+    {
+      "english": "Share your smile, it's contagious.",
+      "swedish": "Dela ditt leende, det smittar.",
+      "category": "Joy",
+      "generated_at": "2026-11-01T07:13:51.364921"
     }
   ],
-  "last_updated": "2026-10-17T05:24:43.950584"
+  "last_updated": "2026-11-01T07:13:51.364923"
 }
