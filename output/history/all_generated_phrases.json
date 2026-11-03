@@ -7283,7 +7283,727 @@
       "swedish": "Små steg, stora mål, kom ihåg.",
       "category": "Perseverance",
       "generated_at": "2026-11-02T07:27:51.258911"
+    },
+    {
+      "english": "I forgot my PIN, what now?",
+      "swedish": "Jag glömde min PIN-kod, vad gör jag nu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.729993"
+    },
+    {
+      "english": "Can I pay with card, right here?",
+      "swedish": "Kan jag betala med kort här, direkt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730008"
+    },
+    {
+      "english": "The card declined, what’s the problem?",
+      "swedish": "Kortet blev nekad, vad beror det på?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730013"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "swedish": "Tar ni kontaktlösa betalningar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730017"
+    },
+    {
+      "english": "I need cash, where’s the nearest ATM?",
+      "swedish": "Jag behöver kontanter, var finns närmaste bankomat?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730021"
+    },
+    {
+      "english": "How much is it in Swedish kronor?",
+      "swedish": "Hur mycket kostar det i svenska kronor?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730030"
+    },
+    {
+      "english": "Let’s split the bill, okay?",
+      "swedish": "Vi delar notan, okej?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730033"
+    },
+    {
+      "english": "I’ll cover my part, thanks!",
+      "swedish": "Jag tar min del, tack!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730039"
+    },
+    {
+      "english": "Is there a fee for this transfer?",
+      "swedish": "Är det någon avgift för överföringen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730042"
+    },
+    {
+      "english": "My balance looks wrong, is it updated?",
+      "swedish": "Mitt saldo ser fel ut, är det uppdaterat?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730045"
+    },
+    {
+      "english": "When will the money arrive?",
+      "swedish": "När kommer pengarna fram?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730047"
+    },
+    {
+      "english": "I got a refund, that’s great!",
+      "swedish": "Jag fick en återbetalning, vad skönt!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730050"
+    },
+    {
+      "english": "I’m checking my transactions now.",
+      "swedish": "Jag kollar mina transaktioner nu.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730053"
+    },
+    {
+      "english": "Is this subscription already canceled?",
+      "swedish": "Är den här prenumerationen avbokad?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730055"
+    },
+    {
+      "english": "Wait, I didn’t approve this charge.",
+      "swedish": "Vänta, jag godkände inte den här avgiften.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730085"
+    },
+    {
+      "english": "Can I set a daily spending limit?",
+      "swedish": "Kan jag sätta en daglig utgiftsgräns?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730088"
+    },
+    {
+      "english": "That price is too high for me.",
+      "swedish": "Det där priset är för högt för mig.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730091"
+    },
+    {
+      "english": "I’ll pay later, just send it.",
+      "swedish": "Jag betalar senare, skicka bara fakturan.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730094"
+    },
+    {
+      "english": "Do you have student discounts?",
+      "swedish": "Har ni studentrabatt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730096"
+    },
+    {
+      "english": "I need help with online banking.",
+      "swedish": "Jag behöver hjälp med internetbanken.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730100"
+    },
+    {
+      "english": "Show me the exchange rate, please.",
+      "swedish": "Visa mig växelkursen, snälla.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730102"
+    },
+    {
+      "english": "My card is blocked, how long?",
+      "swedish": "Mitt kort är spärrat, hur länge?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730105"
+    },
+    {
+      "english": "I’ll call support, this is urgent.",
+      "swedish": "Jag ringer supporten, det här är bråttom.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730107"
+    },
+    {
+      "english": "How do I withdraw money safely?",
+      "swedish": "Hur tar jag ut pengar säkert?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730109"
+    },
+    {
+      "english": "Is there an interest rate on this loan?",
+      "swedish": "Är räntan hög på det här lånet?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730111"
+    },
+    {
+      "english": "That sounds expensive, are there cheaper options?",
+      "swedish": "Det låter dyrt, finns det billigare alternativ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730114"
+    },
+    {
+      "english": "I’m on a budget, so no extras.",
+      "swedish": "Jag håller budget, så inga extra-grejer.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730117"
+    },
+    {
+      "english": "Let me check, I might be mistaken.",
+      "swedish": "Jag kollar, jag kan ha fel.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730119"
+    },
+    {
+      "english": "Thanks, I’ll manage from here.",
+      "swedish": "Tack, jag fixar resten själv.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730122"
+    },
+    {
+      "english": "Don’t worry, it’ll sort itself out.",
+      "swedish": "Ingen fara, det löser sig.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730124"
+    },
+    {
+      "english": "Is this a one-time payment or recurring?",
+      "swedish": "Är det här en engångsbetalning eller återkommande?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730127"
+    },
+    {
+      "english": "How do I add money to my account?",
+      "swedish": "Hur fyller jag på kontot, då?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730131"
+    },
+    {
+      "english": "Which bank app is best for beginners?",
+      "swedish": "Vilken bankapp är bäst för nybörjare?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730136"
+    },
+    {
+      "english": "Do you recommend a savings account for me?",
+      "swedish": "Rekommenderar du sparkonto för mig?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730138"
+    },
+    {
+      "english": "What’s the easiest way to transfer money?",
+      "swedish": "Vad är smidigast att föra över pengar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730142"
+    },
+    {
+      "english": "Can I move money between my accounts?",
+      "swedish": "Kan jag flytta pengar mellan konton?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730144"
+    },
+    {
+      "english": "Where do I find my IBAN in the app?",
+      "swedish": "Var hittar jag mitt IBAN i appen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730146"
+    },
+    {
+      "english": "Is this transfer instant, or does it take time?",
+      "swedish": "Går den här överföringen direkt, eller tar tid?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730148"
+    },
+    {
+      "english": "What information do you need from me?",
+      "swedish": "Vilka uppgifter behöver ni från mig?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730150"
+    },
+    {
+      "english": "I want to avoid extra charges, advice?",
+      "swedish": "Jag vill undvika extra avgifter, vad råder du?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730153"
+    },
+    {
+      "english": "How do I check if my transfer went through?",
+      "swedish": "Hur ser jag att överföringen gick igenom?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730155"
+    },
+    {
+      "english": "Should I pay with debit or credit?",
+      "swedish": "Ska jag betala med debit eller kredit?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730158"
+    },
+    {
+      "english": "What’s a good way to set a budget?",
+      "swedish": "Vad är ett bra sätt att budgetera?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730160"
+    },
+    {
+      "english": "Can I pause a payment I started?",
+      "swedish": "Kan jag pausa en betalning jag startat?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730162"
+    },
+    {
+      "english": "Do banks offer fee-free transfers sometimes?",
+      "swedish": "Har ni fria överföringar ibland?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730164"
+    },
+    {
+      "english": "What should I do if I entered a wrong amount?",
+      "swedish": "Vad gör jag om jag skrev fel belopp?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730166"
+    },
+    {
+      "english": "Is there a limit for how much I can send?",
+      "swedish": "Finns det gräns för hur mycket jag kan skicka?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730169"
+    },
+    {
+      "english": "Can I ask for a repayment plan?",
+      "swedish": "Kan jag få en amorteringsplan, tack?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730171"
+    },
+    {
+      "english": "Would you check my loan options, please?",
+      "swedish": "Kan du kolla mina lånealternativ, snälla?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730173"
+    },
+    {
+      "english": "Which account should I use for everyday payments?",
+      "swedish": "Vilket konto passar bäst för vardagsbetalningar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730175"
+    },
+    {
+      "english": "How can I avoid overdraft charges?",
+      "swedish": "Hur undviker jag övertrasseringsavgifter?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730177"
+    },
+    {
+      "english": "What happens if I’m short on funds?",
+      "swedish": "Vad händer om jag saknar pengar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730185"
+    },
+    {
+      "english": "Is there an easy way to set alerts?",
+      "swedish": "Finns det ett enkelt sätt att få notiser?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730187"
+    },
+    {
+      "english": "Can I see my spending by category?",
+      "swedish": "Kan jag se mina utgifter per kategori?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730189"
+    },
+    {
+      "english": "Which documents do I need for verification?",
+      "swedish": "Vilka papper krävs för att verifiera?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730191"
+    },
+    {
+      "english": "Do you have a tip for saving money fast?",
+      "swedish": "Har du något bra spartrick, snabbt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730195"
+    },
+    {
+      "english": "How do I dispute a charge politely?",
+      "swedish": "Hur bestrider jag en debitering artigt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730197"
+    },
+    {
+      "english": "What’s the best time to exchange money?",
+      "swedish": "När är det bäst att växla pengar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730199"
+    },
+    {
+      "english": "Can I get help by chat, or call?",
+      "swedish": "Kan jag få hjälp via chatten, eller ringa?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730202"
+    },
+    {
+      "english": "Do I need to confirm transfers with BankID?",
+      "swedish": "Behöver jag bekräfta överföringar med BankID?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730204"
+    },
+    {
+      "english": "Split the bill, keep it simple, okay?",
+      "swedish": "Delar vi notan, håll det enkelt, okej?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730207"
+    },
+    {
+      "english": "Pay in installments, it feels more doable.",
+      "swedish": "Betala i delbetalningar, det känns mer rimligt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730209"
+    },
+    {
+      "english": "Keep an eye on fees, they add up.",
+      "swedish": "Håll koll på avgifterna, de växer i längden.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730211"
+    },
+    {
+      "english": "Every krona counts, don’t waste it.",
+      "swedish": "Varje krona räknas, slösa inte.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730214"
+    },
+    {
+      "english": "When cash runs low, I go quiet.",
+      "swedish": "När kassan sinar, då blir jag sparsam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730217"
+    },
+    {
+      "english": "I’ll save for a rainy day.",
+      "swedish": "Jag sparar till en regnig dag.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730219"
+    },
+    {
+      "english": "No money, no problem, we’ll sort it.",
+      "swedish": "Inga pengar, inga problem, vi fixar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730222"
+    },
+    {
+      "english": "Money talks, so I’ll call the bank.",
+      "swedish": "Pengar talar, så jag ringer banken.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730225"
+    },
+    {
+      "english": "Save up first, then buy what you need.",
+      "swedish": "Spara först, sen köper du det du behöver.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730228"
+    },
+    {
+      "english": "I’m trying to live below my means.",
+      "swedish": "Jag försöker leva under mina gränser.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730230"
+    },
+    {
+      "english": "That deal sounds too good to be true.",
+      "swedish": "Den affären låter för bra för att stämma.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730234"
+    },
+    {
+      "english": "Let’s make a budget, then we breathe.",
+      "swedish": "Vi lägger en budget, sen kan vi andas.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730237"
+    },
+    {
+      "english": "Use the app, keep everything in one place.",
+      "swedish": "Använd appen, ha allt samlat.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730239"
+    },
+    {
+      "english": "I’ll transfer now, it saves time later.",
+      "swedish": "Jag gör överföringen nu, det sparar tid sen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730242"
+    },
+    {
+      "english": "Are there any hidden fees, really?",
+      "swedish": "Finns det några dolda avgifter, på riktigt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730245"
+    },
+    {
+      "english": "I’ll wait, no need to rush payments.",
+      "swedish": "Jag väntar, det är ingen brådska med betalningen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730247"
+    },
+    {
+      "english": "Keep it on track, don’t miss deadlines.",
+      "swedish": "Håll koll, missa inte sista datum.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730252"
+    },
+    {
+      "english": "I need cash flow, fast, for bills.",
+      "swedish": "Jag behöver likviditet, snabbt, till räkningarna.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730254"
+    },
+    {
+      "english": "Better safe than sorry with online payments.",
+      "swedish": "Hellre före än efter, när man betalar online.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730256"
+    },
+    {
+      "english": "I’ll lock in the cost, no surprises.",
+      "swedish": "Jag låser kostnaden, inga överraskningar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730259"
+    },
+    {
+      "english": "The interest is what really hurts, huh?",
+      "swedish": "Det är räntan som gör ont, eller hur?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730262"
+    },
+    {
+      "english": "I’m between paychecks, it’s tight.",
+      "swedish": "Jag är mellan lönerna, det är knapert.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730264"
+    },
+    {
+      "english": "I’ll pay off the whole thing, no debt.",
+      "swedish": "Jag betalar av allt, ingen skuld kvar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730267"
+    },
+    {
+      "english": "Don’t chase money, make it work.",
+      "swedish": "Jaga inte pengar, låt dem jobba.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730272"
+    },
+    {
+      "english": "I’m going to save first, invest later.",
+      "swedish": "Jag sparar först, investerar senare.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730274"
+    },
+    {
+      "english": "Keep receipts, just in case.",
+      "swedish": "Spara kvitton, för säkerhets skull.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730277"
+    },
+    {
+      "english": "If it’s urgent, I’ll pay promptly.",
+      "swedish": "Är det bråttom, då betalar jag direkt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730279"
+    },
+    {
+      "english": "Let the money sit, don’t touch it.",
+      "swedish": "Låt pengarna ligga, rör dem inte.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730282"
+    },
+    {
+      "english": "I’ll check my balance, then decide.",
+      "swedish": "Jag kollar saldot först, sen bestämmer jag.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730284"
+    },
+    {
+      "english": "That’s a loan, not free money.",
+      "swedish": "Det där är ett lån, inte gratispengar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730287"
+    },
+    {
+      "english": "I feel calmer when my account is steady.",
+      "swedish": "Jag blir lugnare när kontot känns stabilt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730290"
+    },
+    {
+      "english": "Honestly, I’m nervous about big transfers.",
+      "swedish": "Ärligt talat, jag är lite nervös för stora överföringar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730293"
+    },
+    {
+      "english": "I want to be patient, even if it’s slow.",
+      "swedish": "Jag vill vara tålmodig, även om det tar tid.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730296"
+    },
+    {
+      "english": "I don’t judge myself, I learn step by step.",
+      "swedish": "Jag dömer inte mig själv, jag lär mig steg för steg.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730299"
+    },
+    {
+      "english": "Sometimes I pause, then I check again.",
+      "swedish": "Ibland stannar jag upp, och kollar igen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730301"
+    },
+    {
+      "english": "I hate surprises, so I read the fine print.",
+      "swedish": "Jag avskyr överraskningar, så jag läser villkoren noga.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730304"
+    },
+    {
+      "english": "It feels better when I plan for later.",
+      "swedish": "Det känns bättre när jag planerar för senare.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730306"
+    },
+    {
+      "english": "I’m trying to stay honest with my numbers.",
+      "swedish": "Jag försöker vara ärlig med mina siffror.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730309"
+    },
+    {
+      "english": "When I’m stressed, I double-check my payment.",
+      "swedish": "När jag är stressad, dubbelkollar jag betalningen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730312"
+    },
+    {
+      "english": "I trust myself more after I set a limit.",
+      "swedish": "Jag litar mer på mig själv efter att jag sätter en gräns.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730315"
+    },
+    {
+      "english": "I wish I’d asked sooner, instead of guessing.",
+      "swedish": "Jag önskar att jag frågade tidigare, inte gissade.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730318"
+    },
+    {
+      "english": "I’m not perfect, but I correct course quickly.",
+      "swedish": "Jag är inte perfekt, men jag rättar till snabbt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730321"
+    },
+    {
+      "english": "I feel proud when I save without drama.",
+      "swedish": "Jag blir stolt när jag sparar utan stress.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730323"
+    },
+    {
+      "english": "It’s okay to slow down, I’m learning.",
+      "swedish": "Det är okej att ta det lugnt, jag lär mig.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730326"
+    },
+    {
+      "english": "I keep reminding myself, this is temporary.",
+      "swedish": "Jag påminner mig själv hela tiden, det är tillfälligt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730328"
+    },
+    {
+      "english": "I don’t chase money, I chase peace of mind.",
+      "swedish": "Jag jagar inte pengar, jag jagar lugn i huvudet.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730331"
+    },
+    {
+      "english": "I feel awkward calling the bank, but I do it.",
+      "swedish": "Det känns lite pinsamt att ringa banken, men jag gör det.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730333"
+    },
+    {
+      "english": "I’m honest, I’m scared to make mistakes.",
+      "swedish": "Jag ska vara ärlig, jag är rädd att göra fel.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730336"
+    },
+    {
+      "english": "I try to breathe, then I check my app.",
+      "swedish": "Jag försöker andas, sen kollar jag i appen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730338"
+    },
+    {
+      "english": "Sometimes I need time, not a perfect plan.",
+      "swedish": "Ibland behöver jag tid, inte en perfekt plan.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730341"
+    },
+    {
+      "english": "I accept that learning costs a bit.",
+      "swedish": "Jag accepterar att man får lära genom att det kostar.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730343"
+    },
+    {
+      "english": "I keep my expectations realistic, that helps me.",
+      "swedish": "Jag håller mina förväntningar rimliga, det hjälper mig.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730345"
+    },
+    {
+      "english": "I feel better when I understand the terms.",
+      "swedish": "Jag mår bättre när jag förstår villkoren.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730347"
+    },
+    {
+      "english": "I don’t want shame, I just want clarity.",
+      "swedish": "Jag vill inte känna skam, jag vill bara ha klarhet.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730350"
+    },
+    {
+      "english": "I’m learning to wait, even when I’m impatient.",
+      "swedish": "Jag lär mig att vänta, även när jag är otålig.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730356"
+    },
+    {
+      "english": "I can handle this, one decision at a time.",
+      "swedish": "Jag klarar det här, en sak i taget.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730359"
+    },
+    {
+      "english": "I reflect before spending, it saves me later.",
+      "swedish": "Jag tänker efter innan jag köper, det sparar mig senare.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730362"
+    },
+    {
+      "english": "I feel stuck sometimes, but I keep trying.",
+      "swedish": "Jag känner mig fast ibland, men jag fortsätter.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730364"
+    },
+    {
+      "english": "I’m grateful for slow progress, it lasts.",
+      "swedish": "Jag är tacksam för långsam utveckling, den håller.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730368"
+    },
+    {
+      "english": "I won’t pretend, I’ll ask what I need.",
+      "swedish": "Jag hittar inte på, jag frågar det jag behöver.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-03T07:43:29.730373"
     }
   ],
-  "last_updated": "2026-11-02T07:27:51.258913"
+  "last_updated": "2026-11-03T07:43:29.730375"
 }
