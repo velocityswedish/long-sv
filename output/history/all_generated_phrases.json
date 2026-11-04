@@ -8003,7 +8003,727 @@
       "swedish": "Jag hittar inte på, jag frågar det jag behöver.",
       "category": "Banking & Money",
       "generated_at": "2026-11-03T07:43:29.730373"
+    },
+    {
+      "english": "Hi, can I get a latte to go?",
+      "swedish": "Hej, kan jag få en latte att ta med?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556657"
+    },
+    {
+      "english": "One cappuccino, please, no sugar.",
+      "swedish": "En cappuccino, tack, utan socker.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556671"
+    },
+    {
+      "english": "Do you have oat milk, by any chance?",
+      "swedish": "Har ni havremjölk, bara så där?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556674"
+    },
+    {
+      "english": "How much is this pastry, please?",
+      "swedish": "Vad kostar den här bakelsen, tack?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556676"
+    },
+    {
+      "english": "Can I pay with card, please?",
+      "swedish": "Kan jag betala med kort, tack?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556677"
+    },
+    {
+      "english": "Sorry, I’m looking for the restroom.",
+      "swedish": "Ursäkta, jag letar efter toaletten.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556680"
+    },
+    {
+      "english": "This smells amazing, wow!",
+      "swedish": "Det här luktar helt fantastiskt, wow!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556681"
+    },
+    {
+      "english": "Is there anything vegan today?",
+      "swedish": "Finns det något veganskt idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556685"
+    },
+    {
+      "english": "I’ll take it, that looks perfect.",
+      "swedish": "Jag tar den, den ser perfekt ut.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556688"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "swedish": "Har ni glutenfria alternativ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556690"
+    },
+    {
+      "english": "Just checking, is this fresh?",
+      "swedish": "Jag kollar bara, är det färskt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556693"
+    },
+    {
+      "english": "Can I try a small sample?",
+      "swedish": "Kan jag smaka lite först?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556695"
+    },
+    {
+      "english": "What’s your favorite here?",
+      "swedish": "Vad är er favorit här?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556697"
+    },
+    {
+      "english": "No problem, I’ll wait.",
+      "swedish": "Inga problem, jag väntar bara.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556699"
+    },
+    {
+      "english": "That’s delicious, thank you!",
+      "swedish": "Det där är jättegott, tack!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556702"
+    },
+    {
+      "english": "I’ll get the same as last time.",
+      "swedish": "Jag tar samma som sist.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556703"
+    },
+    {
+      "english": "Do you have it warm or cold?",
+      "swedish": "Har ni den varm eller kall?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556710"
+    },
+    {
+      "english": "Could I add cinnamon, please?",
+      "swedish": "Kan jag få lite kanel på?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556713"
+    },
+    {
+      "english": "Excuse me, which one is best?",
+      "swedish": "Ursäkta, vilken är bäst?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556715"
+    },
+    {
+      "english": "I’m getting a coffee, thanks!",
+      "swedish": "Jag tar en kaffe, tack!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556717"
+    },
+    {
+      "english": "Wait, is it sweet?",
+      "swedish": "Vänta, är den söt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556719"
+    },
+    {
+      "english": "Perfect, I’ll take two.",
+      "swedish": "Toppen, jag tar två.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556721"
+    },
+    {
+      "english": "I’ll sit here, if that’s okay.",
+      "swedish": "Jag sätter mig här, om det går bra.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556723"
+    },
+    {
+      "english": "Do you have a deal for students?",
+      "swedish": "Har ni studentrabatt, kanske?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556725"
+    },
+    {
+      "english": "Sorry, I can’t have dairy.",
+      "swedish": "Förlåt, jag tål inte mjölkprodukter.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556727"
+    },
+    {
+      "english": "That’s my kind of breakfast.",
+      "swedish": "Det där är min frukosttyp.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556728"
+    },
+    {
+      "english": "Can I get it without nuts?",
+      "swedish": "Kan jag få den utan nötter?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556730"
+    },
+    {
+      "english": "Wow, it’s so fluffy!",
+      "swedish": "Oj, den är så fluffig!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556732"
+    },
+    {
+      "english": "Is it still available today?",
+      "swedish": "Finns den kvar idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556734"
+    },
+    {
+      "english": "Thanks, you’re a lifesaver!",
+      "swedish": "Tack, du är räddningen!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556736"
+    },
+    {
+      "english": "I’ll take one, surprise me.",
+      "swedish": "Jag tar en, överraska mig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556738"
+    },
+    {
+      "english": "Not bad, I’ll come back.",
+      "swedish": "Inte illa, jag kommer igen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556740"
+    },
+    {
+      "english": "Could I get the menu, please?",
+      "swedish": "Kan jag få menyn, tack?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556741"
+    },
+    {
+      "english": "Is the coffee strong, honestly?",
+      "swedish": "Är kaffet starkt, på riktigt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556743"
+    },
+    {
+      "english": "What do you recommend, for a quick break?",
+      "swedish": "Vad rekommenderar du, för en snabb paus?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556745"
+    },
+    {
+      "english": "Do you have something sweet, not too heavy?",
+      "swedish": "Har ni något sött, som inte är så tungt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556747"
+    },
+    {
+      "english": "Which pastry pairs best with coffee here?",
+      "swedish": "Vilket bakverk passar bäst med kaffet här?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556749"
+    },
+    {
+      "english": "Can I ask what’s in that topping?",
+      "swedish": "Får jag fråga vad som är i toppingen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556751"
+    },
+    {
+      "english": "Is this latte more creamy, or more bold?",
+      "swedish": "Är den här lattan mer krämig, eller mer kraftig?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556753"
+    },
+    {
+      "english": "Do you serve it right away, or wait?",
+      "swedish": "Serveras det direkt, eller får man vänta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556755"
+    },
+    {
+      "english": "What’s the vibe today, cozy or busy?",
+      "swedish": "Hur är stämningen idag, mysig eller full?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556757"
+    },
+    {
+      "english": "Can I get a recommendation for beginners?",
+      "swedish": "Vad skulle du tipsa om för nybörjare?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556758"
+    },
+    {
+      "english": "Do you have any seasonal drinks right now?",
+      "swedish": "Har ni några säsongsdrycker just nu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556760"
+    },
+    {
+      "english": "Is the bread still warm, just baked?",
+      "swedish": "Är brödet fortfarande varmt, nybakat?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556762"
+    },
+    {
+      "english": "What’s the least sweet option today?",
+      "swedish": "Vad är minst sött idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556764"
+    },
+    {
+      "english": "Do you know if the cookies sell out fast?",
+      "swedish": "Vet du om kakorna tar slut snabbt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556766"
+    },
+    {
+      "english": "Can I taste first, before I choose?",
+      "swedish": "Kan jag smaka först, innan jag väljer?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556768"
+    },
+    {
+      "english": "What’s popular with regulars around here?",
+      "swedish": "Vad är populärt bland stamkunder här?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556771"
+    },
+    {
+      "english": "Do you have any drinks without caffeine?",
+      "swedish": "Har ni något koffeinfritt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556772"
+    },
+    {
+      "english": "Which size is the best value, honestly?",
+      "swedish": "Vilken storlek är mest prisvärd, ärligt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556774"
+    },
+    {
+      "english": "Can I switch flavors, or is it fixed?",
+      "swedish": "Kan jag byta smak, eller är det fast?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556776"
+    },
+    {
+      "english": "Do you have cinnamon rolls today, by chance?",
+      "swedish": "Har ni kanelbullar idag, kanske?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556777"
+    },
+    {
+      "english": "What do you pair with tea if I’m here?",
+      "swedish": "Vad brukar ni rekommendera till te?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556781"
+    },
+    {
+      "english": "How long does the pastry stay fresh?",
+      "swedish": "Hur länge håller bakverket sig fräscht?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556783"
+    },
+    {
+      "english": "Is there a discount if I buy two?",
+      "swedish": "Finns det rabatt om jag tar två?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556784"
+    },
+    {
+      "english": "Would you say it’s sweet, or balanced?",
+      "swedish": "Skulle du säga att det är sött, eller balanserat?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556786"
+    },
+    {
+      "english": "Can I get it less hot, please?",
+      "swedish": "Kan jag få det lite mindre hett, tack?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556788"
+    },
+    {
+      "english": "What’s the story behind that cake?",
+      "swedish": "Vad är historien bakom den här tårtan?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556790"
+    },
+    {
+      "english": "Do you have seating quiet enough for two?",
+      "swedish": "Har ni platser som är lugna nog för två?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556792"
+    },
+    {
+      "english": "If I order now, will it take long?",
+      "swedish": "Om jag beställer nu, tar det lång tid?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556793"
+    },
+    {
+      "english": "Which one should I try first, honestly?",
+      "swedish": "Vilken ska jag börja med, ärligt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556795"
+    },
+    {
+      "english": "Do you have a secret menu item today?",
+      "swedish": "Har ni något hemligt på menyn idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556797"
+    },
+    {
+      "english": "Can I ask, what’s your top seller?",
+      "swedish": "Får jag fråga, vad som är er topplåt idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556799"
+    },
+    {
+      "english": "Should I take it to go, or stay?",
+      "swedish": "Ska jag ta med, eller stanna här?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556801"
+    },
+    {
+      "english": "Let’s take it slow, coffee first.",
+      "swedish": "Vi tar det lugnt, kaffe först.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556803"
+    },
+    {
+      "english": "A fika break makes everything better.",
+      "swedish": "En fika paus gör allt lite bättre.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556805"
+    },
+    {
+      "english": "This place is all about cozy.",
+      "swedish": "Här handlar det om mys.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556806"
+    },
+    {
+      "english": "Sweet tooth, today you’re in luck.",
+      "swedish": "Sötsugen, idag har du tur.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556809"
+    },
+    {
+      "english": "No stress, we’ll get it sorted.",
+      "swedish": "Ingen stress, vi ordnar det.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556811"
+    },
+    {
+      "english": "Go for the classic, it never fails.",
+      "swedish": "Ta klassikern, den sviker aldrig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556813"
+    },
+    {
+      "english": "Small talk, then straight to fika.",
+      "swedish": "Lite snack först, sen fika.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556815"
+    },
+    {
+      "english": "Warm bread, that’s how mornings start.",
+      "swedish": "Varmt bröd, så börjar morgnarna.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556818"
+    },
+    {
+      "english": "It’s the kind of bite you crave.",
+      "swedish": "Det där är en sån där tugga man vill ha.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556820"
+    },
+    {
+      "english": "Let it cool a minute, please.",
+      "swedish": "Låt den svalna lite, snälla.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556821"
+    },
+    {
+      "english": "If you wait, it’s worth it.",
+      "swedish": "Väntar du, så är det värt det.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556825"
+    },
+    {
+      "english": "Fresh out of the oven, literally.",
+      "swedish": "Nygräddat, precis ur ugnen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556827"
+    },
+    {
+      "english": "Try a little, you’ll be hooked.",
+      "swedish": "Ta en liten bit, då fastnar du.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556829"
+    },
+    {
+      "english": "Coffee and cake, that’s my deal.",
+      "swedish": "Kaffe och kaka, det är min grej.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556831"
+    },
+    {
+      "english": "Regulars know, this won’t disappoint.",
+      "swedish": "Stammisarna vet, den här sviker inte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556833"
+    },
+    {
+      "english": "We’ll keep it simple, no fuss.",
+      "swedish": "Vi håller det enkelt, ingen krångel.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556837"
+    },
+    {
+      "english": "That smell hits you, right away.",
+      "swedish": "Den doften slår till direkt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556839"
+    },
+    {
+      "english": "One more sip, just like that.",
+      "swedish": "En till klunk, bara så där.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556840"
+    },
+    {
+      "english": "Today’s treat, tomorrow’s little reward.",
+      "swedish": "Dagens fika, morgondagens lilla belöning.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556843"
+    },
+    {
+      "english": "Don’t overthink it, pick what you fancy.",
+      "swedish": "Övertänk inte, välj det du känner för.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556845"
+    },
+    {
+      "english": "Cozy seats, quick catch-up time.",
+      "swedish": "Mysiga platser, dags för snack.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556847"
+    },
+    {
+      "english": "It’s a small luxury, honestly.",
+      "swedish": "Det är en liten lyx, helt ärligt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556851"
+    },
+    {
+      "english": "Let’s make it a proper fika.",
+      "swedish": "Nu kör vi en riktig fika.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556853"
+    },
+    {
+      "english": "That frosting looks like pure joy.",
+      "swedish": "Den där glasyren ser ut som lycka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556854"
+    },
+    {
+      "english": "Crisp edges, soft inside, perfect.",
+      "swedish": "Krispigt runt kanterna, mjukt inuti, perfekt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556856"
+    },
+    {
+      "english": "You can’t go wrong with cinnamon.",
+      "swedish": "Man kan inte göra fel med kanel.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556859"
+    },
+    {
+      "english": "Grab your coffee, then find your corner.",
+      "swedish": "Ta kaffet, sen hittar du din plats.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556861"
+    },
+    {
+      "english": "Pay at the counter, nice and easy.",
+      "swedish": "Betala i kassan, enkelt som en plätt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556863"
+    },
+    {
+      "english": "If it’s busy, just wait a sec.",
+      "swedish": "Om det är mycket folk, vänta bara lite.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556865"
+    },
+    {
+      "english": "Fika is for sharing, even silently.",
+      "swedish": "Fika är för att dela, även tyst.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556868"
+    },
+    {
+      "english": "I’m in my feelings, let’s fika.",
+      "swedish": "Jag är lite i mina känslor, vi tar en fika.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556870"
+    },
+    {
+      "english": "This smell, it calms me down, really.",
+      "swedish": "Den här doften, den lugnar mig, på riktigt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556872"
+    },
+    {
+      "english": "Honestly, I need something warm today.",
+      "swedish": "Ärligt talat, jag behöver något varmt idag.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556874"
+    },
+    {
+      "english": "I came for coffee, but stayed for comfort.",
+      "swedish": "Jag kom för kaffe, men stannade för tröst.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556875"
+    },
+    {
+      "english": "Tell me, what makes your bakery feel special?",
+      "swedish": "Säg mig, vad gör bageriet så speciellt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556877"
+    },
+    {
+      "english": "I’m trying to slow down, one bite at once.",
+      "swedish": "Jag försöker sakta ner, en tugga i taget.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556880"
+    },
+    {
+      "english": "I like quiet honesty, even in the menu.",
+      "swedish": "Jag gillar ärlig enkelhet, även i menyn.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556881"
+    },
+    {
+      "english": "I’m not rushing, I want to savor this.",
+      "swedish": "Jag stressar inte, jag vill smaka långsamt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556883"
+    },
+    {
+      "english": "Can I sit with my thoughts for a bit?",
+      "swedish": "Kan jag sitta med mina tankar en stund?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556885"
+    },
+    {
+      "english": "Your cakes look like they mean something.",
+      "swedish": "Era tårtor ser ut som de betyder något.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556887"
+    },
+    {
+      "english": "Sometimes I just need patience and cinnamon.",
+      "swedish": "Ibland behöver jag bara tålamod och kanel.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556888"
+    },
+    {
+      "english": "I’ll wait, it’s the calm part of my day.",
+      "swedish": "Jag väntar gärna, det är den lugna delen av dagen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556894"
+    },
+    {
+      "english": "This cookie feels like a small apology.",
+      "swedish": "Den här kakan känns som en liten ursäkt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556896"
+    },
+    {
+      "english": "I’m flirting with comfort, just a little.",
+      "swedish": "Jag flirtar med tröst, bara lite.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556898"
+    },
+    {
+      "english": "I don’t need a lot, just this moment.",
+      "swedish": "Jag behöver inte mycket, bara den här stunden.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556900"
+    },
+    {
+      "english": "Your latte looks gentle, like you mean it.",
+      "swedish": "Din latte ser snäll ut, som du menar det.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556902"
+    },
+    {
+      "english": "I love how the flavors tell the truth.",
+      "swedish": "Jag gillar hur smakerna säger sanningen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556904"
+    },
+    {
+      "english": "If I smile, it’s because this hits right.",
+      "swedish": "Om jag ler, så är det för att det sitter.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556908"
+    },
+    {
+      "english": "I’m learning to be kind to myself.",
+      "swedish": "Jag lär mig att vara snäll mot mig själv.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556910"
+    },
+    {
+      "english": "What do you recommend when I feel low?",
+      "swedish": "Vad rekommenderar du när jag mår dåligt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556912"
+    },
+    {
+      "english": "No big talk, just something sweet and real.",
+      "swedish": "Inget stort snack, bara något sött och äkta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556914"
+    },
+    {
+      "english": "I want a cozy pause, not a rush.",
+      "swedish": "Jag vill ha en mysig paus, inte en stress.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556916"
+    },
+    {
+      "english": "Tell me, is the filling fresh today?",
+      "swedish": "Säg, är fyllningen färsk idag?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556918"
+    },
+    {
+      "english": "I’m keeping it simple, but I’m honest.",
+      "swedish": "Jag håller det enkelt, men jag menar det.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556920"
+    },
+    {
+      "english": "This is my soft moment, don’t rush me.",
+      "swedish": "Det här är mitt mjuka ögonblick, stressa inte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556922"
+    },
+    {
+      "english": "I can taste effort, even with my eyes.",
+      "swedish": "Jag kan smaka ansträngning, även med ögonen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T07:21:14.556924"
     }
   ],
-  "last_updated": "2026-11-03T07:43:29.730375"
+  "last_updated": "2026-11-04T07:21:14.556925"
 }
