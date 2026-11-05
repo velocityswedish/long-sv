@@ -8723,7 +8723,727 @@
       "swedish": "Jag kan smaka ansträngning, även med ögonen.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-04T07:21:14.556924"
+    },
+    {
+      "english": "Where are the keys, I can’t find them",
+      "swedish": "Var är nycklarna, jag hittar dem inte",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743319"
+    },
+    {
+      "english": "I forgot the milk again, sorry",
+      "swedish": "Jag glömde mjölken igen, förlåt",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743332"
+    },
+    {
+      "english": "Did you lock the door, just checking",
+      "swedish": "Har du låst dörren, bara kollar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743336"
+    },
+    {
+      "english": "Be right back, I’ll grab it",
+      "swedish": "Jag kommer strax tillbaka, jag hämtar det",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743340"
+    },
+    {
+      "english": "That smells good, what is it?",
+      "swedish": "Det luktar gott, vad är det?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743344"
+    },
+    {
+      "english": "Oh no, the baby woke up",
+      "swedish": "Oj då, barnet har vaknat",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743347"
+    },
+    {
+      "english": "Wait, don’t touch that, please",
+      "swedish": "Vänta, rör inte det där, snälla",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743350"
+    },
+    {
+      "english": "Can you help me carry this?",
+      "swedish": "Kan du hjälpa mig att bära detta?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743356"
+    },
+    {
+      "english": "I’m out of soap, where’s yours?",
+      "swedish": "Jag är slut på tvål, var är din?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743360"
+    },
+    {
+      "english": "Who ate my snack, tell me now",
+      "swedish": "Vem åt mitt snack, säg nu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743364"
+    },
+    {
+      "english": "It’s okay, we’ll fix it together",
+      "swedish": "Det är okej, vi fixar det tillsammans",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743367"
+    },
+    {
+      "english": "Clean up first, then we can play",
+      "swedish": "Städa först, sen kan vi leka",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743370"
+    },
+    {
+      "english": "Don’t worry, I’ll handle it",
+      "swedish": "Lugna dig, jag fixar det",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743374"
+    },
+    {
+      "english": "Is anyone home, just a quick stop?",
+      "swedish": "Är någon hemma, bara en snabb grej?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743379"
+    },
+    {
+      "english": "We’re late, grab your shoes!",
+      "swedish": "Vi är sena, ta dina skor!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743382"
+    },
+    {
+      "english": "Do we have any batteries left?",
+      "swedish": "Har vi några batterier kvar?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743385"
+    },
+    {
+      "english": "That can wait, we’re busy right now",
+      "swedish": "Det kan vänta, vi har fullt upp nu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743389"
+    },
+    {
+      "english": "Mom, can I borrow this?",
+      "swedish": "Mamma, kan jag låna den här?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743392"
+    },
+    {
+      "english": "Dad, I need help with this",
+      "swedish": "Pappa, jag behöver hjälp med det här",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743394"
+    },
+    {
+      "english": "Whose laundry is this, quick check",
+      "swedish": "Vems tvätt är det här, snabbt svar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743397"
+    },
+    {
+      "english": "I’m cooking, don’t set off the alarm",
+      "swedish": "Jag lagar mat, slå inte på larmet",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743401"
+    },
+    {
+      "english": "Can we eat in, it’s raining",
+      "swedish": "Vi kan äta inne, det regnar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743404"
+    },
+    {
+      "english": "Brb, I’m bringing the dishes",
+      "swedish": "Jag är strax tillbaka, jag hämtar disken",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743408"
+    },
+    {
+      "english": "How was school, tell me everything",
+      "swedish": "Hur var skolan, berätta allt",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743410"
+    },
+    {
+      "english": "He’s being so quiet today",
+      "swedish": "Han är så tyst idag",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743413"
+    },
+    {
+      "english": "Let’s take out the trash now",
+      "swedish": "Vi tar ut soporna nu, okej?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743416"
+    },
+    {
+      "english": "Is dinner ready, I’m starving",
+      "swedish": "Är middagen klar, jag är vrålhungrig",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743419"
+    },
+    {
+      "english": "Sorry, I spilled it again",
+      "swedish": "Förlåt, jag spillde igen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743423"
+    },
+    {
+      "english": "You can sit here, I’ll get water",
+      "swedish": "Du kan sitta här, jag hämtar vatten",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743427"
+    },
+    {
+      "english": "That’s mine, put it back please",
+      "swedish": "Det där är mitt, lägg tillbaka, snälla",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743435"
+    },
+    {
+      "english": "Do we have any spare diapers at home?",
+      "swedish": "Har vi några extra blöjor hemma?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743438"
+    },
+    {
+      "english": "What’s for dinner tonight, any ideas?",
+      "swedish": "Vad blir det till middag ikväll, några förslag?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743441"
+    },
+    {
+      "english": "Can you help me choose the right size?",
+      "swedish": "Kan du hjälpa mig välja rätt storlek?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743444"
+    },
+    {
+      "english": "Where should we put the stroller?",
+      "swedish": "Var ska vi ställa barnvagnen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743447"
+    },
+    {
+      "english": "Could we ask the neighbor for a favor?",
+      "swedish": "Kan vi fråga grannen om en tjänst?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743450"
+    },
+    {
+      "english": "Do you prefer cooking now, or later?",
+      "swedish": "Vill du hellre laga mat nu, eller sen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743452"
+    },
+    {
+      "english": "Is it okay if I tidy up first?",
+      "swedish": "Går det bra om jag tar en snabb städning först?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743455"
+    },
+    {
+      "english": "Any suggestions for keeping the house calm?",
+      "swedish": "Har du några tips för att få hemmet lugnt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743457"
+    },
+    {
+      "english": "What do you do when the kids argue?",
+      "swedish": "Vad gör du när barnen bråkar?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743460"
+    },
+    {
+      "english": "Should we call someone for help today?",
+      "swedish": "Ska vi ringa någon för hjälp idag?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743463"
+    },
+    {
+      "english": "How do we handle bedtime on busy days?",
+      "swedish": "Hur gör vi på kvällarna när det är fullt upp?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743465"
+    },
+    {
+      "english": "Can you remind me where the manuals are?",
+      "swedish": "Kan du påminna mig var manualerna ligger?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743468"
+    },
+    {
+      "english": "What’s the easiest way to organize this?",
+      "swedish": "Vad är enklast att ordna det här?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743471"
+    },
+    {
+      "english": "Would you like to take the first shift?",
+      "swedish": "Vill du ta första rundan?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743474"
+    },
+    {
+      "english": "Do we need to buy anything for school?",
+      "swedish": "Behöver vi köpa något till skolan?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743477"
+    },
+    {
+      "english": "How’s your day going at home?",
+      "swedish": "Hur går din dag hemma?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743480"
+    },
+    {
+      "english": "Can I have your opinion on this plan?",
+      "swedish": "Får jag din åsikt om den här planen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743482"
+    },
+    {
+      "english": "What’s the quietest room in the house?",
+      "swedish": "Vilket rum är lugnast hemma?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743485"
+    },
+    {
+      "english": "Do we have enough towels for everyone?",
+      "swedish": "Har vi tillräckligt med handdukar?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743488"
+    },
+    {
+      "english": "Should I wash it now, or later?",
+      "swedish": "Ska jag tvätta det nu, eller sen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743493"
+    },
+    {
+      "english": "What’s your go-to snack for kids?",
+      "swedish": "Vad är ditt favoritsnack till barnen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743496"
+    },
+    {
+      "english": "Can we agree on chores for this week?",
+      "swedish": "Kan vi komma överens om veckans sysslor?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743499"
+    },
+    {
+      "english": "How do you keep laundry from piling up?",
+      "swedish": "Hur gör du för att tvätten inte ska hopa sig?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743502"
+    },
+    {
+      "english": "Should we set a reminder for tomorrow?",
+      "swedish": "Ska vi sätta en påminnelse för imorgon?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743504"
+    },
+    {
+      "english": "What helps when someone feels left out?",
+      "swedish": "Vad brukar hjälpa när någon känner sig utanför?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743507"
+    },
+    {
+      "english": "Can you show me where the cleaning stuff is?",
+      "swedish": "Kan du visa var städgrejerna finns?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743509"
+    },
+    {
+      "english": "Do you want the light on or off?",
+      "swedish": "Vill du ha lampan tänd, eller släckt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743514"
+    },
+    {
+      "english": "How’s the house search going, any updates?",
+      "swedish": "Hur går bostadssökandet, finns det något nytt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743517"
+    },
+    {
+      "english": "Could you check the fridge before we shop?",
+      "swedish": "Kan du kolla i kylen innan vi handlar?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743520"
+    },
+    {
+      "english": "What should we do first, you decide?",
+      "swedish": "Vad ska vi börja med, du bestämmer?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743523"
+    },
+    {
+      "english": "Home first, then we go out, OK?",
+      "swedish": "Hem först, sen går vi ut, okej?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743526"
+    },
+    {
+      "english": "The kids are finally asleep, phew.",
+      "swedish": "Barnen sover äntligen, äntligen, puh.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743531"
+    },
+    {
+      "english": "Make yourself at home, no stress.",
+      "swedish": "Gör dig hemmastadd, ingen stress.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743533"
+    },
+    {
+      "english": "We’ll fix it, everything in time.",
+      "swedish": "Vi fixar det, allt tar sin tid.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743537"
+    },
+    {
+      "english": "A clean home, a calm mind, you know.",
+      "swedish": "Rent hem, lugnt huvud, du vet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743542"
+    },
+    {
+      "english": "You’re always welcome, just come in.",
+      "swedish": "Du är alltid välkommen, kom bara in.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743546"
+    },
+    {
+      "english": "Family comes first, that’s the rule here.",
+      "swedish": "Familjen först, så är det här.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743549"
+    },
+    {
+      "english": "Asking for help is not a weakness.",
+      "swedish": "Att be om hjälp är inte svaghet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743552"
+    },
+    {
+      "english": "We can talk it over, no rush.",
+      "swedish": "Vi kan prata om det, ingen brådska.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743554"
+    },
+    {
+      "english": "This house has seen it all, wow.",
+      "swedish": "Det här huset har sett allt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743557"
+    },
+    {
+      "english": "Keep an eye on the kids, please.",
+      "swedish": "Håll koll på barnen, snälla.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743560"
+    },
+    {
+      "english": "We’ll do it together, team work.",
+      "swedish": "Vi gör det tillsammans, lagom är bäst.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743563"
+    },
+    {
+      "english": "Less talk, more action, let’s tidy.",
+      "swedish": "Prata mindre, gör mer, städa nu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743567"
+    },
+    {
+      "english": "It’s better to keep things simple.",
+      "swedish": "Det är bättre att hålla det enkelt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743570"
+    },
+    {
+      "english": "When it’s messy, we take one thing.",
+      "swedish": "När det är rörigt, ta en sak.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743573"
+    },
+    {
+      "english": "Shoes off here, keep the floors nice.",
+      "swedish": "Skorna av här, håll golven fina.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743576"
+    },
+    {
+      "english": "We don’t make a big deal of it.",
+      "swedish": "Vi gör ingen stor grej av det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743579"
+    },
+    {
+      "english": "The kitchen is the heart of home.",
+      "swedish": "Köket är hemmets hjärta.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743582"
+    },
+    {
+      "english": "Home is where the sound of laughter is.",
+      "swedish": "Hem är där skrattet bor.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743585"
+    },
+    {
+      "english": "A little help goes a long way, right?",
+      "swedish": "Lite hjälp räcker långt, eller hur?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743588"
+    },
+    {
+      "english": "Don’t push it, we’ll manage somehow.",
+      "swedish": "Stressa inte, vi löser det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743591"
+    },
+    {
+      "english": "We’ll keep things ticking, step by step.",
+      "swedish": "Vi håller igång allt, lite i taget.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743594"
+    },
+    {
+      "english": "If it’s broken, we fix it ourselves.",
+      "swedish": "Är det trasigt, då lagar vi det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743597"
+    },
+    {
+      "english": "Kids grow fast, enjoy every day, seriously.",
+      "swedish": "Barn växer fort, njut av varje dag.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743600"
+    },
+    {
+      "english": "We’ll wash it now, no piling up.",
+      "swedish": "Vi tvättar nu, inget blir liggande.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743604"
+    },
+    {
+      "english": "You can relax, I’ve got it covered.",
+      "swedish": "Du kan slappna av, jag fixar allt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743607"
+    },
+    {
+      "english": "Family dinner is sacred, we don’t skip it.",
+      "swedish": "Familjemiddagen är helig, vi hoppar inte över.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743610"
+    },
+    {
+      "english": "Let’s make room for everyone, please.",
+      "swedish": "Vi gör plats för alla, var så god.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743614"
+    },
+    {
+      "english": "Old habits die hard, but we try.",
+      "swedish": "Gamla vanor sitter i, men vi försöker.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743618"
+    },
+    {
+      "english": "I’m overwhelmed right now, be gentle with me.",
+      "swedish": "Jag är överväldigad just nu, var snäll mot mig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743622"
+    },
+    {
+      "english": "I miss the calm, even on busy days.",
+      "swedish": "Jag saknar lugnet, även på stressiga dagar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743625"
+    },
+    {
+      "english": "Let’s slow down, emotions come first.",
+      "swedish": "Vi tar det lugnare, känslor går först.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743628"
+    },
+    {
+      "english": "I need a minute, I’m thinking things through.",
+      "swedish": "Jag behöver en minut, jag tänker igenom allt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743631"
+    },
+    {
+      "english": "Thanks for listening, it means a lot today.",
+      "swedish": "Tack för att du lyssnar, det betyder mycket idag.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743636"
+    },
+    {
+      "english": "I want to say it honestly, I’m tired.",
+      "swedish": "Jag vill säga det ärligt, jag är trött.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743639"
+    },
+    {
+      "english": "We can pause, then try again together.",
+      "swedish": "Vi kan pausa, sen försöka igen tillsammans.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743642"
+    },
+    {
+      "english": "It’s okay to feel frustrated, we’ll breathe.",
+      "swedish": "Det är okej att bli frustrerad, vi andas bara.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743646"
+    },
+    {
+      "english": "I’m proud of you, you handled that calmly.",
+      "swedish": "Jag är stolt över dig, du tog det lugnt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743649"
+    },
+    {
+      "english": "Give me patience, I’ll learn the routine.",
+      "swedish": "Ge mig tålamod, jag lär mig rutinen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743653"
+    },
+    {
+      "english": "I’m trying, sometimes I just need time.",
+      "swedish": "Jag försöker, ibland behöver jag bara tid.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743656"
+    },
+    {
+      "english": "Let’s be kind, nobody needs perfect today.",
+      "swedish": "Vi är snälla, ingen behöver vara perfekt idag.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743659"
+    },
+    {
+      "english": "I can tell you’re hurt, I’m here.",
+      "swedish": "Jag märker att du såras, jag finns här.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743663"
+    },
+    {
+      "english": "Home should feel safe, even when we disagree.",
+      "swedish": "Hemma ska kännas tryggt, även när vi bråkar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743666"
+    },
+    {
+      "english": "I’ll own my mistake, it’s the grown-up way.",
+      "swedish": "Jag tar ansvar för mitt misstag, det är vuxet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743669"
+    },
+    {
+      "english": "Your feelings are valid, we’ll figure it out.",
+      "swedish": "Dina känslor är okej, vi löser det.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743673"
+    },
+    {
+      "english": "I don’t want drama, I want connection.",
+      "swedish": "Jag vill inte ha drama, jag vill ha närhet.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743676"
+    },
+    {
+      "english": "Let’s talk softly, we’re all sensitive right now.",
+      "swedish": "Vi pratar lugnt, vi är känsliga just nu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743680"
+    },
+    {
+      "english": "I’m noticing patterns, we’ll adjust gently.",
+      "swedish": "Jag märker mönster, vi ändrar lite i taget.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743684"
+    },
+    {
+      "english": "It helps when we share, even small thoughts.",
+      "swedish": "Det hjälper när vi delar, även små tankar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743687"
+    },
+    {
+      "english": "I need quiet, I’ll join again soon.",
+      "swedish": "Jag behöver tystnad, jag kommer snart igen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743690"
+    },
+    {
+      "english": "We’ll keep trying, progress beats perfection.",
+      "swedish": "Vi fortsätter, framsteg slår perfektion.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743694"
+    },
+    {
+      "english": "I’m feeling better, thanks for your support.",
+      "swedish": "Jag mår bättre, tack för ditt stöd.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743697"
+    },
+    {
+      "english": "Let’s reset the mood, then continue.",
+      "swedish": "Vi nollställer stämningen, sen fortsätter vi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743701"
+    },
+    {
+      "english": "I hear you, but I need a break.",
+      "swedish": "Jag hör dig, men jag behöver en paus.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743703"
+    },
+    {
+      "english": "I’m learning to ask for help sooner.",
+      "swedish": "Jag lär mig att be om hjälp tidigare.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743706"
+    },
+    {
+      "english": "When home feels heavy, we lighten it together.",
+      "swedish": "När hemmet känns tungt, gör vi det lättare ihop.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743709"
+    },
+    {
+      "english": "Let’s protect our peace, no rushed decisions.",
+      "swedish": "Låt oss skydda vår frid, inga snabba beslut.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743712"
+    },
+    {
+      "english": "I’m grateful for this moment, let’s be present.",
+      "swedish": "Jag är tacksam för det här, låt oss vara här.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743723"
+    },
+    {
+      "english": "If it’s hard, we don’t quit, we adapt.",
+      "swedish": "Om det är svårt, vi ger oss inte, vi anpassar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743727"
+    },
+    {
+      "english": "Quick tidy, then we can sit together.",
+      "swedish": "Snabbt i ordning, sen kan vi sitta ihop.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-05T07:48:22.743730"
     }
   ],
-  "last_updated": "2026-11-04T07:21:14.556925"
+  "last_updated": "2026-11-05T07:48:22.743732"
 }
