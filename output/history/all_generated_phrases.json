@@ -10163,7 +10163,727 @@
       "swedish": "Beställ enkel mat, du lär dig snabbare",
       "category": "Inspiration",
       "generated_at": "2026-11-06T07:47:30.029854"
+    },
+    {
+      "english": "Got a minute, want to try something fun?",
+      "swedish": "Har du en minut, vill du testa något kul?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915816"
+    },
+    {
+      "english": "I’m bored, let’s do something after work.",
+      "swedish": "Jag är uttråkad, vi kan hitta på något efter jobbet.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915826"
+    },
+    {
+      "english": "Nice, what are you into these days?",
+      "swedish": "Jättekul, vad håller du på med nu för tiden?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915828"
+    },
+    {
+      "english": "Really? That sounds awesome, tell me more.",
+      "swedish": "På riktigt? Det låter grymt, berätta mer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915830"
+    },
+    {
+      "english": "I’ve got time, should we go together?",
+      "swedish": "Jag har tid, ska vi ta oss dit tillsammans?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915832"
+    },
+    {
+      "english": "Hold on, I need to grab my stuff.",
+      "swedish": "Vänta lite, jag måste hämta mina saker.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915834"
+    },
+    {
+      "english": "Quick question, do you have any plans today?",
+      "swedish": "Snabb fråga, har du något inplanerat idag?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915836"
+    },
+    {
+      "english": "No way, that’s such a cool hobby!",
+      "swedish": "Går inte, vilken cool hobby!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915840"
+    },
+    {
+      "english": "I’m down, let’s try it this weekend.",
+      "swedish": "Jag är på, vi testar i helgen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915842"
+    },
+    {
+      "english": "Wait, what game are you playing?",
+      "swedish": "Vänta, vilket spel kör du?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915844"
+    },
+    {
+      "english": "I’m just browsing, nothing serious.",
+      "swedish": "Jag bara kollar, inget seriöst.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915846"
+    },
+    {
+      "english": "Sounds good, I’ll be there in an hour.",
+      "swedish": "Låter bra, jag är där om en timme.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915848"
+    },
+    {
+      "english": "That’s my thing, I love doing that.",
+      "swedish": "Det där är min grej, jag älskar det.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915850"
+    },
+    {
+      "english": "Let’s keep it simple, quick and fun.",
+      "swedish": "Vi tar det enkelt, snabbt och kul.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915852"
+    },
+    {
+      "english": "Who’s in, should we book tickets?",
+      "swedish": "Vem hänger på, ska vi boka biljetter?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915854"
+    },
+    {
+      "english": "I’ll bring snacks, you bring drinks.",
+      "swedish": "Jag tar med snacks, du tar med dryck.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915855"
+    },
+    {
+      "english": "That’s tempting, but I’m trying to rest.",
+      "swedish": "Det lockar, men jag försöker vila.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915857"
+    },
+    {
+      "english": "I can’t today, I’ve got plans already.",
+      "swedish": "Jag kan inte idag, jag har redan planer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915860"
+    },
+    {
+      "english": "Awesome, where do we meet, what time?",
+      "swedish": "Toppen, var ses vi, vilken tid?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915862"
+    },
+    {
+      "english": "Let me think, maybe later tonight.",
+      "swedish": "Jag ska tänka, kanske senare ikväll.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915863"
+    },
+    {
+      "english": "Honestly, I’m not feeling like it.",
+      "swedish": "Ärligt talat, jag har inte riktigt lust.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915866"
+    },
+    {
+      "english": "Good idea, I’ll check it online first.",
+      "swedish": "Bra idé, jag kollar upp det online först.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915868"
+    },
+    {
+      "english": "That’s fair, we can do it another day.",
+      "swedish": "Det är rimligt, vi kan göra det en annan dag.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915870"
+    },
+    {
+      "english": "Wait and see, I’ll join if I can.",
+      "swedish": "Vi får se, jag följer med om jag kan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915872"
+    },
+    {
+      "english": "I’m into it, but tell me the basics first.",
+      "swedish": "Jag gillar det, men berätta grunderna först.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915874"
+    },
+    {
+      "english": "No stress, we’ll figure it out together.",
+      "swedish": "Ingen stress, vi löser det tillsammans.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915875"
+    },
+    {
+      "english": "That reminds me, I wanted to try this.",
+      "swedish": "Det där påminner mig, jag ville testa det här.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915877"
+    },
+    {
+      "english": "I’m free now, want to hang out?",
+      "swedish": "Jag är ledig nu, vill du ses en stund?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915879"
+    },
+    {
+      "english": "Really, how long have you been doing that?",
+      "swedish": "Jaha, hur länge har du hållit på med det?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915882"
+    },
+    {
+      "english": "Perfect, let’s start, I’m ready.",
+      "swedish": "Perfekt, vi kör, jag är redo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915884"
+    },
+    {
+      "english": "What do you do for fun lately?",
+      "swedish": "Vad gör du för skoj, nuförtiden?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915887"
+    },
+    {
+      "english": "Do you have any hobby recommendations?",
+      "swedish": "Har du några hobbytips?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915889"
+    },
+    {
+      "english": "Which class do you like, and why?",
+      "swedish": "Vilken kurs gillar du, och varför?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915891"
+    },
+    {
+      "english": "I’m trying something new, what would you suggest?",
+      "swedish": "Jag testar något nytt, vad skulle du tipsa om?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915893"
+    },
+    {
+      "english": "How often do you practice your hobby?",
+      "swedish": "Hur ofta tränar du din hobby?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915895"
+    },
+    {
+      "english": "Is it beginner-friendly, or too hard?",
+      "swedish": "Är det nybörjarvänligt, eller för svårt?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915896"
+    },
+    {
+      "english": "What got you interested in it?",
+      "swedish": "Vad var det som gjorde att du fastnade?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915898"
+    },
+    {
+      "english": "Do you want to check it out together?",
+      "swedish": "Vill du kolla på det tillsammans?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915899"
+    },
+    {
+      "english": "Where do you usually go for that?",
+      "swedish": "Var brukar du gå för sånt?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915901"
+    },
+    {
+      "english": "What equipment do I need to start?",
+      "swedish": "Vilken utrustning behöver jag för att börja?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915902"
+    },
+    {
+      "english": "When do you usually have time for this?",
+      "swedish": "När brukar du hinna med det här?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915904"
+    },
+    {
+      "english": "Do you prefer it indoors or outdoors?",
+      "swedish": "Föredrar du det inomhus eller utomhus?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915905"
+    },
+    {
+      "english": "Is there a beginner group I could join?",
+      "swedish": "Finns det en nybörjargrupp jag kan gå med i?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915907"
+    },
+    {
+      "english": "What’s your favorite part of doing it?",
+      "swedish": "Vad är det bästa med att göra det där?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915909"
+    },
+    {
+      "english": "How long does it take, roughly?",
+      "swedish": "Ungefär hur lång tid tar det?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915910"
+    },
+    {
+      "english": "Can you tell me your top tip?",
+      "swedish": "Kan du ge mig ditt bästa tips?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915912"
+    },
+    {
+      "english": "Do you have a link or a place to start?",
+      "swedish": "Har du en länk, eller var man börjar?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915913"
+    },
+    {
+      "english": "Would you recommend this for a weekday routine?",
+      "swedish": "Skulle du rekommendera det för vardagsrutin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915915"
+    },
+    {
+      "english": "What’s the vibe like when you go?",
+      "swedish": "Hur känns det där, när du är där?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915917"
+    },
+    {
+      "english": "Are there any rules I should know?",
+      "swedish": "Finns det några regler jag borde känna till?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915919"
+    },
+    {
+      "english": "Do you usually go alone, or with friends?",
+      "swedish": "Går du oftast själv, eller med vänner?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915921"
+    },
+    {
+      "english": "What do you do after, to unwind?",
+      "swedish": "Vad gör du sen, för att varva ner?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915922"
+    },
+    {
+      "english": "How did you get started in the first place?",
+      "swedish": "Hur började du egentligen?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915924"
+    },
+    {
+      "english": "Is there a good time to go and try?",
+      "swedish": "Finns det en bra tid att prova?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915925"
+    },
+    {
+      "english": "What’s a common mistake beginners make?",
+      "swedish": "Vilket misstag gör nybörjare ofta?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915927"
+    },
+    {
+      "english": "Can we practice a bit before the real thing?",
+      "swedish": "Kan vi testa lite först, innan vi kör?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915929"
+    },
+    {
+      "english": "Do you want to trade tips, quick and easy?",
+      "swedish": "Vill du byta tips, snabbt och enkelt?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915930"
+    },
+    {
+      "english": "What do you listen to while doing it?",
+      "swedish": "Vad lyssnar du på när du gör det?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915932"
+    },
+    {
+      "english": "Should I start with the basics, or jump in?",
+      "swedish": "Ska jag börja med grunderna, eller köra direkt?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915934"
+    },
+    {
+      "english": "Nice job sticking with it, you’re improving fast",
+      "swedish": "Bra jobbat som du fortsätter, du blir snabbare",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915936"
+    },
+    {
+      "english": "Small steps today, big results later, trust it",
+      "swedish": "Små steg idag, stora resultat sen, lita på det",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915938"
+    },
+    {
+      "english": "Don’t wait for motivation, just show up",
+      "swedish": "Vänta inte på motivation, bara dyka upp",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915940"
+    },
+    {
+      "english": "You’ve already started, that’s the hardest part",
+      "swedish": "Du har redan börjat, det svåraste är gjort",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915943"
+    },
+    {
+      "english": "Your hobby can be your reset button, seriously",
+      "swedish": "Din hobby kan vara din pausknapp, på riktigt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915944"
+    },
+    {
+      "english": "Celebrate tiny wins, they add up quickly",
+      "swedish": "Fira små vinster, de växer fort",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915946"
+    },
+    {
+      "english": "Give yourself credit, you’re learning every session",
+      "swedish": "Ge dig själv cred, du lär dig för varje gång",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915948"
+    },
+    {
+      "english": "Try it for fun first, not perfection",
+      "swedish": "Testa för att ha kul, inte för att bli perfekt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915950"
+    },
+    {
+      "english": "If it feels awkward, good, you’re growing",
+      "swedish": "Om det känns stelt, bra, du växer",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915952"
+    },
+    {
+      "english": "Keep it light, your hobby should breathe",
+      "swedish": "Håll det lätt, din hobby ska få luft",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915954"
+    },
+    {
+      "english": "You don’t need perfect timing, just consistency",
+      "swedish": "Du behöver inte perfekt timing, bara kontinuitet",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915956"
+    },
+    {
+      "english": "Ask for help, no one learns alone",
+      "swedish": "Be om hjälp, ingen lär sig helt ensam",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915958"
+    },
+    {
+      "english": "Make room for joy, hobby time matters",
+      "swedish": "Gör plats för glädje, hobbytid spelar roll",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915959"
+    },
+    {
+      "english": "You’re allowed to pause, it’s still progress",
+      "swedish": "Du får ta paus, det är fortfarande framsteg",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915963"
+    },
+    {
+      "english": "Look at how far you’ve come, not doubts",
+      "swedish": "Titta på hur långt du har kommit, inte tvivlen",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915965"
+    },
+    {
+      "english": "Your free time is worth protecting, plan it",
+      "swedish": "Din fritid är värd att skydda, planera den",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915967"
+    },
+    {
+      "english": "Relax your grip, enjoy the process",
+      "swedish": "Släpp lite på krampen, njut av processen",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915970"
+    },
+    {
+      "english": "You’re doing great, even the messy parts count",
+      "swedish": "Du gör jättebra, även de röriga delarna räknas",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915972"
+    },
+    {
+      "english": "Try once more, tomorrow will feel easier",
+      "swedish": "Försök en gång till, imorgon känns det lättare",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915974"
+    },
+    {
+      "english": "Keep your mindset warm, not harsh",
+      "swedish": "Ha ett mjukt mindset, inte hårt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915975"
+    },
+    {
+      "english": "It’s okay to be a beginner, seriously",
+      "swedish": "Det är okej att vara nybörjare, på riktigt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915977"
+    },
+    {
+      "english": "Choose something you can stick with, easy",
+      "swedish": "Välj något du kan fortsätta med, lätt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915980"
+    },
+    {
+      "english": "Make it your ritual, even five minutes helps",
+      "swedish": "Gör det till din ritual, även fem minuter hjälper",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915982"
+    },
+    {
+      "english": "Don’t compare, your pace is your pace",
+      "swedish": "Jämför inte, din takt är din takt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915984"
+    },
+    {
+      "english": "When you fall behind, just restart gently",
+      "swedish": "När du halkar efter, börja om snällt",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915987"
+    },
+    {
+      "english": "Make it social, good energy helps a lot",
+      "swedish": "Gör det socialt, bra energi hjälper mycket",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915989"
+    },
+    {
+      "english": "Be proud of showing up, that’s courage",
+      "swedish": "Var stolt över att du dyker upp, det är mod",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915991"
+    },
+    {
+      "english": "Your hobby doesn’t have to be useful",
+      "swedish": "Din hobby behöver inte vara nyttig",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915992"
+    },
+    {
+      "english": "Go in with a smile, you’ll feel it",
+      "swedish": "Gå in med ett leende, du märker det",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915994"
+    },
+    {
+      "english": "Honestly, I need this for peace.",
+      "swedish": "Ärligt talat, jag behöver det för lugn.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915996"
+    },
+    {
+      "english": "I like it, it calms my head.",
+      "swedish": "Jag gillar det, det lugnar i mitt huvud.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915998"
+    },
+    {
+      "english": "Some days I go slow, and that’s okay.",
+      "swedish": "Vissa dagar går jag långsamt, och det är okej.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.915999"
+    },
+    {
+      "english": "I’m learning patience, one hobby at a time.",
+      "swedish": "Jag övar tålamod, en hobby i taget.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916001"
+    },
+    {
+      "english": "When I’m stressed, I choose something gentle.",
+      "swedish": "När jag är stressad, väljer jag något mjukt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916003"
+    },
+    {
+      "english": "I don’t force it, I just make space.",
+      "swedish": "Jag tvingar inte, jag skapar bara utrymme.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916005"
+    },
+    {
+      "english": "Truth is, I feel better after practice.",
+      "swedish": "Sanningen är att jag mår bättre efter träning.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916007"
+    },
+    {
+      "english": "I catch myself smiling, even without noticing.",
+      "swedish": "Jag märker att jag ler, även utan att tänka.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916013"
+    },
+    {
+      "english": "I listen to myself, then I pick a hobby.",
+      "swedish": "Jag lyssnar på mig själv, sen väljer jag hobby.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916015"
+    },
+    {
+      "english": "It’s not about winning, it’s about showing up.",
+      "swedish": "Det handlar inte om att vinna, det handlar om att dyka upp.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916017"
+    },
+    {
+      "english": "Sometimes I need quiet, so I read.",
+      "swedish": "Ibland behöver jag tystnad, så jag läser.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916019"
+    },
+    {
+      "english": "I keep it simple, my mood improves fast.",
+      "swedish": "Jag håller det enkelt, mitt humör blir bättre snabbt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916021"
+    },
+    {
+      "english": "I’m proud of trying, even when it’s awkward.",
+      "swedish": "Jag är stolt över att försöka, även när det känns stelt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916023"
+    },
+    {
+      "english": "If I miss a day, I don’t spiral.",
+      "swedish": "Om jag missar en dag, går jag inte i spiral.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916025"
+    },
+    {
+      "english": "I’ve learned, small effort still counts.",
+      "swedish": "Jag har lärt mig, lite räcker också.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916026"
+    },
+    {
+      "english": "Honestly, I feel lighter once I start.",
+      "swedish": "Ärligt, jag känner mig lättare när jag börjar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916028"
+    },
+    {
+      "english": "I’m not chasing perfection, I’m building habit.",
+      "swedish": "Jag jagar inte perfektion, jag bygger vana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916030"
+    },
+    {
+      "english": "Some hobbies heal me, even on bad days.",
+      "swedish": "Vissa hobbyer läker mig, även på tunga dagar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916032"
+    },
+    {
+      "english": "I don’t need big plans, just steady hours.",
+      "swedish": "Jag behöver inga stora planer, bara stadiga timmar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916034"
+    },
+    {
+      "english": "I allow myself to learn slowly, without shame.",
+      "swedish": "Jag tillåter mig att lära mig långsamt, utan skam.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916035"
+    },
+    {
+      "english": "If it’s boring, I adjust, no guilt.",
+      "swedish": "Om det känns tråkigt, justerar jag, utan skuld.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916037"
+    },
+    {
+      "english": "I’m honest about it, I need downtime.",
+      "swedish": "Jag säger sanningen, jag behöver egentid.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916039"
+    },
+    {
+      "english": "I try again, because quitting hurts less.",
+      "swedish": "Jag försöker igen, för att inte sluta känns bättre.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916041"
+    },
+    {
+      "english": "I make room for feelings, not just tasks.",
+      "swedish": "Jag gör plats för känslor, inte bara uppgifter.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916043"
+    },
+    {
+      "english": "When I feel stuck, I switch hobbies.",
+      "swedish": "När jag känner mig låst, byter jag hobby.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916044"
+    },
+    {
+      "english": "I keep a calm pace, my brain likes it.",
+      "swedish": "Jag håller ett lugnt tempo, min hjärna gillar det.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916046"
+    },
+    {
+      "english": "I enjoy the process, not the pressure.",
+      "swedish": "Jag njuter av processen, inte pressen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916048"
+    },
+    {
+      "english": "I’m learning to trust my own timing.",
+      "swedish": "Jag lär mig att lita på min egen timing.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916051"
+    },
+    {
+      "english": "My hobby reminds me, I’m doing enough.",
+      "swedish": "Min hobby påminner mig, att jag räcker.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916053"
+    },
+    {
+      "english": "Pick a hobby, then set a tiny time box.",
+      "swedish": "Välj en hobby, sen sätt en liten tidsruta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916054"
+    },
+    {
+      "english": "Bring snacks, so the hangout stays easy.",
+      "swedish": "Ta med snacks, så blir hängningen lätt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916056"
+    },
+    {
+      "english": "If it’s awkward, laugh, and continue anyway.",
+      "swedish": "Om det känns stelt, skratta, och fortsätt ändå.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-07T06:55:04.916057"
     }
   ],
-  "last_updated": "2026-11-06T07:47:30.029856"
+  "last_updated": "2026-11-07T06:55:04.916059"
 }
