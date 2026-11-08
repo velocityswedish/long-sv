@@ -10883,7 +10883,727 @@
       "swedish": "Om det känns stelt, skratta, och fortsätt ändå.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-07T06:55:04.916057"
+    },
+    {
+      "english": "Where do I buy tickets, please?",
+      "swedish": "Var köper jag biljetter, snälla?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618091"
+    },
+    {
+      "english": "Is this the right bus, for downtown?",
+      "swedish": "Går den här bussen till centrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618102"
+    },
+    {
+      "english": "Does this stop near the station?",
+      "swedish": "Stannar den här vid stationen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618104"
+    },
+    {
+      "english": "How much is a single ticket?",
+      "swedish": "Vad kostar en enkelbiljett?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618106"
+    },
+    {
+      "english": "One ticket, please, for me and my bag.",
+      "swedish": "En biljett, tack, åt mig och min väska.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618108"
+    },
+    {
+      "english": "I need to validate, where is the machine?",
+      "swedish": "Jag måste stämpla, var finns maskinen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618109"
+    },
+    {
+      "english": "Do I tap with the card, or phone?",
+      "swedish": "Ska jag blippa med kortet, eller mobilen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618111"
+    },
+    {
+      "english": "My card didn’t work, what now?",
+      "swedish": "Mitt kort funkade inte, vad gör jag?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618116"
+    },
+    {
+      "english": "Sorry, which platform is it?",
+      "swedish": "Förlåt, vilken perrong är det?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618118"
+    },
+    {
+      "english": "Can you help me, please, I’m lost.",
+      "swedish": "Kan du hjälpa mig, snälla, jag är vilse.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618121"
+    },
+    {
+      "english": "When is the next train, exactly?",
+      "swedish": "När går nästa tåg, exakt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618122"
+    },
+    {
+      "english": "Is it delayed, or on time?",
+      "swedish": "Är det försenat, eller i tid?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618124"
+    },
+    {
+      "english": "Oh, it’s already leaving, wait!",
+      "swedish": "Oj, den går redan, vänta!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618128"
+    },
+    {
+      "english": "Hold on, I need to catch my stop.",
+      "swedish": "Vänta, jag måste av på min hållplats.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618129"
+    },
+    {
+      "english": "Do we change here, or later?",
+      "swedish": "Byter man här, eller senare?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618131"
+    },
+    {
+      "english": "Which line should I take?",
+      "swedish": "Vilken linje ska jag ta?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618134"
+    },
+    {
+      "english": "Is the city center in zone one?",
+      "swedish": "Ligger centrum i zon ett?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618135"
+    },
+    {
+      "english": "I’ll get off at the next stop.",
+      "swedish": "Jag kliver av på nästa hållplats.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618137"
+    },
+    {
+      "english": "Where is the restroom on this train?",
+      "swedish": "Var finns toaletten i tåget?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618138"
+    },
+    {
+      "english": "Sorry, is this seat free?",
+      "swedish": "Ursäkta, är den här platsen ledig?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618140"
+    },
+    {
+      "english": "Mind your bag, please, on the stairs.",
+      "swedish": "Akta väskan, snälla, i trappan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618142"
+    },
+    {
+      "english": "Does the elevator work, right now?",
+      "swedish": "Funkar hissen nu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618143"
+    },
+    {
+      "english": "I’m stepping in, please make room.",
+      "swedish": "Jag går in, gör plats tack.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618145"
+    },
+    {
+      "english": "Thank you, I’ll be quick, promise.",
+      "swedish": "Tack, jag går snabbt, lovar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618147"
+    },
+    {
+      "english": "Great, the metro is coming now.",
+      "swedish": "Toppen, tunnelbanan kommer nu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618149"
+    },
+    {
+      "english": "Wait, the doors are closing!",
+      "swedish": "Vänta, dörrarna stänger!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618150"
+    },
+    {
+      "english": "Is there Wi‑Fi on board?",
+      "swedish": "Finns det Wi‑Fi på bussen eller tåget?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618152"
+    },
+    {
+      "english": "I need help with my ticket app.",
+      "swedish": "Jag behöver hjälp med biljetappen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618154"
+    },
+    {
+      "english": "Where can I report a lost item?",
+      "swedish": "Var anmäler jag borttappade saker?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618155"
+    },
+    {
+      "english": "This line ends here, right?",
+      "swedish": "Den här linjen slutar här, va?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618157"
+    },
+    {
+      "english": "Sorry, I’m in the way, excuse me.",
+      "swedish": "Ursäkta, jag är ivägen, förlåt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618159"
+    },
+    {
+      "english": "Which bus number goes to the hospital?",
+      "swedish": "Vilken buss går till sjukhuset?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618161"
+    },
+    {
+      "english": "Is there a student discount, by any chance?",
+      "swedish": "Finns det studentrabatt, kanske?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618163"
+    },
+    {
+      "english": "Do I need to plan a transfer?",
+      "swedish": "Måste jag byta, eller går det direkt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618165"
+    },
+    {
+      "english": "How late do the buses run tonight?",
+      "swedish": "Hur sent går bussarna ikväll?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618166"
+    },
+    {
+      "english": "What platform should I head for?",
+      "swedish": "Vilken perrong ska jag gå till?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618168"
+    },
+    {
+      "english": "Is there a quieter carriage, please?",
+      "swedish": "Finns det en tyst vagn, tack?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618169"
+    },
+    {
+      "english": "Can I bring a bike on board?",
+      "swedish": "Får jag ta med cykel på tåget?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618171"
+    },
+    {
+      "english": "Do I stay seated during the stop?",
+      "swedish": "Ska jag sitta kvar vid hållplatsen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618173"
+    },
+    {
+      "english": "Where do I stand to exit faster?",
+      "swedish": "Var ska jag stå för att gå av snabbt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618174"
+    },
+    {
+      "english": "Is this line usually crowded at rush hour?",
+      "swedish": "Blir den här linjen full på morgonen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618176"
+    },
+    {
+      "english": "How do I reach ticket control, if needed?",
+      "swedish": "Var hittar man biljettkontrollen, om det behövs?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618177"
+    },
+    {
+      "english": "Do you know where the express stops?",
+      "swedish": "Vet du var expressen stannar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618179"
+    },
+    {
+      "english": "Is there a restroom somewhere nearby?",
+      "swedish": "Finns det toalett i närheten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618182"
+    },
+    {
+      "english": "Do I have to move my suitcase?",
+      "swedish": "Behöver jag flytta väskan, förresten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618183"
+    },
+    {
+      "english": "What’s the best app for transit updates?",
+      "swedish": "Vilken app är bäst för trafikinfo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618185"
+    },
+    {
+      "english": "Is the next train direct, or not?",
+      "swedish": "Går nästa tåg direkt, eller byter man?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618188"
+    },
+    {
+      "english": "Can I ask for directions, quickly?",
+      "swedish": "Kan jag fråga om vägen, snabbt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618190"
+    },
+    {
+      "english": "Which stops are the most important here?",
+      "swedish": "Vilka hållplatser är viktigast här?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618192"
+    },
+    {
+      "english": "Is this the right door for boarding?",
+      "swedish": "Är det här rätt dörr för påstigning?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618193"
+    },
+    {
+      "english": "Do you accept cash, or only card?",
+      "swedish": "Tar ni kontanter, eller bara kort?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618195"
+    },
+    {
+      "english": "What time does the last tram go?",
+      "swedish": "När går sista spårvagnen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618197"
+    },
+    {
+      "english": "Is there a step-free entrance nearby?",
+      "swedish": "Finns det en ramp nära ingången?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618199"
+    },
+    {
+      "english": "Where do I validate if my ticket is digital?",
+      "swedish": "Var stämplar man, om biljetten är digital?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618202"
+    },
+    {
+      "english": "Can I move to a reserved area?",
+      "swedish": "Får jag sitta i en markerad plats?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618203"
+    },
+    {
+      "english": "Is there a stop where I can transfer easily?",
+      "swedish": "Finns det en hållplats med smidigt byte?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618205"
+    },
+    {
+      "english": "Should I scan my ticket before entering?",
+      "swedish": "Ska jag skanna biljetten innan jag går in?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618207"
+    },
+    {
+      "english": "Do you know if service is running normally?",
+      "swedish": "Vet du om trafiken går som vanligt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618208"
+    },
+    {
+      "english": "How do I report a broken machine?",
+      "swedish": "Vem ringer man om biljettmaskinen är trasig?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618210"
+    },
+    {
+      "english": "Is it okay to ask the driver directly?",
+      "swedish": "Är det okej att fråga föraren direkt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618212"
+    },
+    {
+      "english": "What do you recommend for my route today?",
+      "swedish": "Vad rekommenderar du för min väg idag?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618213"
+    },
+    {
+      "english": "No worries, we’ll manage somehow, okay?",
+      "swedish": "Ingen fara, vi löser det, va?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618217"
+    },
+    {
+      "english": "Let’s hop on now, before it fills up.",
+      "swedish": "Vi hoppar på nu, innan det blir fullt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618219"
+    },
+    {
+      "english": "I’ll stand here, just for a minute.",
+      "swedish": "Jag står här, bara en minut.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618221"
+    },
+    {
+      "english": "It’s not your stop, it’s my stop.",
+      "swedish": "Det är inte din hållplats, det är min.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618224"
+    },
+    {
+      "english": "Hold my spot, I’ll be right back.",
+      "swedish": "Håll min plats, jag är strax tillbaka.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618226"
+    },
+    {
+      "english": "We’re in the same boat, don’t stress.",
+      "swedish": "Vi är i samma båt, ta det lugnt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618228"
+    },
+    {
+      "english": "Traffic is messy today, take public transit.",
+      "swedish": "Det är kaos i trafiken idag, åk kollektivt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618230"
+    },
+    {
+      "english": "This ride is going to be a long one.",
+      "swedish": "Den här resan blir seg, tror jag.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618232"
+    },
+    {
+      "english": "Mind your bag, it sticks out.",
+      "swedish": "Akta väskan, den tar plats.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618234"
+    },
+    {
+      "english": "You can’t rush it, it comes when it comes.",
+      "swedish": "Man kan inte stressa, den kommer när den kommer.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618236"
+    },
+    {
+      "english": "I’ll queue up, no need to fight.",
+      "swedish": "Jag ställer mig i kön, ingen panik.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618238"
+    },
+    {
+      "english": "Sorry, quick question, is this direction correct?",
+      "swedish": "Ursäkta, en snabb fråga, går den åt rätt håll?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618240"
+    },
+    {
+      "english": "Come on, squeeze in, we’ll all fit.",
+      "swedish": "Kom igen, träng in, vi får plats allihop.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618242"
+    },
+    {
+      "english": "I’ll move, you look like you need that seat.",
+      "swedish": "Jag flyttar mig, du behöver nog stolen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618244"
+    },
+    {
+      "english": "Better late than never, hop on when it stops.",
+      "swedish": "Hellre sen än aldrig, kliv på när den stannar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618246"
+    },
+    {
+      "english": "The driver will take care of the rest.",
+      "swedish": "Chauffören sköter resten, du ska se.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618248"
+    },
+    {
+      "english": "Let’s wait by the door, it’s less chaos.",
+      "swedish": "Vi väntar vid dörren, det blir lugnare.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618250"
+    },
+    {
+      "english": "If it’s canceled, just breathe, it happens.",
+      "swedish": "Ställ in för att den ställs in, sånt händer.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618254"
+    },
+    {
+      "english": "When in doubt, ask a stranger, politely.",
+      "swedish": "När du är osäker, fråga någon, artigt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618255"
+    },
+    {
+      "english": "We’ll get there, one stop at a time.",
+      "swedish": "Vi kommer fram, en hållplats i taget.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618257"
+    },
+    {
+      "english": "Don’t block the aisle, let people pass.",
+      "swedish": "Blockera inte gången, släpp fram folk.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618259"
+    },
+    {
+      "english": "I swear, this bus is always late.",
+      "swedish": "Det här bussen är alltid sen, jag lovar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618261"
+    },
+    {
+      "english": "If you miss it, you’ll catch the next one.",
+      "swedish": "Missar du den, så tar du nästa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618264"
+    },
+    {
+      "english": "The tram is packed, grab a pole.",
+      "swedish": "Spårvagnen är proppfull, ta ett handtag.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618266"
+    },
+    {
+      "english": "Keep your ticket handy, they might check.",
+      "swedish": "Ha biljetten nära, de kan kontrollera.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618267"
+    },
+    {
+      "english": "We’re rolling now, hang on tight, please.",
+      "swedish": "Nu rullar vi, håll i dig, snälla.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618269"
+    },
+    {
+      "english": "This stop is busy, good luck getting out.",
+      "swedish": "Hållplatsen är fullsmockad, lycka till ut.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618271"
+    },
+    {
+      "english": "No seats left, but standing is fine.",
+      "swedish": "Inga sittplatser kvar, men det går att stå.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618273"
+    },
+    {
+      "english": "Thanks, you’re a lifesaver on this commute.",
+      "swedish": "Tack, du är en räddare i nöden här.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618275"
+    },
+    {
+      "english": "Honestly, I get nervous before departures.",
+      "swedish": "Ärligt talat blir jag nervös före avgångar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618277"
+    },
+    {
+      "english": "I just need a calm ride today.",
+      "swedish": "Jag behöver bara en lugn resa idag.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618279"
+    },
+    {
+      "english": "Waiting helps, I try to stay patient.",
+      "swedish": "Att vänta hjälper, jag försöker vara tålmodig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618280"
+    },
+    {
+      "english": "I overthink the timetable, it’s exhausting.",
+      "swedish": "Jag övertänker tidtabellen, den är tröttsam.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618282"
+    },
+    {
+      "english": "I wish this line felt more predictable.",
+      "swedish": "Jag önskar att den här linjen kändes mer förutsägbar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618284"
+    },
+    {
+      "english": "It’s fine, I’ll breathe and wait.",
+      "swedish": "Det är lugnt, jag andas och väntar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618286"
+    },
+    {
+      "english": "I feel better once I’m on board.",
+      "swedish": "Jag känner mig bättre när jag väl är ombord.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618288"
+    },
+    {
+      "english": "Please, take your time, I’ll manage.",
+      "swedish": "Ta det lugnt, jag löser det.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618290"
+    },
+    {
+      "english": "I don’t want to rush anyone today.",
+      "swedish": "Jag vill inte stressa någon idag.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618292"
+    },
+    {
+      "english": "Sometimes delays make me sad, honestly.",
+      "swedish": "Ibland blir jag ledsen av förseningar, ärligt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618294"
+    },
+    {
+      "english": "I’m trying to stay positive, even here.",
+      "swedish": "Jag försöker hålla humöret uppe, även här.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618296"
+    },
+    {
+      "english": "It’s not your fault, really, calm down.",
+      "swedish": "Det är inte ditt fel, verkligen, lugna dig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618298"
+    },
+    {
+      "english": "I hate when people shove without thinking.",
+      "swedish": "Jag avskyr när folk knuffas utan att tänka.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618299"
+    },
+    {
+      "english": "I just need space for my thoughts.",
+      "swedish": "Jag behöver bara lite utrymme för mina tankar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618301"
+    },
+    {
+      "english": "This commute can feel heavy, today especially.",
+      "swedish": "Den här pendlingen kan kännas tung, särskilt idag.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618303"
+    },
+    {
+      "english": "I’m not annoyed, I’m just tired.",
+      "swedish": "Jag är inte arg, jag är bara trött.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618305"
+    },
+    {
+      "english": "If we miss it, it happens.",
+      "swedish": "Missar vi den, så händer det ändå.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618306"
+    },
+    {
+      "english": "I wish everyone would look up and breathe.",
+      "swedish": "Jag önskar att alla tittar upp och andas.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618308"
+    },
+    {
+      "english": "I’m trying to be kind, even when packed.",
+      "swedish": "Jag försöker vara snäll, även när det är fullt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618310"
+    },
+    {
+      "english": "Can we make room, I’m feeling claustrophobic.",
+      "swedish": "Kan vi göra plats, jag känner mig instängd.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618312"
+    },
+    {
+      "english": "I hate awkward silence on late buses.",
+      "swedish": "Jag hatar obekvämt tystnadstempo på sena bussar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618316"
+    },
+    {
+      "english": "I’m calm now, just let me hop off.",
+      "swedish": "Jag är lugn nu, låt mig bara gå av.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618318"
+    },
+    {
+      "english": "Sometimes I forget to smile, that’s the truth.",
+      "swedish": "Ibland glömmer jag att le, det är sanningen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618320"
+    },
+    {
+      "english": "I keep telling myself, it’ll be okay.",
+      "swedish": "Jag intalar mig själv att det ordnar sig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618322"
+    },
+    {
+      "english": "This is my reset, even if it’s crowded.",
+      "swedish": "Det här är min nystart, även om det är fullt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618324"
+    },
+    {
+      "english": "I’m a little late, but I’m here now.",
+      "swedish": "Jag är lite sen, men jag är här nu.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618327"
+    },
+    {
+      "english": "I don’t need perfection, just reliable service.",
+      "swedish": "Jag behöver ingen perfektion, bara pålitlig trafik.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618329"
+    },
+    {
+      "english": "Thanks, you helped me feel human again.",
+      "swedish": "Tack, du fick mig att känna mig som människa igen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618330"
+    },
+    {
+      "english": "I’ll take the slow lane, mentally, too.",
+      "swedish": "Jag tar det lugnt, även i huvudet.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618332"
+    },
+    {
+      "english": "Excuse me, where’s the platform, please?",
+      "swedish": "Ursäkta, var ligger perrongen, tack?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-08T07:01:13.618334"
     }
   ],
-  "last_updated": "2026-11-07T06:55:04.916059"
+  "last_updated": "2026-11-08T07:01:13.618335"
 }
