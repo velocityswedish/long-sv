@@ -11603,7 +11603,727 @@
       "swedish": "Ursäkta, var ligger perrongen, tack?",
       "category": "Public Transportation",
       "generated_at": "2026-11-08T07:01:13.618334"
+    },
+    {
+      "english": "Hi, do you have any rooms available?",
+      "swedish": "Hej, har ni några rum lediga?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584672"
+    },
+    {
+      "english": "Yes, one room for tonight, please.",
+      "swedish": "Ja, ett rum för i natt, tack.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584686"
+    },
+    {
+      "english": "How much is it per night?",
+      "swedish": "Vad kostar det per natt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584690"
+    },
+    {
+      "english": "Do I need to check in now?",
+      "swedish": "Måste jag checka in nu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584693"
+    },
+    {
+      "english": "Where is reception, please?",
+      "swedish": "Var ligger receptionen, tack?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584696"
+    },
+    {
+      "english": "Can I get the key, please?",
+      "swedish": "Kan jag få nyckeln, tack?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584698"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "swedish": "Ingår frukosten i priset?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584703"
+    },
+    {
+      "english": "What time is checkout tomorrow?",
+      "swedish": "Vilken tid är utcheckning imorgon?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584710"
+    },
+    {
+      "english": "Do you have late check-out?",
+      "swedish": "Har ni sen utcheckning?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584714"
+    },
+    {
+      "english": "Is there free Wi‑Fi in the room?",
+      "swedish": "Finns det gratis Wi‑Fi på rummet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584718"
+    },
+    {
+      "english": "Can I store my luggage here?",
+      "swedish": "Kan jag lämna mitt bagage här?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584720"
+    },
+    {
+      "english": "Does the room have a window?",
+      "swedish": "Har rummet ett fönster?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584722"
+    },
+    {
+      "english": "Where can I park my car?",
+      "swedish": "Var kan jag parkera bilen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584725"
+    },
+    {
+      "english": "Is there an elevator?",
+      "swedish": "Finns det hiss?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584727"
+    },
+    {
+      "english": "Can I have extra towels, please?",
+      "swedish": "Kan jag få extra handdukar, tack?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584730"
+    },
+    {
+      "english": "The Wi‑Fi password, please?",
+      "swedish": "Wi‑Fi-lösenordet, tack?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584737"
+    },
+    {
+      "english": "My room key isn't working.",
+      "swedish": "Min rumsnyckel funkar inte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584740"
+    },
+    {
+      "english": "Sorry, the room is too cold.",
+      "swedish": "Förlåt, rummet är för kallt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584742"
+    },
+    {
+      "english": "Could you turn up the heat?",
+      "swedish": "Kan du höja värmen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584745"
+    },
+    {
+      "english": "It’s very noisy in here.",
+      "swedish": "Det är jättehögt här.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584748"
+    },
+    {
+      "english": "Can I move to another room?",
+      "swedish": "Kan jag flytta till ett annat rum?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584750"
+    },
+    {
+      "english": "We have a reservation under this name.",
+      "swedish": "Jag har en bokning på det här namnet.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584753"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "swedish": "Tar ni betalkort, tack?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584755"
+    },
+    {
+      "english": "What’s the best way to get around?",
+      "swedish": "Vad är bästa sättet att ta sig runt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584758"
+    },
+    {
+      "english": "Is there a restaurant on site?",
+      "swedish": "Finns det en restaurang här i huset?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584760"
+    },
+    {
+      "english": "No problem, we’ll manage.",
+      "swedish": "Inga problem, vi fixar det.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584764"
+    },
+    {
+      "english": "Great, thank you so much!",
+      "swedish": "Toppen, tusen tack!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584766"
+    },
+    {
+      "english": "Can I get a late receipt, please?",
+      "swedish": "Kan jag få ett kvitto senare?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584769"
+    },
+    {
+      "english": "Is there a phone in the room?",
+      "swedish": "Finns det telefon på rummet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584771"
+    },
+    {
+      "english": "Sorry, I need help right now.",
+      "swedish": "Ursäkta, jag behöver hjälp nu.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584774"
+    },
+    {
+      "english": "Excuse me, is breakfast served downstairs?",
+      "swedish": "Ursäkta, serveras frukosten nere i matsalen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584776"
+    },
+    {
+      "english": "Which room type is best for two guests?",
+      "swedish": "Vilken rumstyp passar bäst för två gäster?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584779"
+    },
+    {
+      "english": "Do you have a quiet room option?",
+      "swedish": "Har ni ett lugnt rum, om man ber om det?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584782"
+    },
+    {
+      "english": "Can I ask about parking options nearby?",
+      "swedish": "Kan jag fråga om parkering i närheten?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584785"
+    },
+    {
+      "english": "Is there a vending shop in the building?",
+      "swedish": "Finns det en liten butik med snacks i huset?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584787"
+    },
+    {
+      "english": "What should I do if I arrive late?",
+      "swedish": "Vad gör jag om jag kommer sent?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584790"
+    },
+    {
+      "english": "Do you offer airport transfer, by any chance?",
+      "swedish": "Har ni möjlighet med flygplatstransfer?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584792"
+    },
+    {
+      "english": "How do I reach your spa, if available?",
+      "swedish": "Hur bokar man spa, om ni har ett?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584796"
+    },
+    {
+      "english": "Is there a charge for an extra bed?",
+      "swedish": "Tar ni betalt för extrasäng?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584800"
+    },
+    {
+      "english": "Can I pay in advance, is that okay?",
+      "swedish": "Kan jag betala i förväg, går det?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584803"
+    },
+    {
+      "english": "Is the hallway key-card access only?",
+      "swedish": "Behöver man nyckelbricka för korridoren?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584805"
+    },
+    {
+      "english": "Which time is breakfast most quiet?",
+      "swedish": "När är frukosten som lugnast?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584808"
+    },
+    {
+      "english": "Do you have an iron and ironing board?",
+      "swedish": "Har ni ett strykjärn och strykbräda?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584810"
+    },
+    {
+      "english": "Is the air conditioning controllable in room?",
+      "swedish": "Kan man styra luftkonditioneringen själv?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584813"
+    },
+    {
+      "english": "What’s nearby, restaurants, shops, and parks?",
+      "swedish": "Vad finns i närheten, restauranger och parker?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584817"
+    },
+    {
+      "english": "Can I check my booking details here?",
+      "swedish": "Kan jag kolla mina bokningsuppgifter här?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584819"
+    },
+    {
+      "english": "If I forget my charger, do you have one?",
+      "swedish": "Om jag glömmer laddaren, har ni något?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584822"
+    },
+    {
+      "english": "How far is it to the nearest tram stop?",
+      "swedish": "Hur långt är det till närmaste spårvagnshållplats?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584824"
+    },
+    {
+      "english": "Do you have rooms for families?",
+      "swedish": "Har ni familjerum?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584827"
+    },
+    {
+      "english": "Is there a no-smoking floor available?",
+      "swedish": "Finns det en avdelning där man inte röker?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584830"
+    },
+    {
+      "english": "Can I get directions to the city center?",
+      "swedish": "Kan ni ge mig vägbeskrivning till centrum?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584832"
+    },
+    {
+      "english": "What do you recommend for a first visit?",
+      "swedish": "Vad rekommenderar ni för första besöket?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584835"
+    },
+    {
+      "english": "Do you have late breakfast, on weekends?",
+      "swedish": "Har ni sen frukost på helgerna?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584837"
+    },
+    {
+      "english": "How does the key-card work, exactly?",
+      "swedish": "Hur funkar nyckelbrickan, steg för steg?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584840"
+    },
+    {
+      "english": "Can I get help booking tours?",
+      "swedish": "Kan ni hjälpa mig att boka rundturer?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584843"
+    },
+    {
+      "english": "Is there a quiet place to work nearby?",
+      "swedish": "Finns det en tyst plats att jobba i?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584845"
+    },
+    {
+      "english": "What’s the Wi‑Fi speed like here?",
+      "swedish": "Hur snabbt är Wi‑Fi här ungefär?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584849"
+    },
+    {
+      "english": "Do you have a map of local attractions?",
+      "swedish": "Har ni en karta över sevärdheter i närheten?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584851"
+    },
+    {
+      "english": "If my plans change, can I reschedule?",
+      "swedish": "Om mina planer ändras, kan jag boka om?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584854"
+    },
+    {
+      "english": "Thanks, could you suggest the best room side?",
+      "swedish": "Tack, kan ni tipsa om bästa rumssidan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584857"
+    },
+    {
+      "english": "No worries, we’ll sort it out together.",
+      "swedish": "Ingen fara, vi löser det tillsammans.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584860"
+    },
+    {
+      "english": "We’ll take it from here, thanks!",
+      "swedish": "Vi tar det härifrån, tack!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584863"
+    },
+    {
+      "english": "Everything’s handled, just follow my directions.",
+      "swedish": "Allt är fixat, följ bara mina anvisningar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584866"
+    },
+    {
+      "english": "Check in, then ask about the extras.",
+      "swedish": "Checka in, sen kan du fråga om tillvalen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584869"
+    },
+    {
+      "english": "Keep it simple, bring your card key.",
+      "swedish": "Håll det enkelt, ta med ditt kort.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584872"
+    },
+    {
+      "english": "Is checkout fast, or do we queue?",
+      "swedish": "Går utcheckningen snabbt, eller blir det kö?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584875"
+    },
+    {
+      "english": "Beds are made, you’ll feel at home.",
+      "swedish": "Sängarna är bäddade, du känner dig som hemma.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584878"
+    },
+    {
+      "english": "Fresh towels, just ask at reception.",
+      "swedish": "Färska handdukar, fråga i receptionen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584881"
+    },
+    {
+      "english": "Mind the door, the room locks automatically.",
+      "swedish": "Se upp för dörren, låset går av sig själv.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584885"
+    },
+    {
+      "english": "If you’re late, just call us first.",
+      "swedish": "Om du blir sen, ring bara först.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584890"
+    },
+    {
+      "english": "Come up, I’ll show you the floor.",
+      "swedish": "Kom upp, jag visar dig våningen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584894"
+    },
+    {
+      "english": "Quiet nights, that’s our thing here.",
+      "swedish": "Tysta nätter, det är vår grej här.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584897"
+    },
+    {
+      "english": "No noise after ten, please be mindful.",
+      "swedish": "Tyst efter tio, visa hänsyn.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584900"
+    },
+    {
+      "english": "The room’s snug, perfect for a short stay.",
+      "swedish": "Rummet är litet och mysigt, perfekt för en kort vistelse.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584903"
+    },
+    {
+      "english": "Breakfast is simple, but it hits the spot.",
+      "swedish": "Frukosten är enkel, men den sitter.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584906"
+    },
+    {
+      "english": "Can I get an extra key for my partner?",
+      "swedish": "Kan vi få en extranyckel åt partnern?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584908"
+    },
+    {
+      "english": "We’ll handle luggage storage for you.",
+      "swedish": "Vi kan ta hand om bagaget medan du väntar.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584911"
+    },
+    {
+      "english": "Just keep the air settings comfortable for yourself.",
+      "swedish": "Ställ in luftkonditioneringen som du vill.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584914"
+    },
+    {
+      "english": "If it doesn’t work, tell us right away.",
+      "swedish": "Funkar det inte, säg till direkt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584917"
+    },
+    {
+      "english": "The Wi‑Fi works fine, no hassle.",
+      "swedish": "Wi‑Fi:n funkar bra, inga bekymmer.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584922"
+    },
+    {
+      "english": "We’re fully booked, but we can check options.",
+      "swedish": "Vi är fullbokade, men vi kan kolla alternativ.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584926"
+    },
+    {
+      "english": "Go easy on the minibar, it adds up.",
+      "swedish": "Ta det lugnt med minibaren, den blir dyr.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584929"
+    },
+    {
+      "english": "Parking is tight, but staff usually helps.",
+      "swedish": "Parkeringen är trång, men personalen brukar hjälpa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584933"
+    },
+    {
+      "english": "You’re in luck, a late checkout may be possible.",
+      "swedish": "Du har tur, sen utcheckning kan vara möjligt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584937"
+    },
+    {
+      "english": "We’ll keep your room ready as long as possible.",
+      "swedish": "Vi håller rummet redo så länge vi kan.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584941"
+    },
+    {
+      "english": "Ask nicely, they might bend the rules.",
+      "swedish": "Fråga snällt, de kan ibland göra undantag.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584943"
+    },
+    {
+      "english": "That’s the key, everything’s straightforward here.",
+      "swedish": "Det är nyckeln, allt är enkelt här.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584947"
+    },
+    {
+      "english": "Take the elevator, it’s quicker than stairs.",
+      "swedish": "Ta hissen, det går snabbare än trappor.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584950"
+    },
+    {
+      "english": "When in doubt, ask reception, they know.",
+      "swedish": "När du är osäker, fråga i receptionen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584953"
+    },
+    {
+      "english": "Just sign and go, paperwork is quick.",
+      "swedish": "Skriv under och klart, det går snabbt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584956"
+    },
+    {
+      "english": "Honestly, I’m calmer in a quiet room.",
+      "swedish": "Ärligt, jag blir lugnare i ett tyst rum.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584959"
+    },
+    {
+      "english": "I just need a soft bed tonight.",
+      "swedish": "Jag behöver bara en mjuk säng i natt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584962"
+    },
+    {
+      "english": "Can we talk about comfort, not just price?",
+      "swedish": "Kan vi prata om komfort, inte bara pris?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584964"
+    },
+    {
+      "english": "I’m a light sleeper, so I’ll request distance.",
+      "swedish": "Jag sover lätt, så jag ber om ett läge långt bort.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584968"
+    },
+    {
+      "english": "Thanks, I’ll take it slowly with check-in details.",
+      "swedish": "Tack, jag tar det lugnt med incheckningsgrejerna.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584971"
+    },
+    {
+      "english": "I appreciate patience, I’m still figuring things out.",
+      "swedish": "Jag uppskattar tålamod, jag håller fortfarande på att förstå.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584975"
+    },
+    {
+      "english": "Today felt long, I’m really ready to rest.",
+      "swedish": "Idag kändes lång, jag är verkligen redo att vila.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584978"
+    },
+    {
+      "english": "I’d love a room with a nice view, if possible.",
+      "swedish": "Jag skulle gärna ha ett rum med fin utsikt, om det går.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584982"
+    },
+    {
+      "english": "To be honest, I need space to breathe.",
+      "swedish": "Sanningen är, jag behöver utrymme att andas.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584985"
+    },
+    {
+      "english": "I’m okay with simple, as long as it feels warm.",
+      "swedish": "Jag klarar mig med enkelt, bara det känns varmt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584988"
+    },
+    {
+      "english": "Could you confirm the late check-out, just in case?",
+      "swedish": "Kan du bekräfta sen utcheckning, bara för säkerhets skull?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584991"
+    },
+    {
+      "english": "I don’t want drama, I just want things smooth.",
+      "swedish": "Jag vill inte ha krångel, jag vill bara ha det smidigt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584996"
+    },
+    {
+      "english": "Sometimes I need extra time to settle in.",
+      "swedish": "Ibland behöver jag lite extra tid för att landa.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.584999"
+    },
+    {
+      "english": "I’m hoping for a calmer hallway, not crowded.",
+      "swedish": "Jag hoppas på lugnare omgångar, inte trångt i korridoren.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585002"
+    },
+    {
+      "english": "If the room is noisy, please let me know.",
+      "swedish": "Om rummet är stökigt, säg gärna till mig.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585005"
+    },
+    {
+      "english": "I’m grateful, you’re making this easier for me.",
+      "swedish": "Jag är tacksam, du gör det lättare för mig.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585008"
+    },
+    {
+      "english": "I want to feel safe, especially at night.",
+      "swedish": "Jag vill känna mig trygg, särskilt på natten.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585011"
+    },
+    {
+      "english": "No pressure, we can figure it out together.",
+      "swedish": "Ingen press, vi kan lösa det tillsammans.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585013"
+    },
+    {
+      "english": "I’d rather not change rooms, unless needed.",
+      "swedish": "Jag vill helst inte byta rum, om det inte behövs.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585017"
+    },
+    {
+      "english": "I’m keeping my expectations realistic, thank you.",
+      "swedish": "Jag håller mina förväntningar realistiska, tack ändå.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585021"
+    },
+    {
+      "english": "Could I get a room farther from the stairs?",
+      "swedish": "Kan jag få ett rum längre bort från trappan?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585023"
+    },
+    {
+      "english": "I’m trying to rest, so I’ll keep it quiet.",
+      "swedish": "Jag försöker vila, så jag håller det tyst.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585027"
+    },
+    {
+      "english": "Honestly, I’m more worried about comfort than style.",
+      "swedish": "Ärligt, jag bryr mig mer om komfort än stil.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585030"
+    },
+    {
+      "english": "I’ll wait patiently, take your time.",
+      "swedish": "Jag väntar gärna, ta den tid du behöver.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585033"
+    },
+    {
+      "english": "This place feels welcoming, that matters a lot.",
+      "swedish": "Det här stället känns välkomnande, det betyder mycket.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585036"
+    },
+    {
+      "english": "I’m excited, but I’m also a bit nervous.",
+      "swedish": "Jag är taggad, men jag är också lite nervös.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585040"
+    },
+    {
+      "english": "What I need most is a good shower.",
+      "swedish": "Det jag behöver mest är en bra dusch.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585044"
+    },
+    {
+      "english": "I’ll keep my belongings simple, thanks.",
+      "swedish": "Jag håller mina saker enkla, tack.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585047"
+    },
+    {
+      "english": "I’m just here to reset, one day at a time.",
+      "swedish": "Jag är bara här för att ladda om, dag för dag.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585050"
+    },
+    {
+      "english": "If anything’s wrong, tell me straight away.",
+      "swedish": "Om något är fel, säg till mig direkt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-09T07:44:57.585054"
     }
   ],
-  "last_updated": "2026-11-08T07:01:13.618335"
+  "last_updated": "2026-11-09T07:44:57.585055"
 }
