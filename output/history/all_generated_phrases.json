@@ -12323,7 +12323,727 @@
       "swedish": "Om något är fel, säg till mig direkt.",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-09T07:44:57.585054"
+    },
+    {
+      "english": "Hi, where do I check in?",
+      "swedish": "Hej, var checkar jag in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234831"
+    },
+    {
+      "english": "Which gate is my flight from?",
+      "swedish": "Vilken gate går mitt flyg?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234846"
+    },
+    {
+      "english": "Excuse me, where is passport control?",
+      "swedish": "Ursäkta, var är passkontrollen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234850"
+    },
+    {
+      "english": "Is this line for baggage drop?",
+      "swedish": "Är den här kön för inlämning av bagage?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234852"
+    },
+    {
+      "english": "I think I'm in the wrong place.",
+      "swedish": "Jag tror, jag är på fel ställe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234854"
+    },
+    {
+      "english": "How long does security take, usually?",
+      "swedish": "Hur lång tid tar säkerhetskontrollen, oftast?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234857"
+    },
+    {
+      "english": "What time does boarding start?",
+      "swedish": "När börjar ombordstigning?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234859"
+    },
+    {
+      "english": "Do you speak English, by any chance?",
+      "swedish": "Pratar du engelska, kanske?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234865"
+    },
+    {
+      "english": "I’m late, is there another option?",
+      "swedish": "Jag är sen, finns det ett alternativ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234868"
+    },
+    {
+      "english": "My boarding pass isn't working, sorry.",
+      "swedish": "Mitt boardingkort funkar inte, förlåt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234871"
+    },
+    {
+      "english": "Can I change my seat, please?",
+      "swedish": "Kan jag byta plats, snälla?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234873"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "swedish": "Var kan jag köpa ett simkort?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234875"
+    },
+    {
+      "english": "Do I need to fill this form?",
+      "swedish": "Behöver jag fylla i den här blanketten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234877"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "swedish": "Ingen fara, vi löser det här.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234880"
+    },
+    {
+      "english": "Great, I found it, thank you!",
+      "swedish": "Toppen, jag hittade den, tack!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234882"
+    },
+    {
+      "english": "Oh wow, that's fast, nice!",
+      "swedish": "Oj, vad snabbt, vad bra!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234885"
+    },
+    {
+      "english": "Wait, which direction is the exit?",
+      "swedish": "Vänta, åt vilket håll är utgången?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234887"
+    },
+    {
+      "english": "Is there Wi‑Fi here, please?",
+      "swedish": "Finns det Wi‑Fi här, snälla?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234891"
+    },
+    {
+      "english": "Where is the luggage carousel, please?",
+      "swedish": "Var är bagagebandet, snälla?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234893"
+    },
+    {
+      "english": "My luggage is missing, what now?",
+      "swedish": "Mitt bagage saknas, vad gör jag?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234895"
+    },
+    {
+      "english": "Is this the right place for claims?",
+      "swedish": "Är det här rätt ställe för reklamation?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234897"
+    },
+    {
+      "english": "Do I need cash, or card works?",
+      "swedish": "Behöver jag kontanter, eller funkar kort?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234899"
+    },
+    {
+      "english": "Just to confirm, my flight is at...",
+      "swedish": "Bara för att bekräfta, mitt flyg är klockan...",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234902"
+    },
+    {
+      "english": "I’m going to miss it, oh no!",
+      "swedish": "Jag kommer missa det, åh nej!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234904"
+    },
+    {
+      "english": "Let’s hurry, it’s starting now!",
+      "swedish": "Skärp dig, vi måste skynda!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234907"
+    },
+    {
+      "english": "Can you write it down for me?",
+      "swedish": "Kan du skriva det åt mig?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234910"
+    },
+    {
+      "english": "That sounds good, let’s do it.",
+      "swedish": "Det låter bra, vi kör!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234913"
+    },
+    {
+      "english": "Hi, what’s the quickest way to security?",
+      "swedish": "Hej, vad är snabbaste vägen till säkerhetskontrollen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234916"
+    },
+    {
+      "english": "Do I need to scan my passport here?",
+      "swedish": "Behöver jag skanna passet här?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234918"
+    },
+    {
+      "english": "Is there a quiet waiting area nearby?",
+      "swedish": "Finns det en lugn väntplats i närheten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234921"
+    },
+    {
+      "english": "How do I reach departures from here?",
+      "swedish": "Hur tar jag mig till avgångarna härifrån?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234923"
+    },
+    {
+      "english": "Where can I get help with my baggage?",
+      "swedish": "Var kan jag få hjälp med mitt bagage?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234925"
+    },
+    {
+      "english": "Can you tell me the rules for liquids?",
+      "swedish": "Kan du säga reglerna för vätskor?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234927"
+    },
+    {
+      "english": "What’s the quickest boarding procedure, please?",
+      "swedish": "Vad är den snabbaste ombordstigningen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234930"
+    },
+    {
+      "english": "Could I get directions to the transfer desk?",
+      "swedish": "Kan jag få vägbeskrivning till transferdisken?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234932"
+    },
+    {
+      "english": "Is there a pharmacy inside the terminal?",
+      "swedish": "Finns det ett apotek inne i terminalen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234934"
+    },
+    {
+      "english": "How do I find my seat number?",
+      "swedish": "Hur hittar jag mitt sätesnummer?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234937"
+    },
+    {
+      "english": "Do I need a ticket for the shuttle?",
+      "swedish": "Behöver jag biljett till shuttlen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234939"
+    },
+    {
+      "english": "What happens if my flight gets delayed?",
+      "swedish": "Vad händer om flyget blir försenat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234941"
+    },
+    {
+      "english": "Is there a place to charge my phone?",
+      "swedish": "Finns det ställen där man kan ladda mobilen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234947"
+    },
+    {
+      "english": "Where do I collect my checked luggage?",
+      "swedish": "Var hämtar jag mitt incheckade bagage?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234950"
+    },
+    {
+      "english": "Can I get a paper receipt, please?",
+      "swedish": "Kan jag få ett kvitto på papper?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234952"
+    },
+    {
+      "english": "Is there a café open at this time?",
+      "swedish": "Finns det ett café som är öppet just nu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234955"
+    },
+    {
+      "english": "Can I leave my bag here for a bit?",
+      "swedish": "Kan jag lämna mitt bagage här en stund?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234957"
+    },
+    {
+      "english": "Which exit is best for the city center?",
+      "swedish": "Vilken utgång är bäst till centrum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234959"
+    },
+    {
+      "english": "Is there a restroom that’s easy to find?",
+      "swedish": "Var är toaletten, den är lätt att hitta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234962"
+    },
+    {
+      "english": "What do I do if I lost my luggage?",
+      "swedish": "Vad gör jag om jag tappar bort mitt bagage?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234964"
+    },
+    {
+      "english": "How can I check my flight status?",
+      "swedish": "Hur kollar jag min flygstatus?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234966"
+    },
+    {
+      "english": "Do I need to remove my laptop?",
+      "swedish": "Måste jag ta ur datorn?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234968"
+    },
+    {
+      "english": "Is this the right place to rebook?",
+      "swedish": "Är det här rätt ställe för ombokning?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234970"
+    },
+    {
+      "english": "Can I speak to someone about delays?",
+      "swedish": "Kan jag prata med någon om förseningar?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234972"
+    },
+    {
+      "english": "What’s your recommendation for a short layover?",
+      "swedish": "Vad rekommenderar du vid en kort mellanlandning?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234975"
+    },
+    {
+      "english": "Do I get a meal voucher if it’s late?",
+      "swedish": "Får jag matkupong om det blir sent?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234978"
+    },
+    {
+      "english": "Is there a luggage scale I can use?",
+      "swedish": "Finns det en bagagevåg jag kan använda?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234980"
+    },
+    {
+      "english": "How early should I arrive for international flights?",
+      "swedish": "Hur tidigt bör jag vara ute för internationella flyg?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234983"
+    },
+    {
+      "english": "Could you help me find baggage claim signs?",
+      "swedish": "Kan du hjälpa mig hitta skyltarna för bagageutlämning?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234986"
+    },
+    {
+      "english": "Thanks, any tips for getting through fast?",
+      "swedish": "Tack, har du några tips för att gå igenom snabbt?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234988"
+    },
+    {
+      "english": "Stay calm, you’re doing great right now.",
+      "swedish": "Håll dig lugn, du gör det riktigt bra nu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234990"
+    },
+    {
+      "english": "Breathe in, then solve the next thing.",
+      "swedish": "Andas in, sen löser du nästa grej.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234993"
+    },
+    {
+      "english": "Even delays can work in your favor.",
+      "swedish": "Även förseningar kan spela dig i händerna.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234995"
+    },
+    {
+      "english": "Your plan is solid, trust your timing.",
+      "swedish": "Din plan är stark, lita på din timing.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.234997"
+    },
+    {
+      "english": "Ask questions, it’s the smartest travel hack.",
+      "swedish": "Fråga, det är den smartaste rese-hacken.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235000"
+    },
+    {
+      "english": "You handled check-in smoothly, that’s progress.",
+      "swedish": "Du fixade incheckningen smidigt, det är framsteg.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235003"
+    },
+    {
+      "english": "Perfect is optional, just keep moving forward.",
+      "swedish": "Perfekt är valfritt, bara fortsätt framåt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235005"
+    },
+    {
+      "english": "Small wins today, big trip energy tomorrow.",
+      "swedish": "Små vinster idag, stor energi imorgon.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235008"
+    },
+    {
+      "english": "You don’t need panic, you need a plan.",
+      "swedish": "Du behöver ingen panik, du behöver en plan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235011"
+    },
+    {
+      "english": "If you’re stressed, pause, then regroup.",
+      "swedish": "Om du är stressad, stanna upp, sen kör igen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235014"
+    },
+    {
+      "english": "Celebrate being prepared, even if plans change.",
+      "swedish": "Fira att du är förberedd, även om det ändras.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235016"
+    },
+    {
+      "english": "Good vibes only, everything will fall into place.",
+      "swedish": "Bara good vibes, allt löser sig.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235019"
+    },
+    {
+      "english": "Keep your documents handy, you’ll feel safer.",
+      "swedish": "Ha dina papper nära, då känner du dig tryggare.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235022"
+    },
+    {
+      "english": "You’re learning fast, this is normal travel stuff.",
+      "swedish": "Du lär dig snabbt, det här är helt normal resegrej.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235024"
+    },
+    {
+      "english": "Stay positive, the airport has options.",
+      "swedish": "Var positiv, flygplatsen har alltid alternativ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235028"
+    },
+    {
+      "english": "You’ve got time, don’t rush your choices.",
+      "swedish": "Du har tid, stressa inte dina beslut.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235033"
+    },
+    {
+      "english": "Trust yourself, you can handle one more task.",
+      "swedish": "Lita på dig själv, du klarar en sak till.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235035"
+    },
+    {
+      "english": "Nice work, you’re already halfway there mentally.",
+      "swedish": "Bra jobbat, du är mentalt halvvägs redan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235038"
+    },
+    {
+      "english": "Ask for help early, it saves stress later.",
+      "swedish": "Be om hjälp i tid, det sparar stress sen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235040"
+    },
+    {
+      "english": "Reset your mindset, small step, big relief.",
+      "swedish": "Nollställ tankarna, litet steg, stor lättnad.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235043"
+    },
+    {
+      "english": "You’re allowed to take a breather, seriously.",
+      "swedish": "Du får ta en paus, på riktigt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235045"
+    },
+    {
+      "english": "Focus on what you control, everything else waits.",
+      "swedish": "Fokusera på det du kan påverka, resten får vänta.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235047"
+    },
+    {
+      "english": "Keep moving, this is just a travel rhythm.",
+      "swedish": "Håll igång, det här är bara rese-rörelse.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235049"
+    },
+    {
+      "english": "Tell yourself, I’m ready for whatever happens.",
+      "swedish": "Säg till dig själv, jag är redo för allt som händer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235052"
+    },
+    {
+      "english": "You planned well, now follow the signs calmly.",
+      "swedish": "Du planerade bra, nu följer du skyltarna lugnt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235054"
+    },
+    {
+      "english": "Don’t overthink, trust the process and timing.",
+      "swedish": "Övertänk inte, lita på processen och tiden.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235057"
+    },
+    {
+      "english": "Be proud of progress, even small steps matter.",
+      "swedish": "Var stolt över framsteg, även små steg räknas.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235059"
+    },
+    {
+      "english": "If it’s confusing, that’s okay, ask and go.",
+      "swedish": "Om det känns rörigt, det är okej, fråga bara.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235062"
+    },
+    {
+      "english": "You belong here, keep your confidence up.",
+      "swedish": "Du hör hemma här, håll modet uppe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235064"
+    },
+    {
+      "english": "I’m nervous, but I can handle this moment.",
+      "swedish": "Jag är nervös, men jag klarar det här ögonblicket.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235067"
+    },
+    {
+      "english": "Honestly, this line feels longer than it looks.",
+      "swedish": "Ärligt talat känns den här kön längre än den ser ut.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235069"
+    },
+    {
+      "english": "I’m trying to breathe, slow down, listen first.",
+      "swedish": "Jag försöker andas, sakta ner, lyssna först.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235072"
+    },
+    {
+      "english": "Sometimes I just need patience, not answers.",
+      "swedish": "Ibland behöver jag bara tålamod, inte svar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235074"
+    },
+    {
+      "english": "I keep reminding myself, it’ll work out.",
+      "swedish": "Jag påminner mig själv, det löser sig.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235077"
+    },
+    {
+      "english": "I’m grateful, even waiting feels purposeful today.",
+      "swedish": "Jag är tacksam, även väntan känns meningsfull idag.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235080"
+    },
+    {
+      "english": "I don’t have to rush my feelings.",
+      "swedish": "Jag behöver inte stressa mina känslor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235082"
+    },
+    {
+      "english": "If I’m unsure, I ask, then I relax.",
+      "swedish": "Om jag är osäker, frågar jag, sen slappnar jag av.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235085"
+    },
+    {
+      "english": "I admit, I’m a little overwhelmed right now.",
+      "swedish": "Jag måste erkänna, jag är lite överväldigad just nu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235087"
+    },
+    {
+      "english": "It’s okay to pause, even at the gate.",
+      "swedish": "Det är okej att stanna, även vid gaten.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235090"
+    },
+    {
+      "english": "I’m learning to trust calm, one step.",
+      "swedish": "Jag lär mig att lita på lugn, ett steg i taget.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235093"
+    },
+    {
+      "english": "My plan is simple, show up, stay kind.",
+      "swedish": "Min plan är enkel, kom fram, håll dig snäll.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235095"
+    },
+    {
+      "english": "I want to be honest, I’m homesick already.",
+      "swedish": "Jag vill vara ärlig, jag är redan hemlängt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235148"
+    },
+    {
+      "english": "I’m practicing patience, even when I’m tired.",
+      "swedish": "Jag tränar tålamod, även när jag är trött.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235153"
+    },
+    {
+      "english": "It helps to remember, plans can change gently.",
+      "swedish": "Det hjälper att komma ihåg, allt kan ändras mjukt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235155"
+    },
+    {
+      "english": "I feel brave, even with uncertainty around me.",
+      "swedish": "Jag känner mig modig, även med osäkerhet runt omkring.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235157"
+    },
+    {
+      "english": "I’m choosing focus, not spiraling thoughts.",
+      "swedish": "Jag väljer fokus, inte att fastna i tankar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235161"
+    },
+    {
+      "english": "I’ll take one question at a time, calmly.",
+      "swedish": "Jag tar en fråga i taget, lugnt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235164"
+    },
+    {
+      "english": "I’m proud I stayed polite, even stressed.",
+      "swedish": "Jag är stolt att jag var artig, även när jag var stressad.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235166"
+    },
+    {
+      "english": "I trust the moment, even if it’s messy.",
+      "swedish": "Jag litar på ögonblicket, även om det är rörigt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235169"
+    },
+    {
+      "english": "I need a quick reset, then I’ll act.",
+      "swedish": "Jag behöver en snabb reset, sen agerar jag.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235171"
+    },
+    {
+      "english": "I’m not rushing, I’m moving with intention.",
+      "swedish": "Jag stressar inte, jag rör mig med avsikt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235174"
+    },
+    {
+      "english": "I notice my mood, then I adjust.",
+      "swedish": "Jag märker mitt humör, sen justerar jag.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235176"
+    },
+    {
+      "english": "Travel makes me reflect, I grow in small ways.",
+      "swedish": "Resor får mig att reflektera, jag växer i små steg.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235178"
+    },
+    {
+      "english": "I’ll be kind to myself, airport days are tough.",
+      "swedish": "Jag ska vara snäll mot mig själv, flygplatsdagar är tuffa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235181"
+    },
+    {
+      "english": "Even if I miss something, I’ll recover.",
+      "swedish": "Även om jag missar något, så tar jag mig tillbaka.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235184"
+    },
+    {
+      "english": "I’m listening for signs, not just watching.",
+      "swedish": "Jag lyssnar efter tecken, inte bara tittar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235186"
+    },
+    {
+      "english": "Right now, I choose calm over speed.",
+      "swedish": "Just nu väljer jag lugn före fart.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235189"
+    },
+    {
+      "english": "I keep my expectations soft, and my heart open.",
+      "swedish": "Jag håller förväntningarna mjuka, och hjärtat öppet.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235191"
+    },
+    {
+      "english": "I’m grateful for help, even when I feel awkward.",
+      "swedish": "Jag är tacksam för hjälp, även när jag känner mig tafatt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235194"
+    },
+    {
+      "english": "I’m looking for my boarding gate, please.",
+      "swedish": "Jag letar efter min gaten för boarding, tack.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235198"
+    },
+    {
+      "english": "Do I need to queue here, or there?",
+      "swedish": "Ska jag köa här, eller där?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235200"
+    },
+    {
+      "english": "My flight is delayed, what’s the update?",
+      "swedish": "Mitt flyg är försenat, vad är uppdateringen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235203"
+    },
+    {
+      "english": "I have a connecting flight, how much time?",
+      "swedish": "Jag har en anslutningsflygning, hur lång tid?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T08:20:09.235205"
     }
   ],
-  "last_updated": "2026-11-09T07:44:57.585055"
+  "last_updated": "2026-11-10T08:20:09.235209"
 }
