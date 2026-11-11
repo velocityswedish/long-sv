@@ -13043,7 +13043,727 @@
       "swedish": "Jag har en anslutningsflygning, hur lång tid?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-10T08:20:09.235205"
+    },
+    {
+      "english": "You’ve got this, keep it simple.",
+      "swedish": "Du klarar det, håll det enkelt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905468"
+    },
+    {
+      "english": "Ready? Let’s do it right away.",
+      "swedish": "Redo? Vi kör direkt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905484"
+    },
+    {
+      "english": "Quick win first, then we scale up.",
+      "swedish": "Snabb vinst först, sen skalar vi upp.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905487"
+    },
+    {
+      "english": "Nice one, that’s a real step forward.",
+      "swedish": "Snyggt, det där är ett riktigt steg framåt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905491"
+    },
+    {
+      "english": "That’s the spirit, don’t stop yet.",
+      "swedish": "Så där ja, sluta inte än.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905507"
+    },
+    {
+      "english": "No panic, breathe, then continue.",
+      "swedish": "Ingen panik, andas, sen fortsätt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905512"
+    },
+    {
+      "english": "Okay, reset, try again calmly.",
+      "swedish": "Okej, nollställ, försök igen lugnt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905516"
+    },
+    {
+      "english": "Yes, perfect timing, go for it.",
+      "swedish": "Ja, perfekt timing, kör.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905523"
+    },
+    {
+      "english": "Good catch, that helps a lot.",
+      "swedish": "Bra fångat, det hjälper mycket.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905526"
+    },
+    {
+      "english": "I hear you, let’s make a plan.",
+      "swedish": "Jag fattar, låt oss göra en plan.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905529"
+    },
+    {
+      "english": "Let’s handle this, one small move now.",
+      "swedish": "Vi tar oss igenom det, en liten sak nu.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905532"
+    },
+    {
+      "english": "Great idea, try it today.",
+      "swedish": "Bra idé, testa den idag.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905534"
+    },
+    {
+      "english": "Small effort now, big results later.",
+      "swedish": "Lite jobb nu, stor effekt sen.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905537"
+    },
+    {
+      "english": "That’s interesting, tell me more.",
+      "swedish": "Det där var intressant, berätta mer.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905540"
+    },
+    {
+      "english": "Keep your momentum, don’t overthink.",
+      "swedish": "Håll farten, tänk inte för mycket.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905545"
+    },
+    {
+      "english": "You’re improving, I can see it.",
+      "swedish": "Du blir bättre, jag ser det.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905548"
+    },
+    {
+      "english": "Focus on outcomes, not excuses.",
+      "swedish": "Fokusera på resultat, inte ursäkter.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905550"
+    },
+    {
+      "english": "No stress, we’ve got options.",
+      "swedish": "Ingen stress, vi har alternativ.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905553"
+    },
+    {
+      "english": "Exactly, that’s the right move.",
+      "swedish": "Exakt, det där är rätt drag.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905555"
+    },
+    {
+      "english": "Alright, let’s make it happen.",
+      "swedish": "Okej, vi gör det nu.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905557"
+    },
+    {
+      "english": "Whew, we’re back on track.",
+      "swedish": "Pust, nu är vi tillbaka på spåret.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905560"
+    },
+    {
+      "english": "Thanks, that feedback was gold.",
+      "swedish": "Tack, den feedbacken var guld.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905562"
+    },
+    {
+      "english": "Good, you learned fast, keep going.",
+      "swedish": "Bra, du lär dig snabbt, fortsätt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905564"
+    },
+    {
+      "english": "Nice work, you’re showing up.",
+      "swedish": "Snyggt jobbat, du dyker upp.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905566"
+    },
+    {
+      "english": "Let’s not wait, now is the moment.",
+      "swedish": "Vi väntar inte, nu är läget.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905569"
+    },
+    {
+      "english": "Try again, it’s not over yet.",
+      "swedish": "Försök igen, det är inte över än.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905571"
+    },
+    {
+      "english": "That’s it, lock it in and move.",
+      "swedish": "Precis, lås fast det och gå.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905573"
+    },
+    {
+      "english": "I’m proud of you, seriously.",
+      "swedish": "Jag är stolt över dig, på riktigt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905577"
+    },
+    {
+      "english": "Make it clear, then act immediately.",
+      "swedish": "Gör det tydligt, sen agera direkt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905580"
+    },
+    {
+      "english": "All good, we’ll fix it together.",
+      "swedish": "Lugn, vi löser det tillsammans.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905582"
+    },
+    {
+      "english": "What should I prioritize today, really?",
+      "swedish": "Vad ska jag prioritera idag, på riktigt?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905584"
+    },
+    {
+      "english": "Can you suggest a simple first step?",
+      "swedish": "Kan du föreslå ett enkelt första steg?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905586"
+    },
+    {
+      "english": "How do you stay consistent, day to day?",
+      "swedish": "Hur håller du motivationen igång varje dag?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905589"
+    },
+    {
+      "english": "When is the best time to ask for help?",
+      "swedish": "När är det bäst att be om hjälp?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905591"
+    },
+    {
+      "english": "Could you help me map out my goal?",
+      "swedish": "Kan du hjälpa mig att sätta en plan?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905594"
+    },
+    {
+      "english": "What does success look like for you?",
+      "swedish": "Hur ser framgång ut för dig?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905596"
+    },
+    {
+      "english": "Should I focus on speed, or quality?",
+      "swedish": "Ska jag fokusera på tempo, eller kvalitet?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905598"
+    },
+    {
+      "english": "Which habit gives you the biggest payoff?",
+      "swedish": "Vilken vana ger dig mest tillbaka?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905600"
+    },
+    {
+      "english": "What question should I ask next?",
+      "swedish": "Vilken fråga ska jag ställa härnäst?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905602"
+    },
+    {
+      "english": "Do you think this plan is realistic?",
+      "swedish": "Tror du att planen är realistisk?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905604"
+    },
+    {
+      "english": "Where do you start, when things feel stuck?",
+      "swedish": "Var börjar du, när allt känns låst?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905606"
+    },
+    {
+      "english": "How can I make progress without burning out?",
+      "swedish": "Hur kan jag göra framsteg utan att bränna ut mig?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905608"
+    },
+    {
+      "english": "What’s your advice for staying confident?",
+      "swedish": "Vad är ditt råd för att hålla självförtroendet?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905611"
+    },
+    {
+      "english": "Can I get feedback, in plain words?",
+      "swedish": "Kan jag få feedback, i klara ord?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905613"
+    },
+    {
+      "english": "How do you handle setbacks, step by step?",
+      "swedish": "Hur tar du dig igenom motgångar, steg för steg?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905617"
+    },
+    {
+      "english": "What’s one thing you’d change immediately?",
+      "swedish": "Vad skulle du ändra direkt, om du kunde?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905620"
+    },
+    {
+      "english": "Can we talk through my next move?",
+      "swedish": "Kan vi prata igenom nästa steg?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905624"
+    },
+    {
+      "english": "How do you measure success week by week?",
+      "swedish": "Hur mäter du framgång från vecka till vecka?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905626"
+    },
+    {
+      "english": "What’s the real reason this matters to you?",
+      "swedish": "Vad är den verkliga anledningen för dig?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905628"
+    },
+    {
+      "english": "Who should I ask, for the right guidance?",
+      "swedish": "Vem ska jag fråga, för rätt vägledning?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905630"
+    },
+    {
+      "english": "Should I tell my plan to others?",
+      "swedish": "Ska jag berätta planen för andra?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905632"
+    },
+    {
+      "english": "What’s the smallest action that counts today?",
+      "swedish": "Vad är den minsta handlingen som räknas idag?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905635"
+    },
+    {
+      "english": "How do you stay focused when it gets noisy?",
+      "swedish": "Hur håller du fokus när det blir stökigt?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905637"
+    },
+    {
+      "english": "Can you help me turn this into a habit?",
+      "swedish": "Kan du hjälpa mig att göra detta till en vana?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905639"
+    },
+    {
+      "english": "What do you do after a bad day?",
+      "swedish": "Vad gör du efter en dålig dag?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905641"
+    },
+    {
+      "english": "Is it better to plan ahead, or react fast?",
+      "swedish": "Är det bättre att planera i förväg, eller reagera snabbt?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905644"
+    },
+    {
+      "english": "Which skill should I build first, for career growth?",
+      "swedish": "Vilken färdighet ska jag bygga först för karriärens skull?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905646"
+    },
+    {
+      "english": "Do you have a checklist for success?",
+      "swedish": "Har du en checklista för framgång?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905648"
+    },
+    {
+      "english": "How can I ask for help without feeling awkward?",
+      "swedish": "Hur frågar jag om hjälp utan att känna mig obekväm?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905650"
+    },
+    {
+      "english": "What would you do in my shoes today?",
+      "swedish": "Vad skulle du göra i mina skor idag?",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905652"
+    },
+    {
+      "english": "Keep it simple, do it today.",
+      "swedish": "Håll det enkelt, gör det idag.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905654"
+    },
+    {
+      "english": "Small steps count, every single day.",
+      "swedish": "Små steg räknas, varje dag.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905656"
+    },
+    {
+      "english": "Do it, before motivation runs out.",
+      "swedish": "Gör det, innan motivationen tar slut.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905660"
+    },
+    {
+      "english": "Trust the process, not the mood.",
+      "swedish": "Lita på processen, inte på humöret.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905662"
+    },
+    {
+      "english": "Ship it, just start already.",
+      "swedish": "Skicka iväg, börja bara.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905665"
+    },
+    {
+      "english": "Don’t overthink, take the next step.",
+      "swedish": "Över­tänk inte, ta nästa steg.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905669"
+    },
+    {
+      "english": "Lock in the plan, then go.",
+      "swedish": "Spika planen, sen kör.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905671"
+    },
+    {
+      "english": "Do the boring part first, win faster.",
+      "swedish": "Ta tråkiga delen först, vinn snabbare.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905673"
+    },
+    {
+      "english": "Consistency beats talent, plain and simple.",
+      "swedish": "Tålamod och rutin slår talang, enkelt sagt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905676"
+    },
+    {
+      "english": "You’ll figure it out as you go.",
+      "swedish": "Du löser det längs vägen.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905678"
+    },
+    {
+      "english": "Better late than never, start now.",
+      "swedish": "Hellre sent än aldrig, börja nu.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905680"
+    },
+    {
+      "english": "Focus on what works, cut the rest.",
+      "swedish": "Fokusera på det som funkar, skär bort resten.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905683"
+    },
+    {
+      "english": "No drama, just actions and results.",
+      "swedish": "Inga krusiduller, bara handling och resultat.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905685"
+    },
+    {
+      "english": "Show up, even when it’s tough.",
+      "swedish": "Dyka upp, även när det är tufft.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905687"
+    },
+    {
+      "english": "One try, then adjust, keep moving.",
+      "swedish": "Ett försök, sen justera, fortsätt.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905689"
+    },
+    {
+      "english": "Turn talk into work, not excuses.",
+      "swedish": "Gör om snack till jobb, inga ursäkter.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905691"
+    },
+    {
+      "english": "Set a goal, then follow through.",
+      "swedish": "Sätt ett mål, sen fullfölj.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905693"
+    },
+    {
+      "english": "Aim high, but start small today.",
+      "swedish": "Sikta högt, men börja smått idag.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905695"
+    },
+    {
+      "english": "Results come from reps, not vibes.",
+      "swedish": "Resultat kommer av träning, inte känsla.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905699"
+    },
+    {
+      "english": "Keep going, the finish is closer.",
+      "swedish": "Bara fortsätt, målet är närmare.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905701"
+    },
+    {
+      "english": "When it’s unclear, ask and clarify.",
+      "swedish": "När det är oklart, fråga och klargör.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905704"
+    },
+    {
+      "english": "Make it measurable, then track it.",
+      "swedish": "Gör det mätbart, sen följ upp.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905706"
+    },
+    {
+      "english": "Don’t let fear drive, let facts drive.",
+      "swedish": "Låt inte rädslan styra, låt fakta styra.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905710"
+    },
+    {
+      "english": "You’re allowed to be a beginner.",
+      "swedish": "Det är okej att vara nybörjare.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905712"
+    },
+    {
+      "english": "Be your own coach, stay kind.",
+      "swedish": "Var din egen coach, var snäll.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905714"
+    },
+    {
+      "english": "Pick one thing, commit, then repeat.",
+      "swedish": "Välj en sak, kör på, sen upprepa.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905716"
+    },
+    {
+      "english": "Move first, clarity follows after.",
+      "swedish": "Gör först, klarhet kommer sen.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905718"
+    },
+    {
+      "english": "Keep your eyes on the goal.",
+      "swedish": "Håll blicken på målet.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905720"
+    },
+    {
+      "english": "Make progress, even if it’s tiny.",
+      "swedish": "Gör framsteg, även om det är smått.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905723"
+    },
+    {
+      "english": "Don’t quit yet, you’re closer than you think.",
+      "swedish": "Ge inte upp ännu, du är närmare än du tror.",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905726"
+    },
+    {
+      "english": "I feel nervous, but I’m doing it anyway,",
+      "swedish": "Jag känner mig nervös, men jag gör det ändå,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905729"
+    },
+    {
+      "english": "My goals matter, even on tired days,",
+      "swedish": "Mina mål betyder något, även på trötta dagar,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905731"
+    },
+    {
+      "english": "Patience is strength, not wasted time,",
+      "swedish": "Tålamod är styrka, inte slösad tid,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905733"
+    },
+    {
+      "english": "I don’t chase hype, I chase clarity,",
+      "swedish": "Jag jagar ingen hype, jag jagar klarhet,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905736"
+    },
+    {
+      "english": "When doubt hits, I slow down, breathe,",
+      "swedish": "När tvivel kommer, jag saktar ner, andas,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905738"
+    },
+    {
+      "english": "Honestly, I need gentle progress,",
+      "swedish": "Ärligt talat behöver jag mjuk utveckling,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905740"
+    },
+    {
+      "english": "I can be proud, and still improve,",
+      "swedish": "Jag kan vara stolt, och ändå förbättra,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905742"
+    },
+    {
+      "english": "I listen to my body, then act,",
+      "swedish": "Jag lyssnar på min kropp, sen agerar,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905745"
+    },
+    {
+      "english": "I’m allowed to feel it, then move,",
+      "swedish": "Jag får känna det, och ändå gå vidare,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905747"
+    },
+    {
+      "english": "I don’t need perfect, I need honest practice,",
+      "swedish": "Jag behöver inte perfekt, jag behöver ärlig träning,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905751"
+    },
+    {
+      "english": "Sometimes success is quiet, and that’s fine,",
+      "swedish": "Ibland är framgång tyst, och det är okej,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905754"
+    },
+    {
+      "english": "I reflect first, action comes after,",
+      "swedish": "Jag reflekterar först, sen kommer handling,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905756"
+    },
+    {
+      "english": "I forgive setbacks, then choose the next step,",
+      "swedish": "Jag förlåter motgångar, sen väljer jag nästa steg,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905758"
+    },
+    {
+      "english": "No shame, just notes for my future self,",
+      "swedish": "Ingen skam, bara anteckningar för mitt framtida jag,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905761"
+    },
+    {
+      "english": "I can’t control everything, so I focus,",
+      "swedish": "Jag kan inte styra allt, så jag fokuserar,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905763"
+    },
+    {
+      "english": "My feelings guide me, not stop me,",
+      "swedish": "Mina känslor vägleder mig, inte stoppar mig,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905765"
+    },
+    {
+      "english": "I’m learning, even when it feels slow,",
+      "swedish": "Jag lär mig, även när det känns långsamt,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905767"
+    },
+    {
+      "english": "I check in with myself, then adjust gently,",
+      "swedish": "Jag stämmer av med mig själv, sen justerar,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905770"
+    },
+    {
+      "english": "I’m not behind, I’m in my process,",
+      "swedish": "Jag är inte efter, jag är i min process,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905772"
+    },
+    {
+      "english": "I keep my promise, even to myself,",
+      "swedish": "Jag håller mitt löfte, även till mig själv,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905774"
+    },
+    {
+      "english": "Grief can exist, and work can continue,",
+      "swedish": "Sorg kan finnas, och jobbet kan fortsätta,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905777"
+    },
+    {
+      "english": "I choose effort, even when motivation is low,",
+      "swedish": "Jag väljer ansträngning, även när motivationen är låg,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905779"
+    },
+    {
+      "english": "I talk kindly to me, then I act,",
+      "swedish": "Jag pratar snällt med mig, sen gör jag det,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905781"
+    },
+    {
+      "english": "I don’t need more pressure, I need clarity,",
+      "swedish": "Jag behöver ingen press, jag behöver klarhet,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905784"
+    },
+    {
+      "english": "Today, I’ll be brave with small honesty,",
+      "swedish": "Idag är jag modig med liten ärlighet,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905786"
+    },
+    {
+      "english": "I honor my pace, and still build momentum,",
+      "swedish": "Jag respekterar mitt tempo, och bygger ändå fart,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905788"
+    },
+    {
+      "english": "I learn from silence, then decide,",
+      "swedish": "Jag lär av tystnad, sen bestämmer jag,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905791"
+    },
+    {
+      "english": "I can want success, and admit fear,",
+      "swedish": "Jag kan vilja ha framgång, och erkänna rädsla,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905793"
+    },
+    {
+      "english": "I keep a calm mind, then start small,",
+      "swedish": "Jag håller ett lugnt huvud, sen börjar jag smått,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905795"
+    },
+    {
+      "english": "My next win is just one honest effort,",
+      "swedish": "Min nästa vinst är bara en ärlig insats,",
+      "category": "Success",
+      "generated_at": "2026-11-11T07:36:03.905797"
     }
   ],
-  "last_updated": "2026-11-10T08:20:09.235209"
+  "last_updated": "2026-11-11T07:36:03.905799"
 }
