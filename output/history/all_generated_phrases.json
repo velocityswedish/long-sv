@@ -13763,7 +13763,399 @@
       "swedish": "Min nästa vinst är bara en ärlig insats,",
       "category": "Success",
       "generated_at": "2026-11-11T07:36:03.905797"
+    },
+    {
+      "english": "I can handle this delay.",
+      "swedish": "Jag klarar av den här förseningen.",
+      "transliteration": "jag KLAR-ar av den HAR för-SEN-ingen",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Give it time, not pressure.",
+      "swedish": "Ge det tid, inte press.",
+      "transliteration": "GE DET tid, inte PRESs",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let me try again later.",
+      "swedish": "Jag kan försöka igen senare.",
+      "transliteration": "jag kan FÖR-söka IGEN se-NARE",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Stay kind while it takes longer.",
+      "swedish": "Var snäll medan det tar lite längre tid.",
+      "transliteration": "VAR SNÄLL med-an det TAR li-te LÄNG-re TID",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Trouble passes, I keep steady.",
+      "swedish": "Det svåra går över, jag håller mig lugn.",
+      "transliteration": "DET SVÅ-ra går Ö-ver, jag HÅL-ler mig lugn",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I won't text again right now.",
+      "swedish": "Jag skickar inget meddelande igen nu.",
+      "transliteration": "jag S-KICK-ar IN-GET med-DELAN-de IGEN NU",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "My pace is allowed to be slow.",
+      "swedish": "Jag får ha min egen takt, i lugnare tempo.",
+      "transliteration": "jag FÅR ha min E-gen TAKT, i LUGN-are TEM-po",
+      "category": "Patience",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Say it, I forgive you, today",
+      "swedish": "Säg det, jag förlåter dig, idag",
+      "transliteration": "Säg det, JAG FÖRLÅTER dig, IDAG",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Forgive, then set your boundary",
+      "swedish": "Förlåt, och sätt en gräns",
+      "transliteration": "FÖRLÅT, och SÄTT en GRÄNS",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let it soften your next response",
+      "swedish": "Låt det mjukna i ditt nästa svar",
+      "transliteration": "LÅt det MJUKna i ditt NÄSTA Svar",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "You can forgive and still be cautious",
+      "swedish": "Du kan förlåta, och ändå vara försiktig",
+      "transliteration": "Du kan FÖRLÅTA, och ÄNDÅ vara FÖRSIKTIG",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I won’t punish you in my mind",
+      "swedish": "Jag tänker inte straffa dig i mitt huvud",
+      "transliteration": "JAG TÄNKER inte STRAFFA dig i MITT HUVUD",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Choose calm, not revenge",
+      "swedish": "Välj lugn, inte hämnd",
+      "transliteration": "VÄLJ LUGN, inte HÄMND",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Take back your power through forgiveness",
+      "swedish": "Ta tillbaka din kraft genom förlåtelse",
+      "transliteration": "TA tillbaka din KRAFT genom FÖRLÅTELSE",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I can handle this, right now.",
+      "swedish": "Jag klarar det här, precis nu.",
+      "transliteration": "JAG KLARAR det HÄR, PRECIS nu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "My pace is enough, always.",
+      "swedish": "Min takt räcker, alltid.",
+      "transliteration": "Min TAKT räcker, ALLTID.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I belong here, I really do.",
+      "swedish": "Jag hör hemma här, det gör jag.",
+      "transliteration": "JAG HÖR hem-ma HÄR, det GÖR jag.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I choose brave over perfect.",
+      "swedish": "Jag väljer mod framför perfektion.",
+      "transliteration": "JAG VÄLJER mod FRAMFÖR per-FEKtion.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Ask again, I can try.",
+      "swedish": "Jag kan fråga igen, och prova.",
+      "transliteration": "JAG kan FRÅGA iGEN, och PROVA.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I speak up, even if nervous.",
+      "swedish": "Jag säger till, även när jag är nervös.",
+      "transliteration": "JAG SÄGER till, ÄVEN när jag ÄR NER-vös.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "No one owns my confidence.",
+      "swedish": "Ingen bestämmer över min självkänsla.",
+      "transliteration": "IN-gen BES-TÄMMER ö-ver min SJÄL-känsla.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Say no, and mean it kindly",
+      "swedish": "Säg nej, och mena det vänligt",
+      "transliteration": "SÄG nej, OCH MENA det VÄNLIGT",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let your body choose calm",
+      "swedish": "Låt kroppen välja lugn",
+      "transliteration": "LÅT KROPpen VÄLJA LUGN",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Hold on, even when it's messy",
+      "swedish": "Håll ut, även när allt är rörigt",
+      "transliteration": "HÅLL UT, ÄVEN när ALLT är RÖRIGT",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Choose the next right action",
+      "swedish": "Välj nästa rätta handling",
+      "transliteration": "VÄLJ nÄSTA RÄTTA HANDling",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Strength is kindness, done daily",
+      "swedish": "Styrka är omtanke, gjort varje dag",
+      "transliteration": "STYRKA är OMtanke, GJORT VARJE DAG",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Make room for recovery, no shame",
+      "swedish": "Ge utrymme åt återhämtning, utan skam",
+      "transliteration": "GE UTRYMME åt ÅTERhämtning, UTAN SKAM",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Do it scared, then breathe",
+      "swedish": "Gör det rädd, och andas",
+      "transliteration": "GÖR det RÄDD, och ANDAS",
+      "category": "Strength",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Hi, I need to book today",
+      "swedish": "Hej, jag vill boka en tid idag",
+      "transliteration": "HEJ, jaG vill BOOKa en tid i DAG",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I have a prescription, where do I pick it up?",
+      "swedish": "Jag har ett recept, var hämtar jag ut det?",
+      "transliteration": "jag HAR ett reCEPT, var HÄMtar jaG UT det",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Can you check if this is available?",
+      "swedish": "Kan du kolla om den finns i lager?",
+      "transliteration": "KAN du KOLla om den finns i LÅger",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "The pharmacist helped me choose the right dose",
+      "swedish": "Apotekaren hjälpte mig att välja rätt dos",
+      "transliteration": "aPOteKARen JÄLPte mig att VÄLja RÄT dos",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Is it covered by my insurance here?",
+      "swedish": "Gäller det mitt högkostnadsskydd?",
+      "transliteration": "GÄLler det MITT HÖGkostnadsSKYDD",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I’m worried it might interact with my meds",
+      "swedish": "Jag är orolig för att det kan krocka med mina läkemedel",
+      "transliteration": "jaG är ORo lig för att det kan KROcka med MIna LÄkeMEdel",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Do I need an appointment for a checkup?",
+      "swedish": "Måste jag boka tid för en kontroll?",
+      "transliteration": "MÅSTE jaG BOka tid för en KONTroll",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I can handle this, one breath",
+      "swedish": "Jag klarar det här, ett andetag i taget.",
+      "transliteration": "Jag KLARAR det HAR, ett ANDEtag i TAget.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Notice three good things today",
+      "swedish": "Lägg märke till tre bra saker idag.",
+      "transliteration": "LÄGG märke TILL TRE bra SAker IDag.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "My future self will thank me",
+      "swedish": "Min framtida jag kommer tacka mig.",
+      "transliteration": "MIN FRAMtida JAG komMER TACKA mig.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Say yes to the next right step",
+      "swedish": "Säg ja till nästa rätta steg.",
+      "transliteration": "SÄG ja TILL nästa RÄTta STeg.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Choose effort, not perfection",
+      "swedish": "Välj ansträngning, inte perfektion.",
+      "transliteration": "VÄLJ ANSTRÄNGning, INTE perFEKtion.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I speak to myself with respect",
+      "swedish": "Jag pratar med mig själv med respekt.",
+      "transliteration": "JAG PRAtar med mig SJÄLV med RESpekt.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let gratitude soften the hard moments",
+      "swedish": "Låt tacksamhet mjuka upp de tuffa stunderna.",
+      "transliteration": "LÅT TACKsamhet MJUKa upp de TUffa STUNderna.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let’s pick a day that works",
+      "swedish": "Låt oss välja en dag som funkar",
+      "transliteration": "LÅt oss VÄLja en DAG som FUNkar",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "What time should we meet?",
+      "swedish": "Vilken tid ska vi ses?",
+      "transliteration": "VILken tid SKA vi seS",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I’ll send you options later",
+      "swedish": "Jag skickar alternativ till dig senare",
+      "transliteration": "JAG skicKar ALternativ tiLL dig SENare",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Can we book a table tonight?",
+      "swedish": "Kan vi boka ett bord i kväll?",
+      "transliteration": "KAN vi BOka ett BORD i KVÄLL",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "I need to check my calendar",
+      "swedish": "Jag måste kolla min kalender",
+      "transliteration": "JAG MÅste kOlla min KALender",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let’s make it an early evening",
+      "swedish": "Vi tar det som en tidig kväll",
+      "transliteration": "vi TAR det som en TIDig KVÄLL",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Do we have a plan B?",
+      "swedish": "Har vi ett plan B",
+      "transliteration": "har vi ett plan B",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Check in, no pressure, just care.",
+      "swedish": "Kolla läget, utan press, bara omtanke.",
+      "transliteration": "KOL-la LÄ-get, UTAN PRESS, BA-ra OM-TAN-ke",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "You bring me peace when life hits.",
+      "swedish": "Du ger mig lugn när livet skakar.",
+      "transliteration": "Du GER mig LUGN när LI-vet SKA-kar",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Thanks for being my safe person.",
+      "swedish": "Tack för att du är min trygga person.",
+      "transliteration": "TACK för att DU är min TRYG-ga PER-son",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "We talk, we heal, we move on.",
+      "swedish": "Vi pratar, vi läker, vi går vidare.",
+      "transliteration": "Vi PRÅ-tar, vi LÄK-er, vi GÅR vi-DARE",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Call me, I’ll stay with you.",
+      "swedish": "Ring mig, jag stannar hos dig.",
+      "transliteration": "RING mig, jag STAN-nar hos DIG",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Friends tell the truth with kindness.",
+      "swedish": "Vänner säger sanningen med vänlighet.",
+      "transliteration": "VÄN-ner SÄ-ger SAN-nin-gen med VÄN-lig-het",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Let’s celebrate wins, even small ones.",
+      "swedish": "Vi firar dina vinster, även de små.",
+      "transliteration": "Vi FIR-ar DI-na VIN-ster, E.VEN de SMÅ",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T22:53:48.871730"
     }
   ],
-  "last_updated": "2026-11-11T07:36:03.905799"
+  "last_updated": "2026-11-12T22:53:48.871730"
 }
