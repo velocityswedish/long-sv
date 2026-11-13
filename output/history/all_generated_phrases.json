@@ -14155,7 +14155,399 @@
       "transliteration": "Vi FIR-ar DI-na VIN-ster, E.VEN de SMÅ",
       "category": "Friendship",
       "generated_at": "2026-11-12T22:53:48.871730"
+    },
+    {
+      "english": "Hey, what’s up, though?",
+      "swedish": "Hallå, hur är läget då?",
+      "transliteration": "HALLÅ, hur ÄR läget DÅ?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m on my way, be ready.",
+      "swedish": "Jag är på väg, håll dig redo.",
+      "transliteration": "JAG är PÅ VÄG, HÅLL dig REdo.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m broke, can I pay later?",
+      "swedish": "Jag är pank, kan jag betala sen?",
+      "transliteration": "JAG är PANK, kan JAG BETALA SEN?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Nice, that works for me.",
+      "swedish": "Toppen, det funkar för mig.",
+      "transliteration": "TOPpen, DET FUNkar för MIG.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Cool, see you in a bit.",
+      "swedish": "Nice, vi ses snart.",
+      "transliteration": "NICE, vi SES SNART.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Wait, what did you say?",
+      "swedish": "Vänta, vad sa du?",
+      "transliteration": "VÄNta, VAD sa DU?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’ll text you right after this.",
+      "swedish": "Jag sms:ar dig direkt efter det här.",
+      "transliteration": "JAG sms:AR dig DIREKT EFter det HÄR.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Can I get a table for two?",
+      "swedish": "Kan jag få ett bord för två, tack?",
+      "transliteration": "KAN jag få ETT BORD för TVÅ, tack?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "What do you recommend tonight?",
+      "swedish": "Vad rekommenderar du ikväll?",
+      "transliteration": "VAD reKOM-menDERAR du IK-väll?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Is there gluten-free bread?",
+      "swedish": "Finns det glutenfritt bröd?",
+      "transliteration": "FINNS det GLU-ten-FRItt BRÖD?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "No onions, please.",
+      "swedish": "Inga lökar, tack.",
+      "transliteration": "IN-ga LÖK-ar, tack.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m allergic to peanuts.",
+      "swedish": "Jag är allergisk mot jordnötter.",
+      "transliteration": "JAG är AL-ler-gisk mot JORD-nöt-ter.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Could I see the menu, please?",
+      "swedish": "Kan jag få titta på menyn, tack?",
+      "transliteration": "KAN jag få TIT-ta på ME-nyN, tack?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Do you have vegetarian lasagna?",
+      "swedish": "Har ni vegetarisk lasagne?",
+      "transliteration": "HAR ni veGE-taRISK laSA-nya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Call 112 right now, please",
+      "swedish": "Ring 112 nu, snälla",
+      "transliteration": "RING 112 NU, SNÄLLA",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Is someone breathing normally?",
+      "swedish": "Andas personen normalt?",
+      "transliteration": "AN-DAS PER-SO-nen NOR-MALT?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I think this is a heart attack",
+      "swedish": "Jag tror att det är en hjärtattack",
+      "transliteration": "JAG TROR ATT DET ÄR EN JÄRT-ATACK",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Do you have an allergy?",
+      "swedish": "Har du någon allergi?",
+      "transliteration": "HAR DU NÅGON AL-LER-GI?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "My chest feels tight, help",
+      "swedish": "Mitt bröst känns spänt, hjälp",
+      "transliteration": "MITT BRÖST KÄNNS SPÄNT, HJÄLP",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Stop the bleeding with pressure",
+      "swedish": "Tryck hårt för att stoppa blödningen",
+      "transliteration": "TRYCK HÅRT FÖR ATT STOPPA BLÖD-NIN-GEN",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I might have broken my arm",
+      "swedish": "Jag kan ha brutit armen",
+      "transliteration": "JAG KAN HA BRU-TIT AR-MEN",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Hi, it’s Emma, can you talk?",
+      "swedish": "Hej, det är Emma, kan du prata?",
+      "transliteration": "hej, det ÄR EM-ma, kan du PRA-ta?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m calling about your delivery.",
+      "swedish": "Jag ringer om din leverans.",
+      "transliteration": "jag RIN-ger om din LE-ve-rans.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Could you call me back today?",
+      "swedish": "Kan du ringa tillbaka till mig idag?",
+      "transliteration": "kan du RING-a til-ba-ka till MIG i-DAG?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I missed your call, sorry.",
+      "swedish": "Jag missade ditt samtal, förlåt.",
+      "transliteration": "jag mis-sa-de DITT SAM-tal, FÖR-LÅT.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Where are you right now?",
+      "swedish": "Var är du just nu?",
+      "transliteration": "VAR ÄR du just NU?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’ll be there in ten minutes.",
+      "swedish": "Jag är där om tio minuter.",
+      "transliteration": "jag ÄR där OM TIO MI-nu-ter.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Can we reschedule for tomorrow?",
+      "swedish": "Kan vi boka om till imorgon?",
+      "transliteration": "kan vi BO-ka OM till i-MOR-gon?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Want to grab coffee after work?",
+      "swedish": "Vill du ta en kaffe efter jobbet?",
+      "transliteration": "VILL du ta EN kaf fe ef ter JO-bet?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I love your laugh, it’s contagious.",
+      "swedish": "Jag gillar ditt skratt, det smittar.",
+      "transliteration": "JAG gILL-er ditt SKRATT, det SMIT-tar.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "We should do something this weekend.",
+      "swedish": "Vi borde hitta på något i helgen.",
+      "transliteration": "vi BOR-de HIN-da PÅ nåt i HEL-gen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Are you free for a quick drink?",
+      "swedish": "Är du ledig för en snabb drink?",
+      "transliteration": "ÄR du LE-dig för en SNAB-b DRINK?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "No pressure, just want to see you.",
+      "swedish": "Ingen press, jag vill bara ses.",
+      "transliteration": "IN-gen PRESS, jag VILL ba-ra SES.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m glad we matched on here.",
+      "swedish": "Jag är glad att vi matchade här.",
+      "transliteration": "JAG är GLAD att vi MACH-a de HÄR.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Can I walk you home tonight?",
+      "swedish": "Kan jag gå dig hem i kväll?",
+      "transliteration": "kan JAG gå DIG hem i KVÄLL?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Let’s toast to good news tonight.",
+      "swedish": "Låt oss skåla för goda nyheter ikväll.",
+      "transliteration": "Låt oss SKÅ-la för GÓ-da NY-he-ter IK-väll.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Are you coming to the house party?",
+      "swedish": "Kommer du till fest hemma hos oss?",
+      "transliteration": "KOM-mer du till FEST HEM-ma hos OSS?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I brought sparkling cider for everyone.",
+      "swedish": "Jag tog med mousserande cider till alla.",
+      "transliteration": "Jag TOG med MOU-sse-ran-de SI-deR till AL-la.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Tonight we celebrate my friend’s promotion!",
+      "swedish": "Ikväll firar vi min väns befordran.",
+      "transliteration": "IK-väll FIR-ar vi min VÄNS beFORD-ran.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "This cake is amazing, seriously.",
+      "swedish": "Den här tårtan är helt otrolig, på riktigt.",
+      "transliteration": "den HÄR TÅR-tan är HELT oTRO-lig, på RIK-tigt.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Should I bring balloons or plates?",
+      "swedish": "Ska jag ta med ballonger eller tallrikar?",
+      "transliteration": "SKA jag ta med BAL-lon-ger el-ler TALL-ri-kar?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Thanks for inviting me, I’m excited.",
+      "swedish": "Tack för att du bjöd in mig, jag är supertaggad.",
+      "transliteration": "TACK för att du BJÖD in mig, jag är SUP-er-TAG-gad.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Choose kindness, even when you're tired.",
+      "swedish": "Välj vänlighet, även när du är trött.",
+      "transliteration": "Välj VÄNlighet, ÄVEN när du är TRÖTT.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Before reacting, breathe and count to three.",
+      "swedish": "Innan du reagerar, andas och räkna till tre.",
+      "transliteration": "INnan du reAGERar, ANdas och RÄKna till TRE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Protect your attention like your money.",
+      "swedish": "Skydda din uppmärksamhet som dina pengar.",
+      "transliteration": "SKYDda din uppMÄRKsamhet som diNA PENGar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Ask better questions, get better days.",
+      "swedish": "Ställ bättre frågor, få bättre dagar.",
+      "transliteration": "STÄLL bÄTTre FRÅgor, FÅ bÄTTre DAGar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Say it clearly, you’ll sleep easier.",
+      "swedish": "Säg det tydligt, då sover du lättare.",
+      "transliteration": "SÄG det TYDligt, DÅ soVER du LÄttare.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Win with words, not with volume.",
+      "swedish": "Vinn med ord, inte med volym.",
+      "transliteration": "VINn med ORd, INte med VÖlym.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Keep promises, even the small ones.",
+      "swedish": "Håll dina löften, även de små.",
+      "transliteration": "HÅLL diNA LÖFten, ÄVEN de SMÅ.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I need this for work tomorrow",
+      "swedish": "Jag behöver det till jobbet imorgon.",
+      "transliteration": "Jag NEHDER det till JOBbet IMORgon.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "What is the purpose of this?",
+      "swedish": "Vad är syftet med det här?",
+      "transliteration": "VA är SYFtet med det HAR?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m here to get help, please",
+      "swedish": "Jag är här för att få hjälp, snälla.",
+      "transliteration": "Jag är HÄR för att FÅ HJÄLP, SNÄLLA.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Can you explain why, simply?",
+      "swedish": "Kan du förklara varför, enkelt?",
+      "transliteration": "KAN du FÖRklara VARför, ENKELT?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Tell me the reason, in Swedish",
+      "swedish": "Berätta skälet, på svenska.",
+      "transliteration": "BÄRätta SKÄlet, på SVENSka.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "I’m trying to make friends",
+      "swedish": "Jag försöker skaffa nya vänner.",
+      "transliteration": "Jag FÖRsöker SKaffa nya VÄNner.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "My goal is confidence, not perfection",
+      "swedish": "Mitt mål är självförtroende, inte perfektion.",
+      "transliteration": "MITt MÅL är SJValförtroende, INTE perFEKtion.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:52:11.957841"
     }
   ],
-  "last_updated": "2026-11-12T22:53:48.871730"
+  "last_updated": "2026-11-13T22:52:11.957841"
 }

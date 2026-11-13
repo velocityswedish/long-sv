@@ -79,7 +79,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-12"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T22:53:48.880967"
+  "last_updated": "2026-11-13T22:52:11.970179"
 }
