@@ -14547,7 +14547,399 @@
       "transliteration": "MITt MÅL är SJValförtroende, INTE perFEKtion.",
       "category": "Purpose",
       "generated_at": "2026-11-13T22:52:11.957841"
+    },
+    {
+      "english": "Hi! Are you from around here?",
+      "swedish": "Hej! Är du från stan?",
+      "transliteration": "HEY! Är du FRÅn stan?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Great to meet you in person.",
+      "swedish": "Jätteroligt att träffas på riktigt.",
+      "transliteration": "JÄTTERO-LiGt att TRÄf-fas på RIK-tig",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "What’s your name, sorry, I missed it?",
+      "swedish": "Vad heter du, förlåt, jag missade det?",
+      "transliteration": "VAD HE-ter DU, för-LÅT, jag MIS-sade DET?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Let me introduce myself, I’m Emma.",
+      "swedish": "Jag vill presentera mig, jag heter Emma.",
+      "transliteration": "JAG vill pre-SEN-te-ra mig, jag HET-er EM-ma",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Nice to see you, it’s been ages.",
+      "swedish": "Vad kul att se dig, det var längesen.",
+      "transliteration": "VAD KUL att SE dig, det var LÄN-ge-sen",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Can I sit here, or is it taken?",
+      "swedish": "Får jag sitta här, eller är den upptagen?",
+      "transliteration": "FÅR jag SIT-ta HÄR, el-ler är den upp-TAG-en?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Thanks for inviting me, I’m so glad.",
+      "swedish": "Tack för att du bjöd in mig, jag är jätteglad.",
+      "transliteration": "TACK för att du BYOD in MIG, jag är JÄT-teGLAD",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Swallow, unclench, and soften right now",
+      "swedish": "Svälj, slappna av, och mjukna just nu",
+      "transliteration": "SWÄLJ, slappna AV, och MJUKNA just NU",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Notice the breath at your nostrils",
+      "swedish": "Känn efter andningen vid näsborrarna",
+      "transliteration": "KÄNN efter andningen VID NÄSBORRARna",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Relax your jaw, feel space open",
+      "swedish": "Lossa käken, och känn plats öppnas",
+      "transliteration": "LOSSA KÄKEN, och KÄNN plats ÖPPnas",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Let your thoughts slow down, gently",
+      "swedish": "Låt tankarna sakta ner, vänligt",
+      "transliteration": "LÅT TANkarna SAKta NE R, VÄNLIGT",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Name what you feel, then breathe",
+      "swedish": "Sätt ord på det du känner, och andas",
+      "transliteration": "SÄTT ord på DET du KÄNNER, och ANdas",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Catch yourself wandering, then return",
+      "swedish": "Fånga när du vandrar iväg, och kom tillbaka",
+      "transliteration": "FÅNGA när du VANdrar I VÄG, och KOM tillbaka",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Feel your hands resting, heavy and warm",
+      "swedish": "Känn händerna vila, tunga och varma",
+      "transliteration": "KÄNN HÄNDERna VILA, TUNga och VARMA",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I’m sore, but I feel stronger",
+      "swedish": "Jag är öm, men jag känner mig starkare",
+      "transliteration": "yeh är ÖM, men jAg kÄnner mig STARKare",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Can we run at a steady pace?",
+      "swedish": "Kan vi springa i jämnt tempo?",
+      "transliteration": "kan vi SPRIngA ee YA mnt TEMpo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I need to warm up first",
+      "swedish": "Jag måste värma upp först",
+      "transliteration": "jAg MÅs te VÄrma OP FÖrst",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "How long is the gym membership?",
+      "swedish": "Hur lång är gymkortet?",
+      "transliteration": "hur LÅng är JEEmkortet",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Show me the right way to squat",
+      "swedish": "Visa mig hur man knäböjer rätt",
+      "transliteration": "VISa miG hur man CHEH-bÖjer REHT",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I’ll stretch for five minutes after",
+      "swedish": "Jag ska stretcha i fem minuter efteråt",
+      "transliteration": "jAg ska STREtcha ee fem MINuter efTERÅt",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "My watch says my heart rate’s high",
+      "swedish": "Min klocka säger att min puls är hög",
+      "transliteration": "min KLOcka SÄjer at min PULS är HÖG",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Excuse me, where is the pharmacy?",
+      "swedish": "Ursäkta mig, var ligger apoteket?",
+      "transliteration": "ursäkta MIG, var LIGger a-po-TEKet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "swedish": "Hur tar jag mig till tågstationen?",
+      "transliteration": "HUR tar jag MIG till tÅg-staTionen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "swedish": "Finns det en busshållplats i närheten?",
+      "transliteration": "FINs det en BUSS-håLLplats i NÄrheten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Can you point me to the museum?",
+      "swedish": "Kan du peka mig till museet?",
+      "transliteration": "kan du PE-ka MIG till MUSEet?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Which way is the city center?",
+      "swedish": "Vilken väg går till centrum?",
+      "transliteration": "VILken VÄG går till CENTrum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "How far is it to the bank?",
+      "swedish": "Hur långt är det till banken?",
+      "transliteration": "HUR LÅngt är det till BANken?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "What street is this, exactly?",
+      "swedish": "Vad heter gatan här?",
+      "transliteration": "VAD he-ter GA-tan HÄR?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Small steps beat waiting for confidence.",
+      "swedish": "Små steg slår att vänta på självförtroende.",
+      "transliteration": "SMÅ steg slår att VÄNTA på SJÄLVFÖRTROENDE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Make a plan, then start messy.",
+      "swedish": "Gör en plan, och börja ändå, lite rörigt.",
+      "transliteration": "GÖR en PLAN, och BÖRJA ÄNDÅ, lite RÖRIGT.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "One conversation today, even if imperfect.",
+      "swedish": "En konversation i dag, även om den inte blir perfekt.",
+      "transliteration": "EN konversation i DAG, även om den INTE blir PERFEKT.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "You don’t need motivation, just a routine.",
+      "swedish": "Du behöver inte motivation, bara en rutin.",
+      "transliteration": "du BEHÖVER inte MOTIVATION, bara en RUUTIN.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Celebrate effort, not flawless results.",
+      "swedish": "Fira ansträngningen, inte perfekta resultat.",
+      "transliteration": "FIRA ANSTRÄNGNINGEN, inte PERFEKTA reSULTAT.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I’ll learn from every wrong turn.",
+      "swedish": "Jag lär mig av varje fel vägval.",
+      "transliteration": "JAG LÄR mig av VARJE fel VÄGVAL.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Set a tiny timer, then go again.",
+      "swedish": "Sätt en liten timer, och kör igen.",
+      "transliteration": "SÄTT en LITEN TIMER, och KÖR IGEn.",
+      "category": "Motivation",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I feel safe when you're near.",
+      "swedish": "Jag känner mig trygg när du är nära.",
+      "transliteration": "jag kÄnner mig TRYGG när du ÄR NÄRA",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Let’s talk, then kiss, then laugh.",
+      "swedish": "Vi kan prata, sen kyssa, sen skratta.",
+      "transliteration": "vi KAN PRATA, sen KYSsa, sen SKRATTA",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Your love makes my world calmer.",
+      "swedish": "Din kärlek gör min värld lugnare.",
+      "transliteration": "din KÄRlek GÖR min VÄRLD lugNARE",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I want you, in every season.",
+      "swedish": "Jag vill ha dig, i alla årstider.",
+      "transliteration": "jag VILL ha dig, i ALLA ÅRsiDER",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "When you look at me, wow.",
+      "swedish": "När du tittar på mig, wow.",
+      "transliteration": "NÄR du TITTar på mig, wow",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I choose your kindness over everything.",
+      "swedish": "Jag väljer din omtanke före allt.",
+      "transliteration": "jag VÄLjer din OMTANKe före ALLT",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I miss you even between plans.",
+      "swedish": "Jag saknar dig även mellan alla planer.",
+      "transliteration": "jag SAKnar dig ÄVEN MELlan ALLA plaNER",
+      "category": "Love",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Hope is my quiet plan.",
+      "swedish": "Hoppet är min tysta plan.",
+      "transliteration": "HOPpet är min tysta PLAN.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I’ll try again, hopeful.",
+      "swedish": "Jag försöker igen, med hopp.",
+      "transliteration": "Jag FÖRSÖKER igen, med HOPP.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Hope rides with me today.",
+      "swedish": "Hoppet följer med mig idag.",
+      "transliteration": "HOPpet följer med MIG iDAG.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Even now, I choose hope.",
+      "swedish": "Även nu väljer jag hopp.",
+      "transliteration": "ÄVEN NU väljer jag HOPP.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Hope keeps knocking, gently.",
+      "swedish": "Hoppet fortsätter att knacka, milt.",
+      "transliteration": "HOPpet fortsätter att KNACKa, MILt.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "I water hope with actions.",
+      "swedish": "Jag vattnar hoppet med handlingar.",
+      "transliteration": "Jag VATTnar HOPpet med HANDlingar.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Tonight, I let hope rest.",
+      "swedish": "Ikväll låter jag hoppet vila.",
+      "transliteration": "IKväll låter jag HOPpet VIla.",
+      "category": "Hope",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Slow down, feel your shoulders drop",
+      "swedish": "Bromsa ner, känn hur axlarna sjunker",
+      "transliteration": "Brom-sa NEJ, känn hur AXS-lar-na SJUNK-er",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Unclench your jaw, let peace in",
+      "swedish": "Spänn inte käken, släpp in friden",
+      "transliteration": "SPÄNN inte KÄK-en, släpp in FRID-en",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Choose one kind thought right now",
+      "swedish": "Välj en snäll tanke just nu",
+      "transliteration": "VÄLJ en SNÄLL TAN-ke JUS t nu",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "When worry knocks, answer with calm",
+      "swedish": "När oron knackar, svara med lugn",
+      "transliteration": "När O-RON knack-ar, SVA-ra med LUGN",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Let your day soften around you",
+      "swedish": "Låt dagen mjukna omkring dig",
+      "transliteration": "LÅT da-gen MJU-kna om-KRING dig",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Say no gently, protect your peace",
+      "swedish": "Säg nej vänligt, skydda din frid",
+      "transliteration": "SÄG nej VÄN-ligt, SKYD-da din FRID",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
+    },
+    {
+      "english": "Put your phone down, return to you",
+      "swedish": "Lägg mobilen ifrån dig, kom tillbaka till dig",
+      "transliteration": "LÄGG mo-BI-len i-FRÅN dig, KOM till-bak-a till dig",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T21:42:15.375733"
     }
   ],
-  "last_updated": "2026-11-13T22:52:11.957841"
+  "last_updated": "2026-11-14T21:42:15.375733"
 }
