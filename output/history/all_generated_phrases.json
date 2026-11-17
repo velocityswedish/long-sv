@@ -15331,7 +15331,399 @@
       "transliteration": "vi HÅL-ler MEJ-let KORT.",
       "category": "Work & Office",
       "generated_at": "2026-11-15T22:04:46.270530"
+    },
+    {
+      "english": "Ask for help, that’s strength.",
+      "swedish": "Att be om hjälp är också styrka.",
+      "transliteration": "Att BE om HJÄLP är också STYR-ka.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Send the message, even if awkward.",
+      "swedish": "Skicka meddelandet, även om det känns stelt.",
+      "transliteration": "SKICK-a med-DE-LAN-det, ELLER om det KÄNNS stelt.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Keep going when motivation fades.",
+      "swedish": "Fortsätt även när motivationen dör.",
+      "transliteration": "FORTSÄTT ELLER när moti-VAI-tsen dör.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Go anyway, one small choice.",
+      "swedish": "Gå ändå, med ett litet val.",
+      "transliteration": "GÅ ÄN-DA, med ett LI-tet val.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Be brave in the quiet moment.",
+      "swedish": "Var modig i det tysta ögonblicket.",
+      "transliteration": "VAR MO-dig i det TYS-ta ÖGON-blick-et.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Tell the truth, even gently.",
+      "swedish": "Säg sanningen, även om det är försiktigt.",
+      "transliteration": "SÄG SANN-ing-en, ELLER om det är FÖR-sik-tigt.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Walk in, and start where you are.",
+      "swedish": "Gå in, och börja där du står.",
+      "transliteration": "GÅ IN, och BÖR-ja där du STÅR.",
+      "category": "Courage",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Yeah, I see what you mean.",
+      "swedish": "Ja, jag fattar vad du menar.",
+      "transliteration": "Ja, jag FATTar vad du MENar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Exactly, that’s the way I feel.",
+      "swedish": "Precis, det känner jag också.",
+      "transliteration": "PREcis, DET känNER jag också.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "No doubt about it, totally.",
+      "swedish": "Ingen tvekan, det håller jag med om.",
+      "transliteration": "INgen tvekan, det HÅller jag MED om.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m on the same page as you.",
+      "swedish": "Jag är med dig, vi tänker lika.",
+      "transliteration": "Jag ÄR med DIG, vi TÄnker LIKA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "You’re right, that makes sense.",
+      "swedish": "Du har rätt, det är vettigt.",
+      "transliteration": "Du HAR RÄTT, det är VETtigt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "That’s fair, I agree with you.",
+      "swedish": "Det är rimligt, jag håller med.",
+      "transliteration": "Det är RIMligt, jag HÅLler med.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I agree, and I’ll add this.",
+      "swedish": "Jag håller med, och dessutom tycker jag så här.",
+      "transliteration": "Jag HÅLler med, och DESsutOM tycker jag SÅ här.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I brew coffee before I check my phone.",
+      "swedish": "Jag brygger kaffe innan jag kollar mobilen.",
+      "transliteration": "jag BRygger KAFfe innan jag KOllar MOBilen",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I take the dog out after breakfast.",
+      "swedish": "Jag tar ut hunden efter frukost.",
+      "transliteration": "jag tar UT HUNden EFter FRUkost",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I shower at night, it helps me relax.",
+      "swedish": "Jag duschar på kvällen, det hjälper mig att varva ner.",
+      "transliteration": "jag DUSchar på VÄl len, det HJÄlper mig att VARva ner",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I start work, then I answer messages.",
+      "swedish": "Jag börjar jobba, sen svarar jag på meddelanden.",
+      "transliteration": "jag BÖrjar JOBba, sen SVARar jag på MEddelan den",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Lunch is quick, and I eat at my desk.",
+      "swedish": "Lunchen är snabb, och jag äter vid mitt skrivbord.",
+      "transliteration": "LUNCHen är SNABb, och jag Äter VID mitt SKRIVbord",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I drink water all day, seriously.",
+      "swedish": "Jag dricker vatten hela dagen, på riktigt.",
+      "transliteration": "jag DRICker VATten HELA da gen, på RIKtigt",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I tidy up for ten minutes before dinner.",
+      "swedish": "Jag plockar undan i tio minuter innan middagen.",
+      "transliteration": "jag PLockar un dan i TIO MINuter innan MIDDagen",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "How’s the weather where you are?",
+      "swedish": "Hur är vädret där du är?",
+      "transliteration": "HUR är VÄDRET där du ÄR",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Looks like rain is coming.",
+      "swedish": "Det ser ut som att regn är på väg.",
+      "transliteration": "DET ser UT som att REGN är PÅ VÄG",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Is it windy today, or just chilly?",
+      "swedish": "Är det blåsigt i dag, eller bara kyligt?",
+      "transliteration": "ÄR det BLÅSIGT i DAG, eler BAra KYLIGT",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Did you feel that cold snap?",
+      "swedish": "Kände du den där kylan plötsligt?",
+      "transliteration": "KÄNDE du den DÄR kyLAN plötsligt",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "My app says thunderstorms tonight.",
+      "swedish": "Min app säger åska i kväll.",
+      "transliteration": "MIN app SÄGER ÅSKA i KÄLL",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "The sun’s finally out, right?",
+      "swedish": "Solen är äntligen framme, eller hur?",
+      "transliteration": "SOlen ÄNTLIGEN FRAMME, eler HUR",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Do you think it’ll clear up?",
+      "swedish": "Tror du att det blir bättre väder?",
+      "transliteration": "TROR du att det BLIR BÄTTRE VÄDER",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I feel calm right now, finally.",
+      "swedish": "Jag känner mig lugn just nu, äntligen.",
+      "transliteration": "YAH kænner mig LOOHN YUHS too, EHN-tel-EN-lee.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "My heart is racing, help.",
+      "swedish": "Mitt hjärta slår fort, hjälp.",
+      "transliteration": "MITT HYAR-ta SLÅR fort, HJÄLP.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m a bit nervous before the talk.",
+      "swedish": "Jag är lite nervös innan jag ska prata.",
+      "transliteration": "YAG är lee-teh NEHR-vohs in-NAN yAG ska PRAH-ta.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I feel hopeful about tomorrow.",
+      "swedish": "Jag känner mig hoppfull inför i morgon.",
+      "transliteration": "YAG kænner mig HOPPFULL in-FÖR ee MOR-gon.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m frustrated, nothing works today.",
+      "swedish": "Jag är frustrerad, inget fungerar idag.",
+      "transliteration": "YAG är frus-tra-RED, ING-et FUN-ger-er I-dag.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m feeling homesick, I miss you.",
+      "swedish": "Jag känner mig hemlängtan, jag saknar dig.",
+      "transliteration": "YAG kænner mig HEM-len-gting-an, YAG SAK-nar dig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m relieved it’s over.",
+      "swedish": "Jag är lättad att det är över.",
+      "transliteration": "YAG är LÄHT-ad at det är Ö-ver.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Steal inspiration, make it yours",
+      "swedish": "Stjäl inspiration, gör den till din",
+      "transliteration": "STJÄL inspiration, GÖR den till din",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Sketch it fast, fix it later",
+      "swedish": "Skissa snabbt, rätta till sen",
+      "transliteration": "SKISSa snabbt, RÄTTA till SEN",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Turn mistakes into material",
+      "swedish": "Vänd misstag till material",
+      "transliteration": "VÄND misstag till MATERIAL",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Give your ideas room to breathe",
+      "swedish": "Ge dina idéer utrymme att andas",
+      "transliteration": "GE dina IDE-er utrymme ATT an-das",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Break the routine, write something different",
+      "swedish": "Bryt rutinen, skriv något annat",
+      "transliteration": "BRYT RUTINEN, Skriv NÅGOT annat",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Ask what if, but try now",
+      "swedish": "Fråga vad händer sen, och testa nu",
+      "transliteration": "FRÅga vad HÄNder sen, och TESTa NU",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Make a mess, then find patterns",
+      "swedish": "Gör en röra, hitta mönstren sen",
+      "transliteration": "GÖR en RÖra, HITT-a MÖNstren sen",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I grow by trying again",
+      "swedish": "Jag växer av att försöka igen",
+      "transliteration": "Jag VÄXer av att FÖRSÖka IGEn",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Small wins, steady momentum",
+      "swedish": "Små segrar, stadig fart framåt",
+      "transliteration": "SMÅ segrar, STADig fart FRAMåt",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I notice progress, even quietly",
+      "swedish": "Jag märker framsteg, även när det är tyst",
+      "transliteration": "Jag MÄRKer FRAMsteg, ÄVEN när det är TYST",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Today I choose constructive effort",
+      "swedish": "Idag väljer jag ett konstruktivt arbete",
+      "transliteration": "IDag VÄLjer jag ett KONstruktivt ARbete",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I learn from what goes wrong",
+      "swedish": "Jag lär mig av det som går fel",
+      "transliteration": "Jag LÄR mig av det som GÅR FEl",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I stretch my comfort zone",
+      "swedish": "Jag tänjer på min komfortzon",
+      "transliteration": "Jag TÄNJER på min KOMFORTzon",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I ask, then I act",
+      "swedish": "Jag frågar, och sedan gör jag det",
+      "transliteration": "Jag FRÅgar, och SJÄdan GÖR jag det",
+      "category": "Growth",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’m laughing from the inside out.",
+      "swedish": "Jag skrattar ända inifrån.",
+      "transliteration": "Jag SKRATTAR ÄNDA inifrån.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Today feels wonderfully light, for real.",
+      "swedish": "Idag känns det lätt på riktigt.",
+      "transliteration": "Idag KÄNNS det LÄTT på riktigt.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Something small made my day shine.",
+      "swedish": "Något litet gjorde att min dag glimmar.",
+      "transliteration": "NÅGOT LITET gjorde att min dag GLIMMAr.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I feel joy in my shoulders.",
+      "swedish": "Jag känner glädje i axlarna, också.",
+      "transliteration": "Jag KÄNNER GlaDJE i AKslarna, också.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "This song is lifting me right now.",
+      "swedish": "Den här låten lyfter mig just nu.",
+      "transliteration": "Den HÄR låten LYFTER mig JUSST nu.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’ve got a bright grin going.",
+      "swedish": "Jag har ett ljust leende på gång.",
+      "transliteration": "Jag HAR ett LJUST leende på GÅNG.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "Joy feels like easy, warm sunshine.",
+      "swedish": "Glädjen känns som lätt, varm sol.",
+      "transliteration": "GlaDJEN KÄNNS som LÄTT, varm SOL.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T01:06:37.836033"
     }
   ],
-  "last_updated": "2026-11-15T22:04:46.270530"
+  "last_updated": "2026-11-17T01:06:37.836033"
 }
