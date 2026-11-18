@@ -15723,7 +15723,399 @@
       "transliteration": "GlaDJEN KÄNNS som LÄTT, varm SOL.",
       "category": "Joy",
       "generated_at": "2026-11-17T01:06:37.836033"
+    },
+    {
+      "english": "I’ll show up again, even tired.",
+      "swedish": "Jag dyker upp igen, även om jag är trött.",
+      "transliteration": "YAG DYKER UPP IGEN, ETT SIK OM YA ER TROET",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "One more attempt, then I’ll reassess.",
+      "swedish": "Ett försök till, och sen utvärderar jag.",
+      "transliteration": "ETT FOERSOEK TILL, OCH SEN UTVoERDERAR YA",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I keep a tiny promise to myself.",
+      "swedish": "Jag håller mitt lilla löfte till mig själv.",
+      "transliteration": "YA HOELLER MITT LILLA LOEFTE TILL MIG SJAELV",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "When it’s hard, I choose steady.",
+      "swedish": "När det är svårt, väljer jag stadighet.",
+      "transliteration": "NAER DET ER SWAERT, VAELJER YAG STADIGHET",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I don’t quit on a bad day.",
+      "swedish": "Jag ger inte upp bara för att dagen är dålig.",
+      "transliteration": "YA GER INTE UPP BARA FOER ATT DAGEN ER DOALIG",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I practice consistency, not perfection.",
+      "swedish": "Jag tränar på konsekvens, inte perfektion.",
+      "transliteration": "YA TRAENAR PA KONSEKVENs, INTE PE RFEKTION",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I return to my task, gently.",
+      "swedish": "Jag går tillbaka till min uppgift, mjukt.",
+      "transliteration": "YA GAR TILLBAKA TILL MIN UP P GIFT, MUUKT",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Can I transfer between accounts?",
+      "swedish": "Kan jag överföra mellan konton?",
+      "transliteration": "Kan ja öVErföra mellan konTON?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "What’s the fee for international transfers?",
+      "swedish": "Vad kostar det för internationella överföringar?",
+      "transliteration": "Vad KOs tar det för interNAtioNEl la öVErföRingar?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I need a new debit card today.",
+      "swedish": "Jag behöver ett nytt bankkort idag.",
+      "transliteration": "JaG BEHÖver ett nytt BANKkort iDAG.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I want to set up direct debit.",
+      "swedish": "Jag vill starta autogiro.",
+      "transliteration": "JaG VILL STARTA auTOgiRO.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Please block my card if it’s missing.",
+      "swedish": "Snälla spärra mitt kort om det är borta.",
+      "transliteration": "SNÄLLa SPÄRRA mitt kort om det äR BORta.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Where can I download my statements?",
+      "swedish": "Var kan jag ladda ner mina kontoutdrag?",
+      "transliteration": "VAR kan ja LAdA ner miNA KONtoUTdrag?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I’ll ask about overdraft protection.",
+      "swedish": "Jag ska fråga om övertrasseringsskydd.",
+      "transliteration": "JaG ska FÅRga om överTRASseringsSKYDD.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "What pastries are best today?",
+      "swedish": "Vilka bakverk är bäst idag?",
+      "transliteration": "vil-KA bak-verk är BÄST i-DAG",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "swedish": "Kan jag få havremjölk, tack?",
+      "transliteration": "kan jag få HAV-re-mjölk, tack",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Is this bread baked in-house?",
+      "swedish": "Bakas det här brödet här i huset?",
+      "transliteration": "BA-kas det HÄR brö-det HÄR i HU-set",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "This smells like weekend warmth.",
+      "swedish": "Det här luktar helg, på bästa sätt.",
+      "transliteration": "DET här LUK-tar HELG, på BÄS-ta SÄTT",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I’ll try the chef’s special.",
+      "swedish": "Jag tar gärna dagens special.",
+      "transliteration": "jag TAR GÄR-na da-GENS spe-ci-al",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "What time does the bakery restock?",
+      "swedish": "När fyller ni på i bageriet?",
+      "transliteration": "NÄR FY-ller ni på i ba-ge-ri-et",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Is the cinnamon bun still warm?",
+      "swedish": "Är kanelbullen fortfarande varm?",
+      "transliteration": "ÄR ka-nel-BULL-en FORT-faran-de VARM",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "We should plan a calm weekend.",
+      "swedish": "Vi borde planera en lugn helg.",
+      "transliteration": "vi BORde planera en LUGn helg",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Can we help with chores together?",
+      "swedish": "Kan vi hjälpas åt med sysslorna tillsammans?",
+      "transliteration": "kan vi HJÄlpas åt med SYSSlorna tillSAMMANS",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I’ll put things back, promise.",
+      "swedish": "Jag lägger tillbaka sakerna, lovar.",
+      "transliteration": "jag LÄgger tillBAka SAkerna, LOVar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "The house feels messy, not wrong.",
+      "swedish": "Hemmet känns rörigt, inte fel.",
+      "transliteration": "HEmmet KÄNns RÖRigt, INte fel",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Let’s do a bedtime routine, step by step.",
+      "swedish": "Vi kan göra kvällsrutinen, steg för steg.",
+      "transliteration": "vi kan GÖra KVELLSrutinen, steg för STEG",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Who’s hungry, I’ll start the food.",
+      "swedish": "Vem är hungrig, jag sätter igång maten.",
+      "transliteration": "VEM är HUNgrig, jag SÄtter IGång maTEN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Please knock before you come in.",
+      "swedish": "Snälla, knacka innan du går in.",
+      "transliteration": "SNÄlla, KNACKa innan du går IN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Your words give me courage today",
+      "swedish": "Dina ord ger mig mod idag, verkligen.",
+      "transliteration": "Dina ORd ger miG MOD i DAG, VERkliGen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I’m inspired, and I try again",
+      "swedish": "Jag blir inspirerad, och jag försöker igen.",
+      "transliteration": "JAG blir inSPIrerad, och JAG förSÖKer IGEN.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Let’s build confidence from small wins",
+      "swedish": "Vi bygger självförtroende av små segrar, tillsammans.",
+      "transliteration": "Vi BYgger själFÖRTroende av SMÅ SEGrar, TILLsammans.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I want to learn with joy",
+      "swedish": "Jag vill lära mig, med glädje i kroppen.",
+      "transliteration": "JAG vill LÄra mig, MED glÄdje i KROppen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Say it again, my brain relaxes",
+      "swedish": "Säg det igen, så slappnar jag av i huvudet.",
+      "transliteration": "SÄj det Igen, så SLappnar jag av i HUvuDET.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I’m brave enough to make mistakes",
+      "swedish": "Jag vågar göra fel, och det känns okej.",
+      "transliteration": "JAG VÅgar GÖra fel, och det KÄNNS okej.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Today I choose curiosity over fear",
+      "swedish": "Idag väljer jag nyfikenhet framför rädsla.",
+      "transliteration": "I DAG väljer JAG NyuFIkenhet FÖRre rädsla.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I swap hobbies when my energy dips.",
+      "swedish": "Jag byter hobby när min energi sjunker,.",
+      "transliteration": "JAG BYTER HOBBY NÄR MIN ENERGI SJUNKER",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Tonight I choose fun over productivity.",
+      "swedish": "Ikväll väljer jag roligare saker än produktivitet.",
+      "transliteration": "IKVÄLL VÄLJER JAG RO-LI-GA-RE SAKER ÄN PRO-DUK-TIV-ITET",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I keep a hobby list for bad days.",
+      "swedish": "Jag har en lista med hobbys för tunga dagar.",
+      "transliteration": "JAG HAR EN LIS-TA MED HOBBYS FÖR TUN-GA DAGAR",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I journal a little, then I breathe.",
+      "swedish": "Jag skriver lite i min dagbok, sen tar jag ett andetag.",
+      "transliteration": "JAG SKRI-VER LI-TE I MIN DAG-BOK, SEN TAR JAG ETT AN-DE-TA G",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I play music while I tidy up.",
+      "swedish": "Jag sätter på musik när jag plockar undan.",
+      "transliteration": "JAG SÄT-TER PÅ MU-SIK NÄR JAG PLockar U-NDAN",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Short walks count, no matter what.",
+      "swedish": "Korta promenader räknas, oavsett vad.",
+      "transliteration": "KOR-TA PRO-me-NÄ-DER RÄK-NAS, O-AV-SETT VAD",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I cook something new just for me.",
+      "swedish": "Jag lagar något nytt bara för mig.",
+      "transliteration": "JAG LA-GAR NÅ-GOT NYTT BA-RA FÖR MIG",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Where do I tap in?",
+      "swedish": "Var ska jag tappa, tack?",
+      "transliteration": "VAr ska ja tappa, tack?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "What time is the next departure?",
+      "swedish": "När går nästa avgång?",
+      "transliteration": "NÄR gåR nÄsta avgÅng?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Do I pay with my card or cash?",
+      "swedish": "Betalar man med kort eller kontanter?",
+      "transliteration": "BETaLar man med kort eler kontANter?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "I think I missed my stop.",
+      "swedish": "Jag tror att jag missade min hållplats.",
+      "transliteration": "JA tror att ja missAde min hÅllplats.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Could you tell me when to get off?",
+      "swedish": "Kan du säga till när jag ska kliva av?",
+      "transliteration": "KAN du sÄga till nÄr ja ska kliva av?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Is the metro running on time today?",
+      "swedish": "Går tunnelbanan som den ska idag?",
+      "transliteration": "GÅR tunnElbanan som den ska iDag?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Is there an elevator for me?",
+      "swedish": "Finns det hiss här?",
+      "transliteration": "FINns det hiss hÄr?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Hi, I’d like to check in now.",
+      "swedish": "Hej, jag vill checka in nu.",
+      "transliteration": "Hej, jag vill CHECK-a in N U.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Do you have a late breakfast today?",
+      "swedish": "Har ni frukost sent idag?",
+      "transliteration": "HAR ni FRUKOST SENT IDAG?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Could I get a quiet room on top?",
+      "swedish": "Kan jag få ett tyst rum högst upp?",
+      "transliteration": "KAN jag FÅ ett TYST rum HÖGST UP P?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Can I store my luggage after checkout?",
+      "swedish": "Kan jag förvara mitt bagage efter utcheckning?",
+      "transliteration": "KAN jag FÖR-VAR-a MITT baGA GE efter ut-CHEC kning?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Do you have towels for the pool?",
+      "swedish": "Finns det handdukar för poolen?",
+      "transliteration": "FINNS det HAN DUK-ar för POOL-en?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Is there a gym I can use?",
+      "swedish": "Finns det ett gym som jag kan använda?",
+      "transliteration": "FINNS det ett GYM som jag kan AN-VÄN-da?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
+    },
+    {
+      "english": "Where is the nearest supermarket?",
+      "swedish": "Var ligger närmaste mataffär?",
+      "transliteration": "VAR LIG-ger NÄR-mas-te ma-taffÄR?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-17T23:58:37.574583"
     }
   ],
-  "last_updated": "2026-11-17T01:06:37.836033"
+  "last_updated": "2026-11-17T23:58:37.574583"
 }
