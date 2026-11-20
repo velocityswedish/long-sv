@@ -16899,7 +16899,399 @@
       "transliteration": "jaG SMS:AR diG deTALjerna OM en STUND.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "No worries, it happens.",
+      "swedish": "Ingen fara, det händer.",
+      "transliteration": "InGEN FAra, det HÄnDER.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I feel you, for real.",
+      "swedish": "Jag fattar dig, på riktigt.",
+      "transliteration": "JAG FA TTAR dig, på RIkTIG.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "We’ll see, no pressure.",
+      "swedish": "Vi får se, ingen press.",
+      "transliteration": "Vi FÅR se, INgen PRESS.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Hold up, just a sec.",
+      "swedish": "Vänta lite, bara en minut.",
+      "transliteration": "VÄnTA LIte, bara EN MInut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "That’s my kind of place.",
+      "swedish": "Det där är min grej.",
+      "transliteration": "DET där ÄR min grej.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I’m starving, I need food.",
+      "swedish": "Jag är skit hungrig, jag måste äta.",
+      "transliteration": "JAG ÄR SKIT HUNgRIG, jag MÅSTE Äta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Come on, you got this.",
+      "swedish": "Kom igen, du klarar det.",
+      "transliteration": "kom Igen, du KLA rar det.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Call an ambulance, it’s an emergency.",
+      "swedish": "Ring en ambulans, det här är akut.",
+      "transliteration": "ring en am-bu-LANS, DET HÄR är AKUT",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I feel faint, I might pass out.",
+      "swedish": "Jag känner mig svimfärdig, jag kan svimma.",
+      "transliteration": "jag KÄNNER mig SVIM-fär-dig, jag KAN SVIM-ma",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Someone collapsed, they’re not responding.",
+      "swedish": "Någon har svimmat, de svarar inte.",
+      "transliteration": "NÅG-on har SVIM-met, de SVA-rar INTE",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Do they have a pulse? Please check.",
+      "swedish": "Har personen puls, kan du kolla?",
+      "transliteration": "har PER-sonen PULS, kan du KO-lla",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I’m choking, I can’t breathe.",
+      "swedish": "Jag sätter i halsen, jag kan inte andas.",
+      "transliteration": "jag SÄT-ter i HAL-sen, jag kan INTE AN-das",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Help, I inhaled something and it hurts.",
+      "swedish": "Hjälp, jag har svalt eller andats in något.",
+      "transliteration": "HJÄLP, jag har SVALT eller AN-dats IN nåt",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "My breathing sounds wheezy, it’s getting worse.",
+      "swedish": "Jag andas pipigt, det blir värre.",
+      "transliteration": "jag AN-das PI-pigt, det blir VÄR-re",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Can you coach my form, please?",
+      "swedish": "Kan du kolla min teknik, snälla?",
+      "transliteration": "KAN du kolla MIN TE-knihk, SNÄLL-a?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I need a quick water break.",
+      "swedish": "Jag behöver ta en snabb vattenpaus.",
+      "transliteration": "JAG beHÖ-ver ta en SNABB VAT-ten-paus",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Where can I buy sports tape?",
+      "swedish": "Var kan jag köpa sporttejp?",
+      "transliteration": "VAR kan JAG KÖ-pa SPORt-tejp",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I’m trying interval training today.",
+      "swedish": "Jag ska prova intervallträning idag.",
+      "transliteration": "JAG ska PRÖ-va IN-ter-vall-TRAEN-ing i-DAG",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "What time does the spin class start?",
+      "swedish": "När börjar spinningpasset?",
+      "transliteration": "NAE BÖRjar SPIN-ning-pass-et?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Do I need to register to enter?",
+      "swedish": "Måste jag registrera mig för att gå in?",
+      "transliteration": "MASTE JAG reGIS-ter-a mig FÖR att ga IN",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I feel a burn in my legs.",
+      "swedish": "Jag känner en rejäl bränna i benen.",
+      "transliteration": "JAG KÄn-ner en RE-jäl BRÄN-na i BE-nen",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Hi, I’m new here, by the way.",
+      "swedish": "Hej, jag är ny här, förresten.",
+      "transliteration": "HÄJ, jaG är ny HÄR, FÖRRESTEN.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Hello! How do you know the host?",
+      "swedish": "Hej! Hur känner du värden?",
+      "transliteration": "HEJ! HUR KÄNNER DU VÄRDEN?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Are you enjoying the event so far?",
+      "swedish": "Trivs du med evenemanget hittills?",
+      "transliteration": "TRIVS DU MED E-VENEMANGET HITTILLS?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I don’t think we’ve met before.",
+      "swedish": "Jag tror inte att vi har träffats förut.",
+      "transliteration": "jaG TROR inte att vi HAR TRÄFFATS FÖRUT.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "What’s your name, sorry, please?",
+      "swedish": "Vad heter du, förlåt, kan du säga det?",
+      "transliteration": "VA HETER DU, FÖRLÅT, KAn DU SÄGA DET?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I love your accent, where are you from?",
+      "swedish": "Jag gillar din accent, var kommer du ifrån?",
+      "transliteration": "jaG GIL-lar DIN a-kent, VAR KOMMER DU IF-RÅN?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Nice to meet you, I’m really happy.",
+      "swedish": "Trevligt att träffas, jag är verkligen glad.",
+      "transliteration": "TREVLIGT att TRÄFFAS, jaG är VERKLIGEN GLAD.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Breathe in, let your body unclench",
+      "swedish": "Andas in, låt kroppen slappna av",
+      "transliteration": "AN-das in, lÅt KROPP-en slap-pna AV",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "When stressed, soften your gaze",
+      "swedish": "När du stressar, mjuka upp blicken",
+      "transliteration": "NÄR du stres-sar, MYU-ka UP BLIC-ken",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Say, I can handle this moment",
+      "swedish": "Säg, jag klarar det här ögonblicket",
+      "transliteration": "SÄG, jag KLAR-ar det HÄR EHG-on-BLIK-ket",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Relax your hands, feel them resting",
+      "swedish": "Slappna av i händerna, känn vilan",
+      "transliteration": "SLAPP-na av i HÄN-der-na, kÄNN VIL-an",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Choose calm, even with small challenges",
+      "swedish": "Välj lugn, även när det är små motgångar",
+      "transliteration": "VÄLJ LUGN, ÄV-en när det ÄR små mot-GÅNG-ar",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Let your chest rise, no rush",
+      "swedish": "Låt bröstet höjas, utan brådska",
+      "transliteration": "LÅt BRÖST-et HÖJ-as, u-tan BRÅDS-ka",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Give your mind a gentle reset",
+      "swedish": "Ge ditt sinne en mjuk nystart",
+      "transliteration": "GE ditt SIN-ne en MYU-k nys-TART",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Inhale calm, exhale clutter, now.",
+      "swedish": "Inandas lugn, andas ut allt brus, nu.",
+      "transliteration": "INandas lugn, ANdAs ut allt brus, NU.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Feel your belly expand, gently.",
+      "swedish": "Känn hur magen lyfter mjukt.",
+      "transliteration": "KÄNN hur MAgen L YFter mjukt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Notice sounds, like passing weather.",
+      "swedish": "Lägg märke till ljud, som väder som drar förbi.",
+      "transliteration": "LÄGG märke till LJUD, SOM väder som DRAR förbi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Relax your brow, let it go.",
+      "swedish": "Slappna av i pannan, släpp taget.",
+      "transliteration": "SLAPpna av i PANnan, SLÄPP taGET.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Try a slow body scan today.",
+      "swedish": "Gör en långsam kroppsskanning, bara så.",
+      "transliteration": "GÖR en LÅNGsam KROppsSKANning, bara SÅ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Soften your grip, free your hands.",
+      "swedish": "Mjukna i greppet, släpp händerna fria.",
+      "transliteration": "MJUKna i GREppet, SLÄPP HÄnderna FRIA.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Let your tongue rest inside.",
+      "swedish": "Låt tungan vila mjukt i munnen.",
+      "transliteration": "LÅt TUngan viLA mjukt i MUNnen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Start before you feel ready, just begin.",
+      "swedish": "Börja innan du känner dig redo, bara kör.",
+      "transliteration": "BÖRja INnan du KÄNner dig REDo, baRA kör",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Motivation follows motion, not the other way.",
+      "swedish": "Motivation kommer när du rör dig, inte tvärtom.",
+      "transliteration": "moTIvaTION KOMmer när du RÖR dig, INte tvärtOM",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Text yourself Swedish, even one sentence.",
+      "swedish": "Skicka ett SMS till dig själv på svenska, bara en mening.",
+      "transliteration": "SKICKa ett SMS till DIG själv på SVENska, baRA en MENing",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Make it fun, then keep it going.",
+      "swedish": "Gör det roligt, och fortsätt.",
+      "transliteration": "GÖR det RÖLigt, och FORTsätt",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Choose one tiny win today, not perfection.",
+      "swedish": "Välj en liten vinst idag, inte perfektion.",
+      "transliteration": "VÄLJ en LITen VINST iDAG, INte perFEKtion",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Tell yourself, one more try, that’s it.",
+      "swedish": "Säg till dig själv, en gång till, sen är du klar.",
+      "transliteration": "SÄG till dig SJÄLV, en GÅNG till, sen är du KLAR",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Use real life: order, ask, reply.",
+      "swedish": "Använd verkligheten, beställ, fråga och svara.",
+      "transliteration": "ANvänd VERkligheten, beSTÄLL, FRÅga och SVAra",
+      "category": "Motivation",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "You make me feel seen, always.",
+      "swedish": "Du får mig att känna mig sedd, alltid.",
+      "transliteration": "Du får MIG att KÄnna mig SEDD, ALLTID.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I want us, not just feelings.",
+      "swedish": "Jag vill ha oss, inte bara känslor.",
+      "transliteration": "JAG vill HA OSS, INTE baRA KÄNSLOR.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "I choose your peace over drama.",
+      "swedish": "Jag väljer din frid framför drama.",
+      "transliteration": "JAG VÄLJER DIN FRID FÖRANFÖR DRAMA.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Say it again, I love hearing you.",
+      "swedish": "Säg det igen, jag älskar att höra dig.",
+      "transliteration": "SÄG deT IGEn, JAG ÄLSKAR att HÖRA dig.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Your laugh makes my day softer.",
+      "swedish": "Ditt skratt gör min dag mjukare.",
+      "transliteration": "Ditt SKRATT gör min DAG MJUKARE.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "When we argue, I still reach.",
+      "swedish": "När vi bråkar, räcker jag ändå ut.",
+      "transliteration": "NÄR vi BRÅKAR, RÄ̈Cker JAG ÄNDÅ UT.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Meet me tonight, I’m yours.",
+      "swedish": "Möt mig ikväll, jag är din.",
+      "transliteration": "MÖT MIG IKVÄLL, JAG ÄR DIN.",
+      "category": "Love",
+      "generated_at": "2026-11-20T23:22:25.264266"
     }
   ],
-  "last_updated": "2026-11-19T23:48:51.165197"
+  "last_updated": "2026-11-20T23:22:25.264266"
 }
