@@ -16507,7 +16507,399 @@
       "transliteration": "Min LÄkare har SKRivit ut den, är den KLAR?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-18T23:36:59.976143"
+    },
+    {
+      "english": "I’m free tomorrow afternoon.",
+      "swedish": "Jag är ledig imorgon eftermiddag.",
+      "transliteration": "ja AK-E led-ig IM-mor-ron E-ter-MID-dag",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Let’s lock a time for Friday.",
+      "swedish": "Vi spikar en tid för fredag.",
+      "transliteration": "vi SPI-kar en tid för FRE-dag",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Should we meet near the station?",
+      "swedish": "Ska vi ses vid stationen?",
+      "transliteration": "ska vi ses vid sta-TIO-nen",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "What about Saturday instead?",
+      "swedish": "Hur är det med lördagen istället?",
+      "transliteration": "hur är DET med LÖR-da-gen in-sTÄD",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I can do after work, no problem.",
+      "swedish": "Jag kan efter jobbet, det funkar.",
+      "transliteration": "ja kan EF-ter JO-bet, det FUN-kar",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’ll arrive a bit early.",
+      "swedish": "Jag kan komma lite tidigare.",
+      "transliteration": "ja kan KOM-ma li-te TI-di-gare",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can you call me when you’re ready?",
+      "swedish": "Kan du ringa när du är redo?",
+      "transliteration": "kan du RIN-ga när du är REE-do",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Forgive, and let your nervous system rest.",
+      "swedish": "Förlåt, och låt kroppen få vila.",
+      "transliteration": "FÖRLÅT, och LÅT KROPPEN få VILA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I choose peace over winning today.",
+      "swedish": "Jag väljer frid framför seger idag.",
+      "transliteration": "JAG VÄLJER FRID FÖRFRAM seGER idag.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Release the story, not the lessons.",
+      "swedish": "Släpp berättelsen, behåll lärdomarna.",
+      "transliteration": "SLÄPP BERÄTTELSEN, behåll LÄRDOMARNA.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "You can forgive without trusting them again.",
+      "swedish": "Du kan förlåta utan att lita på dem igen.",
+      "transliteration": "du KAN FÖRLÅTA utan att LITA på dem IGEn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Let go of revenge fantasies, gently.",
+      "swedish": "Släpp hämndfantasierna, mjukt och lugnt.",
+      "transliteration": "SLÄPP HÄMNDfantasierna, MJUKT och LUGNT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I can forgive and still set rules.",
+      "swedish": "Jag kan förlåta och ändå sätta gränser.",
+      "transliteration": "JAG kan FÖRLÅTA och ÄNDÅ SÄTTA GRÄNSER.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Say it out loud, I forgive you.",
+      "swedish": "Säg det högt, jag förlåter dig.",
+      "transliteration": "SÄG det HÖGT, jag FÖRLÅTER dig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can I help with setup?",
+      "swedish": "Får jag hjälpa till med förberedelserna?",
+      "transliteration": "FÅR jag HJÄLpa till MED förberedelSERna?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "This place looks incredible tonight.",
+      "swedish": "Det här stället ser helt otroligt ut i kväll.",
+      "transliteration": "Det HÄR stället SER HELT otroligt ut i KVÄLL.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Pass me the playlist, please!",
+      "swedish": "Kan du skicka spellistan till mig, snälla?",
+      "transliteration": "KAN du SKICKA SPELLIstan till mig, SNÄLLA?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Where’s the cake table, exactly?",
+      "swedish": "Var finns tårtbordet, exakt?",
+      "transliteration": "VAR FINNS TÅRTbordet, EXAKT?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’m bringing snacks for the group.",
+      "swedish": "Jag tar med snacks till hela gänget.",
+      "transliteration": "JAG TAR med SNACKS till hela GÄNget.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Do we take a group photo?",
+      "swedish": "Ska vi ta en gruppbild?",
+      "transliteration": "SKA vi TA en GRUPPbild?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Cheers to everyone, thank you for coming!",
+      "swedish": "Skål till er alla, tack för att ni kom!",
+      "transliteration": "SKÅL till ER ALLA, TACK för att ni KOM!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can we sit by the window?",
+      "swedish": "Kan vi få ett bord vid fönstret?",
+      "transliteration": "Kan vi få ett bord VID fönstret?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "What’s the daily special today?",
+      "swedish": "Vad är dagens special i dag?",
+      "transliteration": "Vad är DAgens SPeCIal i DAG?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Do you have non-alcoholic beer?",
+      "swedish": "Har ni alkoholfri öl?",
+      "transliteration": "Har ni alkoHÖLfri ÖL?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’ll have the chicken, please.",
+      "swedish": "Jag tar kycklingen, tack.",
+      "transliteration": "Jag TAR KYcklingen, TACK.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Make it spicy, if possible.",
+      "swedish": "Gör den gärna stark, om det går.",
+      "transliteration": "Gör den GÄRNA STARK, om det GÅR.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can I get fries instead?",
+      "swedish": "Kan jag få pommes frites i stället?",
+      "transliteration": "Kan jag få POMmes friTES i STÄllet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Is the sauce served on the side?",
+      "swedish": "Serveras såsen vid sidan om?",
+      "transliteration": "SerVEras SÅsen vid SIDan om?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Want to meet for dessert sometime?",
+      "swedish": "Vill du ses för dessert någon gång?",
+      "transliteration": "VILL du ses för desSERT nån gång?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’m into you, honestly.",
+      "swedish": "Jag är riktigt intresserad av dig.",
+      "transliteration": "Jag är RIKTIGT inTRESSerad av DIG.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "What’s your ideal first date like?",
+      "swedish": "Hur ser din perfekta första dejt ut?",
+      "transliteration": "HUR ser din perFEKta försTa DEJT ut?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "You make texting feel like flirting.",
+      "swedish": "Du får det att kännas som flirt när vi smsar.",
+      "transliteration": "DU får det att kännas som flirt när vi SMSar.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can I kiss you goodnight?",
+      "swedish": "Får jag kyssa dig god natt?",
+      "transliteration": "FÅR jag KYssa dig god NATT?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Your smile is my favorite part.",
+      "swedish": "Ditt leende är min favoritdel.",
+      "transliteration": "DITT LEENDE är min FAvioritdel.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Let’s try that new place together.",
+      "swedish": "Vi testar det där nya stället tillsammans.",
+      "transliteration": "VI TESStar det där NYA stället TILLsammans.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’m doing this to save time",
+      "swedish": "Jag gör det här för att spara tid.",
+      "transliteration": "YAHG guh-r DET HÄR foor aht SAH-rah teed.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "My aim is to sound polite",
+      "swedish": "Målet är att jag ska låta artig.",
+      "transliteration": "MAA-let äer aht YAHG ska LÅH-ta AR-tig.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I need it for my appointment",
+      "swedish": "Jag behöver det till mitt besök.",
+      "transliteration": "YAHG NEEH-der det teel MITT BEH-söhk.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "What’s the point of this rule?",
+      "swedish": "Vad är meningen med den här regeln?",
+      "transliteration": "VAH äer men-EEN-gen MED den HÄR REH-glehn?",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Is this meant for beginners?",
+      "swedish": "Är det här gjort för nybörjare?",
+      "transliteration": "ÄR det HÄR gohrt for nye-BYR-yah-reh?",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can you tell me the goal here?",
+      "swedish": "Kan du säga vad målet är här?",
+      "transliteration": "KAN doo SAY-a VAH MÅH-let äer HAR?",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’m calling to confirm details",
+      "swedish": "Jag ringer för att bekräfta detaljer.",
+      "transliteration": "YAHG REE-ner foor aht beh-KRäft-a DEE-tal-jer.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Trust your process, not the noise.",
+      "swedish": "Lita på din process, inte på allt oväsen.",
+      "transliteration": "LiTA på din PROcess, inte på allT oväsen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Choose what you can carry lightly.",
+      "swedish": "Välj sådant du kan bära lätt, dag för dag.",
+      "transliteration": "VÄLJ sådant du kan BÄRA lätt, dag för DAG.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Ask for help early, not late.",
+      "swedish": "Be om hjälp i tid, inte i sista stund.",
+      "transliteration": "BE om HJÄLP i TID, inte i sisTA stund.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Silence can be wisdom, too.",
+      "swedish": "Ibland är tystnad också visdom.",
+      "transliteration": "Ibland är TYSTnad ocksÅ VI-sdom.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Learn to pause before you promise.",
+      "swedish": "Lär dig pausa innan du lovar.",
+      "transliteration": "LÄR dig PAUSA innan du LOvar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Read the room, then act kindly.",
+      "swedish": "Läs rummet först, sen agerar du vänligt.",
+      "transliteration": "LÄS rumMET först, sen aGE-ra du VÄNligt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Keep your standards, soften your tone.",
+      "swedish": "Håll fast vid dina värderingar, mjuka upp tonen.",
+      "transliteration": "HÅLL fast vid dina värdeRINGar, MJUka upp TOnen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Hi, can I reach you now?",
+      "swedish": "Hej, kan jag nå dig nu?",
+      "transliteration": "Hej, kan jAG NÅ diG NU?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Sorry to bother you, quick question.",
+      "swedish": "Förlåt att jag stör, en snabb fråga bara.",
+      "transliteration": "FÖRLÅT att jaG S TÖR, en SNABb FRÅGA BAra.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’m outside, where should I wait?",
+      "swedish": "Jag är utanför, var ska jag vänta?",
+      "transliteration": "jaG ÄR uTANFÖR, vaR ska jaG VÄNTA?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "Can you send me the receipt by text?",
+      "swedish": "Kan du skicka kvittot till mig i ett sms?",
+      "transliteration": "kan du SKICKa KViTTOT till miG i ett SMS?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I got your message, thanks.",
+      "swedish": "Jag fick ditt meddelande, tack.",
+      "transliteration": "jaG FICK diTT MEDdelANde, TACK.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "What time suits you for a call?",
+      "swedish": "Vilken tid passar dig för ett samtal?",
+      "transliteration": "VILken TID PASsar diG för ett SAMtal?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
+    },
+    {
+      "english": "I’ll text you the details in a sec.",
+      "swedish": "Jag sms:ar dig detaljerna om en stund.",
+      "transliteration": "jaG SMS:AR diG deTALjerna OM en STUND.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T23:48:51.165197"
     }
   ],
-  "last_updated": "2026-11-18T23:36:59.976143"
+  "last_updated": "2026-11-19T23:48:51.165197"
 }
