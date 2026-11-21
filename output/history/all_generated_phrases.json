@@ -17291,7 +17291,399 @@
       "transliteration": "MÖT MIG IKVÄLL, JAG ÄR DIN.",
       "category": "Love",
       "generated_at": "2026-11-20T23:22:25.264266"
+    },
+    {
+      "english": "Hope is a warm cup, right now",
+      "swedish": "Hopp är en varm kopp, just nu",
+      "transliteration": "HOPP är en VARM KOPP, just NU",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "I choose one hopeful thought today",
+      "swedish": "Jag väljer en hoppfull tanke idag",
+      "transliteration": "Jag VÄLJER en HOPPFULL TANK E idag",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Let hope sit with me tonight",
+      "swedish": "Låt hoppet sitta hos mig i kväll",
+      "transliteration": "LÅT HOPPET SITT A hos mig i KVÄLL",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Hope, don’t disappear, stay with me",
+      "swedish": "Hopp, försvinn inte, stanna kvar",
+      "transliteration": "HOPP, FÖRSVINN inte, STANNA kvar",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "I text hope back when I doubt",
+      "swedish": "Jag skickar hopp tillbaka när jag tvivlar",
+      "transliteration": "Jag SKICKAR hopp TILLBAKA när jag T VIVLAR",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Even messy days deserve hope",
+      "swedish": "Även röriga dagar förtjänar hopp",
+      "transliteration": "Även RÖRIGA dagar FÖRTJÄNAR HOPP",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Hope makes room for kinder answers",
+      "swedish": "Hopp skapar plats för snällare svar",
+      "transliteration": "HOPP skapar PLATS för SNÄLLARE SVAR",
+      "category": "Hope",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "swedish": "Var kan jag köpa en biljett?",
+      "transliteration": "VAr KAn JAG KöPA En BILJett?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Is there a shortcut to downtown?",
+      "swedish": "Finns det en genväg till centrum?",
+      "transliteration": "FInns Det En GENv ä g TILL CENtrum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "swedish": "Hur tar jag mig till flygplatsen?",
+      "transliteration": "HUR TAR JAG MIG TILL FLYGPlAtsEN?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Which tram line goes there?",
+      "swedish": "Vilken spårvagn går dit?",
+      "transliteration": "VILken SPÅrVAGN GÅR dit?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Do you know the quickest route?",
+      "swedish": "Vet du vad som är snabbast väg?",
+      "transliteration": "VET DU vAD SOM ÄR SNABBast VÄG?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Can you help me find this place?",
+      "swedish": "Kan du hjälpa mig att hitta hit?",
+      "transliteration": "KAn DU HJÄLPA mig ATT HITta HIT?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Is this bus stop the right one?",
+      "swedish": "Är det här rätt hållplats?",
+      "transliteration": "ÄR Det HÄR RÄTT HÅLLplats?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Take it slow, keep your footing.",
+      "swedish": "Ta det lugnt, håll balansen.",
+      "transliteration": "Ta det LUGNT, HÅLL BA-lan-sen.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Breathe out, let your shoulders soften.",
+      "swedish": "Andas ut, låt axlarna sjunka.",
+      "transliteration": "AN-das UT, LÅT AK-slar-na SUN-ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Switch tasks, then come back steady.",
+      "swedish": "Byt uppgift, sen tillbaka med fokus.",
+      "transliteration": "BYT UPP-gift, SEN till-baka med FO-KUS.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Balance urgency with a calm reply.",
+      "swedish": "Balansera brådska med ett lugnt svar.",
+      "transliteration": "BA-lan-sera BRÅDS-ka med ett LUGNT SVAR.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Drink water, reset your inner clock.",
+      "swedish": "Drick vatten, nollställ din inre klocka.",
+      "transliteration": "DRICK VAT-ten, NOLL-ställ DIN IN-re klock-a.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Move your body, not just your mind.",
+      "swedish": "Rör på kroppen, inte bara huvudet.",
+      "transliteration": "RÖR på KROP-pens, INTE ba-ra HU-vu-det.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Choose one priority, then breathe.",
+      "swedish": "Välj en prioritet, sen andas.",
+      "transliteration": "VÄLJ en pri-O-ri-TEt, SEN AN-das.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Before Christmas, we hang a wreath",
+      "swedish": "Innan jul, hänger vi en krans på dörren",
+      "transliteration": "INnan JUL, HÄnger vi en KRANS på DÖRren",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "On Easter, we color eggs together",
+      "swedish": "På påsk, färgar vi ägg tillsammans",
+      "transliteration": "På PÅSK, FÄRGar vi ÄGG tillSAMman",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "We bake saffron buns for Saint Lucy",
+      "swedish": "Vi bakar lussekatter med saffran",
+      "transliteration": "VI bakar LUSsekatter med SAFFran",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "I drink glögg when the weather turns cold",
+      "swedish": "Jag dricker glögg när det blir riktigt kallt",
+      "transliteration": "JAG DRICKer GLOGG när det BLIR rikTIGT KALLT",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Midsummer day, we chase the daylight",
+      "swedish": "På midsommardagen sjunger vi och njuter av ljuset",
+      "transliteration": "på MIDsommarDAGen SJUnger vi och NJUTer av LJUset",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "We visit relatives, then share coffee and cake",
+      "swedish": "Vi hälsar på släktingar, sen blir det kaffe och tårta",
+      "transliteration": "VI hÄlsar på SLÄKtingar, sen BLIR det KAFfe och TÅrta",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "When it rains, we go for fika anyway",
+      "swedish": "Regnet stoppar inte oss, vi tar en fika ändå",
+      "transliteration": "REGnet STOPpar inte oss, vi TAR en FIKA ÄNDÅ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Can I grab a quick meeting today?",
+      "swedish": "Kan jag få ett snabbt möte idag, tack?",
+      "transliteration": "Kan jag få ett snABbt MÖte iDAG, tack?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Could you confirm the meeting location?",
+      "swedish": "Kan du bekräfta var mötet är, snälla?",
+      "transliteration": "Kan du beKRÄFTA VAR mötet äR, SNÄLLA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "I will share the updated agenda now.",
+      "swedish": "Jag skickar den uppdaterade dagordningen nu.",
+      "transliteration": "Jag SKEPpar den UPPdateRAde daGORdningen nu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Where can I find the printer supplies?",
+      "swedish": "Var hittar jag förbrukningsvaror till skrivaren?",
+      "transliteration": "Var HITtar jag FÖRbrukningsVAror till SKRIVaren?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "I need access to the shared drive.",
+      "swedish": "Jag behöver åtkomst till den delade enheten.",
+      "transliteration": "Jag behöVER Åtkomst till den deLAde ENheten.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Can you resend the login instructions?",
+      "swedish": "Kan du skicka inloggningsuppgifterna igen, snälla?",
+      "transliteration": "Kan du SKICKa inLOGgningsuppGIFterna IGEN, SNÄLLA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Let me know if you approve this.",
+      "swedish": "Säg till om du godkänner detta.",
+      "transliteration": "SÄg till om du GODkänner DEtta.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Welcome little wins, celebrate them",
+      "swedish": "Välkomna små segrar, fira dem",
+      "transliteration": "Välkomna små SEGRAR, FIRa dem",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Let your heart feel safe today",
+      "swedish": "Låt ditt hjärta känna sig trygg i dag",
+      "transliteration": "Låt ditt HJÄRta KÄNNA sig TRYGG i dag",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Write one good thing down",
+      "swedish": "Skriv ner en bra sak i dag",
+      "transliteration": "Skriv ner en BRA sak i dag",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Move your body, feel happier fast",
+      "swedish": "Rör på dig, känn dig lyckligare",
+      "transliteration": "RÖR på DIG, känn dig LYCKLIGARE",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Choose curiosity over worrying tonight",
+      "swedish": "Välj nyfikenhet i stället för oro ikväll",
+      "transliteration": "VÄLJ NYFIKENHET i STÄLLET för ORO IKVÄLL",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Talk to yourself with kindness",
+      "swedish": "Prata med dig själv som med en vän",
+      "transliteration": "PRATA med dig SJÄLV som med en VÄN",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Enjoy your coffee, slowly, just once",
+      "swedish": "Njut av din kaffe, långsamt, bara en stund",
+      "transliteration": "Njut av din KAFfe, LÅNGsamt, baRA en STUND",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Say it with patience, not pressure",
+      "swedish": "Säg det med tålamod, inte press",
+      "transliteration": "SÄG det meT TÅLmod, INTE PRESS",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Include someone, even if it’s awkward",
+      "swedish": "Bjud in någon, även om det känns stelt",
+      "transliteration": "BJUd IN nåNn, ÄVEn om det kÄNns stelt",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Offer a calm voice when tensions rise",
+      "swedish": "Ge en lugn röst när det blir spänningar",
+      "transliteration": "GE eN lUGn RÖST när det bLIr SPÄnningar",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Thank the cashier, really mean it",
+      "swedish": "Tacka kassören, verkligen menar du det",
+      "transliteration": "TACKa kaSSÖren, VERkligen MENar du det",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Walk slower so they don’t feel rushed",
+      "swedish": "Gå lite långsammare, så den andra hinner med",
+      "transliteration": "GÅ liTE LÅngsammare, SÅ den ANDra HINNER med",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Give space, and be there if needed",
+      "swedish": "Ge utrymme, och var där om det behövs",
+      "transliteration": "GE uTRyMMe, OCH VAR där OM det behöVS",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Help clean up, no big dramatic talk",
+      "swedish": "Hjälp till att plocka undan, utan stora ord",
+      "transliteration": "HJÄlp tiLL att PLocka uNDan, utan SToRA ORd",
+      "category": "Kindness",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "How much for this, please?",
+      "swedish": "Vad kostar den här, tack?",
+      "transliteration": "VAD KOSTAR den HAR, tack?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Is there a loyalty discount?",
+      "swedish": "Har ni rabatt för lojalitetskunder?",
+      "transliteration": "HAR ni RABATT för LOJALITETSKUNDER?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Can I see the receipt price?",
+      "swedish": "Kan jag få se priset på kvittot?",
+      "transliteration": "KAN jag FA se PRIset på KVittot?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Do you accept cash as well?",
+      "swedish": "Tar ni även kontanter?",
+      "transliteration": "TAR ni ÄVen KONtANter?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Is the price per piece or set?",
+      "swedish": "Gäller priset per styck eller set?",
+      "transliteration": "GÄLLER priSET per STYCK eller set?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Can I exchange it if it fits?",
+      "swedish": "Kan jag byta om den passar?",
+      "transliteration": "KAN jag BYta om den PASSar?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
+    },
+    {
+      "english": "Do you price your items at sale?",
+      "swedish": "Finns det rea-priser på den här varan?",
+      "transliteration": "FINns det REA-priSER på den HÄR vaRAN?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-21T22:22:35.549105"
     }
   ],
-  "last_updated": "2026-11-20T23:22:25.264266"
+  "last_updated": "2026-11-21T22:22:35.549105"
 }
