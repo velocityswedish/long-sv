@@ -367,7 +367,39 @@
     {
       "category": "Shopping & Prices",
       "date": "2026-11-21"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-22"
     }
   ],
-  "last_updated": "2026-11-21T22:22:35.561080"
+  "last_updated": "2026-11-22T22:47:21.540112"
 }
