@@ -18075,7 +18075,399 @@
       "transliteration": "Ja BÖRJAR DAGEN MED att STRETCHA.",
       "category": "Daily Routine",
       "generated_at": "2026-11-22T22:47:21.524369"
+    },
+    {
+      "english": "Can we tidy one drawer together?",
+      "swedish": "Kan vi städa en låda tillsammans?",
+      "transliteration": "KAN vi STÄda en LÅDA TILLsammans?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I’ll check on dinner, just a sec.",
+      "swedish": "Jag kollar på maten, bara en liten stund.",
+      "transliteration": "JAG KOLlar på MAten, baRA en LITEN STUND.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Where should the mail go today?",
+      "swedish": "Vart ska posten ligga idag?",
+      "transliteration": "VART ska POSten LIGga I DAG?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Let’s set the table, nice and calm.",
+      "swedish": "Vi dukar fram bordet, lugnt och fint.",
+      "transliteration": "VI DUKar FRAM BORdet, LUGnt och FINT.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I love how home feels with you.",
+      "swedish": "Jag älskar hur hemmet känns med dig.",
+      "transliteration": "JAG ÄLSkar HUR HEMmet KÄNns MED dig.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Do you want help with homework?",
+      "swedish": "Vill du ha hjälp med läxan?",
+      "transliteration": "VILL du ha HJÄLP med LÄxan?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I’ll take the laundry this evening.",
+      "swedish": "Jag tar tvätten ikväll.",
+      "transliteration": "JAG TAR T VÄTten IKväll.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Your calm makes me want to try.",
+      "swedish": "Din lugn energi gör att jag vill försöka.",
+      "transliteration": "Din LUGN ENERGI gör att jag VILL försöka.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I’m inspired by your patience today.",
+      "swedish": "Jag blir inspirerad av din tålamod idag.",
+      "transliteration": "Jag blir INSPIRERAD av ditt TÅLAMOD idag.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Let’s turn nerves into focus, okay?",
+      "swedish": "Låt oss göra nervositet till fokus, okej?",
+      "transliteration": "LÅT oss GÖRA nervositet till FOKUS, OKEJ?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Your kindness keeps my motivation alive.",
+      "swedish": "Din omtanke håller min motivation vid liv.",
+      "transliteration": "Din OM TANKE håller min M OTIVATION vid LIV.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I can do this, one step more.",
+      "swedish": "Jag kan klara det här, ett steg till.",
+      "transliteration": "Jag kan KLARA det HÄR, ett STEG till.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "You make my future feel possible.",
+      "swedish": "Du får min framtid att kännas möjlig.",
+      "transliteration": "Du får min FRAMTID att kännas MÖJLIG.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I love how you cheer me on.",
+      "swedish": "Jag gillar hur du hejar på mig.",
+      "transliteration": "Jag GILLAR hur du HEJAR på MIG.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I’d like to check my balance now.",
+      "swedish": "Jag vill kolla saldot nu, tack.",
+      "transliteration": "Jaɡ vill KOL-la SAL-dot NU täck",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "How long does a card replacement take?",
+      "swedish": "Hur lång tid tar ett nytt kort?",
+      "transliteration": "HUR lång TID tar ETT NYTT KORT",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I think there’s a duplicate charge.",
+      "swedish": "Jag tror att debiteringen är dubbel.",
+      "transliteration": "Jaɡ TROR att DE-bi-te-Ring-en är DUB-bel",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Can you explain this interest rate?",
+      "swedish": "Kan du förklara räntan här?",
+      "transliteration": "KAN du FÖr-kla-ra RÄN-tan HÄR",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I want to see my transaction history.",
+      "swedish": "Jag vill se min kontohistorik.",
+      "transliteration": "Jaɡ VILL se MIN KON-to-HIS-to-rik",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Is this transfer instant or delayed?",
+      "swedish": "Är den här överföringen direkt eller fördröjd?",
+      "transliteration": "Är DEN HÄR Över-FÖR-in-gen DIREKT el-ler FÖR-dröjd",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I need help switching my payment method.",
+      "swedish": "Jag behöver hjälp att byta betalningssätt.",
+      "transliteration": "Jaɡ BEHÖ-ver HJÄLP att BY-ta BE-tal-NINGS-sätt",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Is this bus going downtown?",
+      "swedish": "Går den här bussen in till centrum?",
+      "transliteration": "Går den HAR hÄr BUSsen IN till CENTrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Does this ticket work for transfers?",
+      "swedish": "Gäller biljetten för byten också?",
+      "transliteration": "GÄller BILjetten FÖr BYten också?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "How long is the ride to there?",
+      "swedish": "Ungefär hur lång tid tar det dit?",
+      "transliteration": "U ngefÄr HUR LÅNG tid TAR det dit?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I have a monthly pass, thanks.",
+      "swedish": "Jag har ett månadskort, tack.",
+      "transliteration": "Jag HAR ett MåNadsKORT, tack.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Can you point me to platform three?",
+      "swedish": "Kan du visa mig till spår tre?",
+      "transliteration": "KAN du VIisa MIG till SPÅR tre?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Is there service tonight or not?",
+      "swedish": "Går det trafik i kväll också, eller inte?",
+      "transliteration": "GÅr det TRAfik i kvÄll också, elER INTE?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Please let me out at next stop.",
+      "swedish": "Ursäkta, får jag hoppa av vid nästa hållplats?",
+      "transliteration": "U RSEkta, får jag HÖPpa AV vid NÄsta HÅllplats?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "What time is check-in, exactly?",
+      "swedish": "Vilken tid är incheckningen, exakt?",
+      "transliteration": "VI-lken TI-d är IN-chek-ning-en, EX-akT?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Can I get an early check-in?",
+      "swedish": "Kan jag få tidig incheckning?",
+      "transliteration": "KAN jag få TID-ig IN-chek-ning?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "How do I lock the door?",
+      "swedish": "Hur låser jag dörren?",
+      "transliteration": "HUR LÅ-ser jag DÖR-ren?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Do you have free parking nearby?",
+      "swedish": "Finns det gratis parkering i närheten?",
+      "transliteration": "FINNS det GRA-tis PAR-KE-ring i NÄR-heten?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "swedish": "Var kan jag växla pengar?",
+      "transliteration": "VAR kan jag VÄX-la PEN-gar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Is there a kettle in the room?",
+      "swedish": "Finns det en vattenkokare på rummet?",
+      "transliteration": "FINNS det en VAT-ten-KOK-a-re på RUM-met?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Do I get extra towels if needed?",
+      "swedish": "Kan jag få extra handdukar vid behov?",
+      "transliteration": "KAN jag få EX-tra HAND-du-kar VID be-HOV?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I set one bold intention today.",
+      "swedish": "Jag sätter en djärv intention i dag.",
+      "transliteration": "Jag sätter en DJÄRV intention i dag.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I make room for better habits.",
+      "swedish": "Jag gör plats för bättre vanor.",
+      "transliteration": "Jag gör plats för BÄTTRE vanor.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I track what actually works for me.",
+      "swedish": "Jag följer upp vad som faktiskt fungerar för mig.",
+      "transliteration": "Jag FÖLJER upp vad som FAKTISKT fungerar för MIG.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I commit to a tiny daily step.",
+      "swedish": "Jag lovar mig själv ett litet steg varje dag.",
+      "transliteration": "Jag LOVAR mig själv ett litet STEG varje dag.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I stop negotiating with my priorities.",
+      "swedish": "Jag slutar förhandla bort mina prioriteringar.",
+      "transliteration": "Jag SLUTAR förhandla bort mina PRIORITERINGAR.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I turn setbacks into useful feedback.",
+      "swedish": "Jag gör bakslag till användbar feedback.",
+      "transliteration": "Jag GÖR bakslag till ANVÄNDBAR feedback.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I ask, then I learn by doing.",
+      "swedish": "Jag frågar, och sen lär jag mig genom att göra.",
+      "transliteration": "Jag FRÅGAR, och SEN lär jag mig genom att GÖRA.",
+      "category": "Growth",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I feel joy bubbling up inside me",
+      "swedish": "Jag känner glädje som bubblar i mig",
+      "transliteration": "Jag KÄNNER glädje som BUBBLAR i mig",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "This joy makes everything feel possible",
+      "swedish": "Den här glädjen gör att allt känns möjligt",
+      "transliteration": "Den HÄR glädjen gör att ALLT känns MÖJLIGT",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I just got a happy rush",
+      "swedish": "Jag fick nyss ett lyckorus",
+      "transliteration": "Jag FICK nyss ett LYCKORUS",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "My day suddenly has bright colors",
+      "swedish": "Hela dagen får plötsligt färg och ljus",
+      "transliteration": "HELA dagen FÅR plötsligt FÄRG och LJUS",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I’m smiling without trying, honestly",
+      "swedish": "Jag ler utan att försöka, på riktigt",
+      "transliteration": "Jag LER utan att FÖRSÖKA, på RIKTIGT",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "My chest feels warm and open",
+      "swedish": "Bröstet känns varmt och öppet",
+      "transliteration": "BRÖSTET känns VARMT och ÖPPET",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Joy is in the air today",
+      "swedish": "Glädjen ligger i luften idag",
+      "transliteration": "GLÄDJEN ligger i LUFTEN idag",
+      "category": "Joy",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I trade screens for sketching.",
+      "swedish": "Jag byter skärmar mot att skissa.",
+      "transliteration": "jag BYTER SKÄRMAR mOT att SKISSA",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Tonight I host a game night.",
+      "swedish": "Ikväll bjuder jag på spelkväll.",
+      "transliteration": "IKVÄLL bJUDER jag på SPelkväll",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I go for a swim, no rush.",
+      "swedish": "Jag simmar, utan att stressa.",
+      "transliteration": "jag SIMmar UTAN att STRESSA",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I bring flowers to my reading spot.",
+      "swedish": "Jag tar med blommor till min läshörna.",
+      "transliteration": "jag tar MED BLommor till min LÄS-hÖRna",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I learn one chord and stop.",
+      "swedish": "Jag lär mig ett ackord, sen slutar jag.",
+      "transliteration": "jag LÄR mig ETT ACKORD, sen SLUTAR jag",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "Baking calms me down fast.",
+      "swedish": "Att baka lugnar mig snabbt.",
+      "transliteration": "att BAKA LUGNAR mig SNABBT",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
+    },
+    {
+      "english": "I call a friend, then I roam.",
+      "swedish": "Jag ringer en vän, sen går jag ut.",
+      "transliteration": "jag RINGER en VÄN, sen GÅR jag UT",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T03:30:21.510495"
     }
   ],
-  "last_updated": "2026-11-22T22:47:21.524369"
+  "last_updated": "2026-11-24T03:30:21.510495"
 }

@@ -399,7 +399,39 @@
     {
       "category": "Daily Routine",
       "date": "2026-11-22"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-24"
     }
   ],
-  "last_updated": "2026-11-22T22:47:21.540112"
+  "last_updated": "2026-11-24T03:30:21.526350"
 }
