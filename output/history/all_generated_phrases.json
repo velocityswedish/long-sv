@@ -18859,7 +18859,399 @@
       "transliteration": "inGEN dramAatik, jag TAR NÄSTa steG",
       "category": "Strength",
       "generated_at": "2026-11-25T01:36:27.434943"
+    },
+    {
+      "english": "I celebrate effort, not just results.",
+      "swedish": "Jag firar ansträngningen, inte bara resultaten.",
+      "transliteration": "Jag FIRAR ansträngningen, INTE bara RESULTATEN.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Discipline beats mood today.",
+      "swedish": "Disciplin slår humöret idag.",
+      "transliteration": "DISCIPlIN slår HU-möret I DAG.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I choose what I can control now.",
+      "swedish": "Jag väljer det jag kan kontrollera nu.",
+      "transliteration": "Jag VÄLJER det JAG kan KONtrollera NU.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I ask, then I take the next step.",
+      "swedish": "Jag frågar, och tar nästa steg.",
+      "transliteration": "Jag FRÅgar, och TAR nästa STEG.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "My standards are kind, not cruel.",
+      "swedish": "Mina krav är snälla, inte grymma.",
+      "transliteration": "Mina KRAV är SNÄLLA, INTE grymma.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I protect my focus like it matters.",
+      "swedish": "Jag skyddar mitt fokus, som om det betyder allt.",
+      "transliteration": "Jag SKYDDAR mitt FOKUS, som om det BETYDER allt.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I practice until it feels natural.",
+      "swedish": "Jag tränar tills det känns naturligt.",
+      "transliteration": "Jag TRÄNAR tills det KÄNNS NATU-rLIGT.",
+      "category": "Success",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I claim space, with kindness",
+      "swedish": "Jag tar plats, med vänlighet",
+      "transliteration": "JaG TAR plats, med VÄNlighet",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I start before I feel ready",
+      "swedish": "Jag börjar innan jag känner mig redo",
+      "transliteration": "JaG BÖrjar INnan jaG KÄnner mig REDo",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "My fear can ride shotgun",
+      "swedish": "Min rädsla kan sitta med i bilen",
+      "transliteration": "MIN RÄdsla kan SITta MED i BILen",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I can be nervous and honest",
+      "swedish": "Jag kan vara nervös och ärlig",
+      "transliteration": "JaG kan VaRa nerVÖS och ÄRLIG",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I set boundaries, no extra explanations",
+      "swedish": "Jag sätter gränser, utan fler förklaringar",
+      "transliteration": "JaG SÄtter GRÄnser, UTan FLER FÖRklaringar",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I speak, then I let it land",
+      "swedish": "Jag säger det, och låter det landa",
+      "transliteration": "JaG SÄger DET, och LÅter det LANda",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I practice, not perform",
+      "swedish": "Jag övar, inte uppträder",
+      "transliteration": "JaG Övar, INte UPpträder",
+      "category": "Confidence",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I’d like to order now, please.",
+      "swedish": "Jag vill beställa nu, tack.",
+      "transliteration": "Ja vill BESTÄLLA nu, tack.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Can we see the wine list?",
+      "swedish": "Kan vi få se vinlistan, tack?",
+      "transliteration": "Kan vi få se VIN-listan, tack?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "What comes with the burger?",
+      "swedish": "Vad ingår till burgaren?",
+      "transliteration": "VAD in-går till BUR-ga-ren?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Do you have kids meals?",
+      "swedish": "Har ni barnportioner?",
+      "transliteration": "Har ni BARN-por-tion-er?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "How spicy is that sauce?",
+      "swedish": "Hur stark är den såsen?",
+      "transliteration": "HUR stark är den SÅSEN?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Could I get it without cheese?",
+      "swedish": "Kan jag få det utan ost?",
+      "transliteration": "Kan jag få det UTAN ost?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Is there a vegetarian option today?",
+      "swedish": "Finns det något vegetariskt alternativ idag?",
+      "transliteration": "FInns det nåt VEGE-ta-riskt al-TER-nativ I-dag?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Do you have a spare party hat?",
+      "swedish": "Har du en extra festhatt?",
+      "transliteration": "HAR du en EX-tra FEST-hatt?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "We should light the candles now.",
+      "swedish": "Vi tänder ljusen nu.",
+      "transliteration": "VI TÄN-der LJUS-en NU.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I brought a dessert, it s homemade.",
+      "swedish": "Jag tog med en dessert, den är hembakad.",
+      "transliteration": "JAG TOG MED en des-SERT, den ÄR heM-bak-ad.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Who s DJing tonight, any requests?",
+      "swedish": "Vem är DJ ikväll, har ni önskemål?",
+      "transliteration": "VEM är DJ IK-väll, HAR ni ON-ske-MÅL?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Let s do a toast for everyone.",
+      "swedish": "Skål för allihop.",
+      "transliteration": "SKÅL för all-iHOP.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "The music is perfect for dancing.",
+      "swedish": "Musiken är perfekt för att dansa.",
+      "transliteration": "MU-si-ken är PER-fekt för att DANS-a.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Are there any fun party games?",
+      "swedish": "Finns det några roliga lekar?",
+      "transliteration": "FINS det NÅG-ra RO-li-ga LE-kär?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "What’s the point, in simple terms?",
+      "swedish": "Vad är poängen, i enkla ord?",
+      "transliteration": "VAD äR POÄNGEN, i EKLA ORd",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I’m doing this to feel safer.",
+      "swedish": "Jag gör det här för att känna mig tryggare.",
+      "transliteration": "JA gÖR däR hÄR FÖR att KÄNNA mig TRYGGare",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "This is for my personal progress.",
+      "swedish": "Det här är för min personliga utveckling.",
+      "transliteration": "DET hÄR äR FÖR min PERsonliga UTVECKling",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Help me understand the goal behind it.",
+      "swedish": "Hjälp mig att förstå målet bakom det.",
+      "transliteration": "HJÄLP mig att FÖRSTÅ MÅlet BAKom det",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I need a clear reason for it.",
+      "swedish": "Jag behöver en tydlig anledning till det.",
+      "transliteration": "JA BEHÖVER en Tydlig ANledNIng till DET",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Can you tell me why this matters?",
+      "swedish": "Kan du säga varför det här spelar roll?",
+      "transliteration": "KAN du SÄGA VAFÖR däR hÄR SPÄLlar roll",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I’m learning this so I can manage.",
+      "swedish": "Jag lär mig det här så att jag kan klara mig.",
+      "transliteration": "JA LÄR mig däR hÄR SÅ att JA kan KLARA MIG",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I forgive, and I stay kind.",
+      "swedish": "Jag förlåter, och jag förblir snäll.",
+      "transliteration": "jaG FÖRÅLÅTER, och jag FÖRblir SNÄLL",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Forgive them, but keep space.",
+      "swedish": "Förlåt dem, men håll avstånd.",
+      "transliteration": "FÖRlåT dem, men HÅLL avstånd",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I stop replaying it in my head.",
+      "swedish": "Jag slutar älta det i huvudet.",
+      "transliteration": "jaG SLUTAR ÄLta det i HUVudet",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Let forgiveness be your next breath.",
+      "swedish": "Låt förlåtelsen bli ditt nästa andetag.",
+      "transliteration": "låt FÖRlåTelsen bli ditt NÄSTA ANDetag",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I choose understanding over blame today.",
+      "swedish": "Jag väljer förståelse före skuld idag.",
+      "transliteration": "jaG VÄLjer FÖRSTÅelse FÖre SKULD iDAG",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I forgive, and I ask for peace.",
+      "swedish": "Jag förlåter, och jag ber om frid.",
+      "transliteration": "jaG FÖRåLÅter, och jaG bER om FRID",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "It wasn't okay, yet I forgive.",
+      "swedish": "Det var inte okej, ändå förlåter jag.",
+      "transliteration": "det vaR inte Okej, ÄNDÅ FÖRlåter jag",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "When should we start the hike?",
+      "swedish": "När ska vi börja vandringen?",
+      "transliteration": "NÄR ska vi BÖRJA VA'NDRINGEN?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Let’s decide tonight, not later.",
+      "swedish": "Vi bestämmer ikväll, inte senare.",
+      "transliteration": "VI BESTÄMMER IKVÄLL, INTE SENARE.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "I’d like to plan our route.",
+      "swedish": "Jag vill planera vår rutt.",
+      "transliteration": "JAG VILL PLANERa VÅR RUTT.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Can we move it to Sunday?",
+      "swedish": "Kan vi flytta det till söndag?",
+      "transliteration": "KAN vi FLYTTA det TILL SÖNDAG?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "What’s your availability this week?",
+      "swedish": "Vilken är din tillgänglighet den här veckan?",
+      "transliteration": "VILken är din TILLGÄNGLIGHET den HÄR VECKAN?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Let’s set reminders so we don’t forget.",
+      "swedish": "Vi sätter påminnelser så vi inte glömmer.",
+      "transliteration": "VI SÄTTER PÅMINnelser SÅ vi INTE GLÖMMER.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Do you prefer morning or afternoon?",
+      "swedish": "Föredrar du morgon eller eftermiddag?",
+      "transliteration": "FÖRDRAR du MORGON eller EFTERMIDDAG?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Ask, then listen, truly listen.",
+      "swedish": "Fråga först, och lyssna på riktigt.",
+      "transliteration": "FRÅGA först, och LYS SNA på RIKTIGT.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Choose honesty that still protects.",
+      "swedish": "Välj ärlighet som ändå skyddar.",
+      "transliteration": "VÄLJ ÄR LIGHET som ÄNDÅ SKYD DAR.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Let your actions match your values.",
+      "swedish": "Låt dina handlingar följa dina värderingar.",
+      "transliteration": "LÅT di na HAND ling ar FÖLJA di na VÄR DE ring ar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Repair quickly when you mess up.",
+      "swedish": "Reparera snabbt när du gör fel.",
+      "transliteration": "RE PARA snabbt när du gör FEL.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Slow down to see the real problem.",
+      "swedish": "Bromsa lite för att se vad som faktiskt är problemet.",
+      "transliteration": "BROM SA lite för att SE vad som fak TISKT är PRO BLE met.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Be kind, but keep your boundaries.",
+      "swedish": "Var snäll, men håll dina gränser.",
+      "transliteration": "VAR SNÄLL, men HÅLL di na GRÄN ser.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
+    },
+    {
+      "english": "Turn mistakes into useful information.",
+      "swedish": "Gör misstag till användbar information.",
+      "transliteration": "GÖR MISSTAG till an VÄND bar IN FOR MA tion.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T01:10:14.285582"
     }
   ],
-  "last_updated": "2026-11-25T01:36:27.434943"
+  "last_updated": "2026-11-26T01:10:14.285582"
 }
